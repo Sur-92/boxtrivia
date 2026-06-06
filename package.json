@@ -13,6 +13,8 @@
     "build:mac": "electron-vite build && electron-builder --mac",
     "test": "node --test \"tests/*.test.ts\"",
     "validate:games": "node scripts/validate-games.ts",
+    "seed:db": "node scripts/seed-db.ts",
+    "export:review": "node scripts/export-review.ts",
     "typecheck": "tsc --noEmit -p tsconfig.node.json && tsc --noEmit -p tsconfig.web.json",
     "rebuild": "electron-builder install-app-deps",
     "setup": "npm install --ignore-scripts && node node_modules/electron/install.js && electron-builder install-app-deps"
