@@ -1,0 +1,160 @@
+{
+  "title": "Set 9",
+  "categories": [
+    {
+      "name": "Sci-Fi & Fantasy",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This black-helmeted Sith Lord turned out to be Luke Skywalker's father.",
+          "response": "Who is Darth Vader?"
+        },
+        {
+          "value": 400,
+          "clue": "This dark lord of Mordor forged the One Ring to rule Middle-earth.",
+          "response": "Who is Sauron?"
+        },
+        {
+          "value": 600,
+          "clue": "This relentless suited program hunted Neo through the simulated world of the Matrix.",
+          "response": "Who is Agent Smith?"
+        },
+        {
+          "value": 800,
+          "clue": "This dark wizard, 'He-Who-Must-Not-Be-Named,' sought immortality via Horcruxes.",
+          "response": "Who is Voldemort?"
+        },
+        {
+          "value": 1000,
+          "clue": "This shape-shifting, liquid-metal assassin model was sent to kill John Connor.",
+          "response": "What is the T-1000?"
+        }
+      ]
+    },
+    {
+      "name": "Game Pieces",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Classic Monopoly tokens include a top hat, a thimble and this Scottie figure.",
+          "response": "What is the dog?"
+        },
+        {
+          "value": 400,
+          "clue": "Chess sets include pawns, rooks, bishops, knights, a queen and this most important royal.",
+          "response": "What is the king?"
+        },
+        {
+          "value": 600,
+          "clue": "Connect Four players take turns dropping these colored plastic discs into a grid.",
+          "response": "What are checkers?"
+        },
+        {
+          "value": 800,
+          "clue": "In Operation, you extract plastic ailments using these metal pincers.",
+          "response": "What are tweezers?"
+        },
+        {
+          "value": 1000,
+          "clue": "In Sorry!, players slide these colored plastic playing pieces around the track.",
+          "response": "What are pawns?"
+        }
+      ]
+    },
+    {
+      "name": "Space Missions",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This 1969 NASA mission first landed humans on the lunar surface.",
+          "response": "What is Apollo 11?"
+        },
+        {
+          "value": 400,
+          "clue": "This reusable winged NASA spacecraft flew from 1981 until its retirement in 2011.",
+          "response": "What is the Space Shuttle?"
+        },
+        {
+          "value": 600,
+          "clue": "This orbiting observatory, launched in 1990, is named for an American astronomer.",
+          "response": "What is the Hubble Space Telescope?"
+        },
+        {
+          "value": 800,
+          "clue": "The 'Perseverance' rover currently explores this red world.",
+          "response": "What is Mars?"
+        },
+        {
+          "value": 1000,
+          "clue": "This crewed orbital laboratory, abbreviated ISS, has hosted astronauts since 2000.",
+          "response": "What is the International Space Station?"
+        }
+      ]
+    },
+    {
+      "name": "Finish the Lyric",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "The Gilligan's Island theme says the castaways set out on 'a three-hour' this.",
+          "response": "What is tour?"
+        },
+        {
+          "value": 400,
+          "clue": "The Brady Bunch theme calls it 'the story of a lovely' this.",
+          "response": "What is lady?"
+        },
+        {
+          "value": 600,
+          "clue": "The Flintstones theme promises 'we'll have a gay old' this.",
+          "response": "What is time?"
+        },
+        {
+          "value": 800,
+          "clue": "The Cheers theme longs for a place 'where everybody knows your' this.",
+          "response": "What is name?"
+        },
+        {
+          "value": 1000,
+          "clue": "The Addams Family theme tells listeners to do this twice with their fingers.",
+          "response": "What is snap?"
+        }
+      ]
+    },
+    {
+      "name": "Real Famous Animals",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Every February 2, this Pennsylvania groundhog \"predicts\" the weather.",
+          "response": "Who is Punxsutawney Phil?"
+        },
+        {
+          "value": 400,
+          "clue": "\"Crocodile Hunter\" Steve Irwin was a beloved wildlife expert from this country.",
+          "response": "What is Australia?"
+        },
+        {
+          "value": 600,
+          "clue": "This is Steve Irwin's signature one-word exclamation of excitement.",
+          "response": "What is \"Crikey!\"?"
+        },
+        {
+          "value": 800,
+          "clue": "In 2006 this Berlin Zoo polar bear cub became a worldwide media sensation.",
+          "response": "Who is Knut?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 2002's \"The Crocodile Hunter: Collision Course,\" Irwin co-starred with this real-life wife.",
+          "response": "Who is Terri Irwin?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Constellations",
+    "clue": "This mythological hunter constellation is easily spotted by its three-star 'belt.'",
+    "response": "What is Orion?"
+  }
+}

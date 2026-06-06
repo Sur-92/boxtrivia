@@ -14,8 +14,9 @@ npm run setup   # install deps + rebuild native better-sqlite3 for Electron
 npm run dev     # launch in development
 ```
 
-Then click **Load sample game** to play the bundled "Early 2000s Pop Animals"
-board, or **Import JSON…** to load your own.
+Then click **Load all bundled games** to add Set 1–Set 15 (each a Jeopardy-style
+mix of five unrelated categories) to the database, or **Import JSON…** to load
+your own board.
 
 ## How a game runs
 
@@ -38,7 +39,7 @@ memory — ending a game resets them, and any game can be replayed.
 ## Authoring games (JSON format)
 
 Drop a `.json` file matching this shape and import it. See
-[`games/early-2000s-pop-animals.json`](games/early-2000s-pop-animals.json) for a
+[`games/set-01.json`](games/set-01.json) for a
 full example.
 
 Import is **strict**: the file is validated against the authoring rules in

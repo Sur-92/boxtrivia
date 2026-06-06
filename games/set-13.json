@@ -1,0 +1,160 @@
+{
+  "title": "Set 13",
+  "categories": [
+    {
+      "name": "Slogans",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "'Snap, Crackle, Pop' are the three elf mascots of this crispy rice cereal.",
+          "response": "What are Rice Krispies?"
+        },
+        {
+          "value": 400,
+          "clue": "'Kid tested, mother approved' has long pitched this General Mills cereal.",
+          "response": "What is Kix?"
+        },
+        {
+          "value": 600,
+          "clue": "'The Breakfast of Champions' is the boast of this athlete-endorsed wheat-flake cereal.",
+          "response": "What is Wheaties?"
+        },
+        {
+          "value": 800,
+          "clue": "'Follow your nose' guides Toucan Sam to this Kellogg's fruity-ring cereal.",
+          "response": "What is Froot Loops?"
+        },
+        {
+          "value": 1000,
+          "clue": "'They're magically delicious' describes the marshmallows in this Lucky charm cereal.",
+          "response": "What is Lucky Charms?"
+        }
+      ]
+    },
+    {
+      "name": "Team Nicknames",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This New York baseball club, the 'Bronx Bombers,' has won 27 World Series.",
+          "response": "Who are the Yankees?"
+        },
+        {
+          "value": 400,
+          "clue": "This Green Bay NFL team takes its name from a meatpacking sponsor.",
+          "response": "Who are the Packers?"
+        },
+        {
+          "value": 600,
+          "clue": "This Boston NBA team sports a leprechaun logo and 17 banners.",
+          "response": "Who are the Celtics?"
+        },
+        {
+          "value": 800,
+          "clue": "Fans of this 'Steel City' NFL team wave Terrible Towels.",
+          "response": "Who are the Steelers?"
+        },
+        {
+          "value": 1000,
+          "clue": "This Pittsburgh NHL club, 'the Pens,' has won multiple Stanley Cups.",
+          "response": "Who are the Penguins?"
+        }
+      ]
+    },
+    {
+      "name": "Modern Board Games",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "In this island game, players gather brick, wood, sheep, wheat and ore to build settlements.",
+          "response": "What is Catan?"
+        },
+        {
+          "value": 400,
+          "clue": "In this cooperative game, players race to cure four diseases sweeping the globe.",
+          "response": "What is Pandemic?"
+        },
+        {
+          "value": 600,
+          "clue": "In this game, players collect colored cards to claim cross-country rail routes.",
+          "response": "What is Ticket to Ride?"
+        },
+        {
+          "value": 800,
+          "clue": "In this tile-laying game, you place 'meeples' on a growing medieval French landscape.",
+          "response": "What is Carcassonne?"
+        },
+        {
+          "value": 1000,
+          "clue": "In this hidden-role party game, villagers try to unmask the secret lycanthropes among them.",
+          "response": "What is Werewolf?"
+        }
+      ]
+    },
+    {
+      "name": "Name the Cereal",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "These ring-shaped oat pieces in a yellow box are pitched as heart-healthy.",
+          "response": "What are Cheerios?"
+        },
+        {
+          "value": 400,
+          "clue": "These frosted, shredded-wheat pillows come in a 'bite size' version.",
+          "response": "What are Frosted Mini-Wheats?"
+        },
+        {
+          "value": 600,
+          "clue": "These sugar-dusted square pieces are hawked by mischievous cartoon bakers.",
+          "response": "What is Cinnamon Toast Crunch?"
+        },
+        {
+          "value": 800,
+          "clue": "These pieces are shaped like the 26 characters of the alphabet.",
+          "response": "What are Alpha-Bits?"
+        },
+        {
+          "value": 1000,
+          "clue": "These fruity pebble-shaped bits are tied to a Stone Age cartoon family.",
+          "response": "What are Fruity Pebbles?"
+        }
+      ]
+    },
+    {
+      "name": "The Sun & Moon",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This blazing star sits at the center of our solar system.",
+          "response": "What is the Sun?"
+        },
+        {
+          "value": 400,
+          "clue": "This is Earth's one and only natural satellite.",
+          "response": "What is the Moon?"
+        },
+        {
+          "value": 600,
+          "clue": "A solar one of these happens when our satellite passes directly in front of the Sun.",
+          "response": "What is an eclipse?"
+        },
+        {
+          "value": 800,
+          "clue": "The Sun is composed mostly of this lightest chemical element.",
+          "response": "What is hydrogen?"
+        },
+        {
+          "value": 1000,
+          "clue": "The Moon's gravity is the main driver of these twice-daily ocean rises and falls.",
+          "response": "What are tides?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Closing Words",
+    "clue": "The 1939 classic 'The Wizard of Oz' ends with Dorothy clicking her heels and repeating 'there's no place like' this.",
+    "response": "What is home?"
+  }
+}

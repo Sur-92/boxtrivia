@@ -1,0 +1,160 @@
+{
+  "title": "Set 14",
+  "categories": [
+    {
+      "name": "Disney Afternoon",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Scrooge McDuck's grandnephews are Huey, Dewey and this third triplet.",
+          "response": "Who is Louie?"
+        },
+        {
+          "value": 400,
+          "clue": "Chip 'n Dale headed a squad of crime-solving rodents in this 1989 detective series.",
+          "response": "What are the Rescue Rangers?"
+        },
+        {
+          "value": 600,
+          "clue": "In TaleSpin, this easygoing bear pilot flew the cargo plane known as the Sea Duck.",
+          "response": "Who is Baloo?"
+        },
+        {
+          "value": 800,
+          "clue": "Darkwing Duck's heroic catchphrase ended with the line 'Let's get...' this adjective.",
+          "response": "What is dangerous?"
+        },
+        {
+          "value": 1000,
+          "clue": "In Goof Troop, this clumsy Disney everyman raised his son Max.",
+          "response": "Who is Goofy?"
+        }
+      ]
+    },
+    {
+      "name": "Drama & Cartoon Themes",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This composer wrote the bouncy fanfare for 'The Simpsons,' first name Danny.",
+          "response": "Who is Elfman?"
+        },
+        {
+          "value": 400,
+          "clue": "The eerie 'X-Files' theme is famous for being this kind of music, with no words.",
+          "response": "What is instrumental?"
+        },
+        {
+          "value": 600,
+          "clue": "The opening of 'SpongeBob SquarePants' begins by asking, 'Are you ready,' these?",
+          "response": "What are kids?"
+        },
+        {
+          "value": 800,
+          "clue": "The cello-driven 'Game of Thrones' main title was composed by Ramin, last name this.",
+          "response": "Who is Djawadi?"
+        },
+        {
+          "value": 1000,
+          "clue": "The Mary Tyler Moore theme asks if she's 'gonna make it after' this word.",
+          "response": "What is all?"
+        }
+      ]
+    },
+    {
+      "name": "Nicknames & Mottos",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This southeastern state is nicknamed 'The Sunshine State.'",
+          "response": "What is Florida?"
+        },
+        {
+          "value": 400,
+          "clue": "This large state is 'The Lone Star State.'",
+          "response": "What is Texas?"
+        },
+        {
+          "value": 600,
+          "clue": "This state's skeptical nickname is 'The Show-Me State.'",
+          "response": "What is Missouri?"
+        },
+        {
+          "value": 800,
+          "clue": "This northern state is the 'Land of 10,000 Lakes.'",
+          "response": "What is Minnesota?"
+        },
+        {
+          "value": 1000,
+          "clue": "This island state is 'The Aloha State.'",
+          "response": "What is Hawaii?"
+        }
+      ]
+    },
+    {
+      "name": "Their Evil Plans",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "In 'Goldfinger,' the villain schemes to contaminate the U.S. gold reserve at this Kentucky depository.",
+          "response": "What is Fort Knox?"
+        },
+        {
+          "value": 400,
+          "clue": "In 'Despicable Me,' Gru's grand scheme is to steal this entire natural satellite.",
+          "response": "What is the Moon?"
+        },
+        {
+          "value": 600,
+          "clue": "In 'Die Hard,' Hans Gruber's real goal is robbing the vault inside this L.A. high-rise.",
+          "response": "What is Nakatomi Plaza?"
+        },
+        {
+          "value": 800,
+          "clue": "Dr. Evil unfreezes and demands a ransom of this comically modest 'one ... dollars.'",
+          "response": "What is one million dollars?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'Avengers: Infinity War,' Thanos snaps his fingers to erase this fraction of all living things.",
+          "response": "What is half?"
+        }
+      ]
+    },
+    {
+      "name": "Geography",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This northern state is by far the largest in the U.S. by land area.",
+          "response": "What is Alaska?"
+        },
+        {
+          "value": 400,
+          "clue": "This New England state is the smallest in the country by area.",
+          "response": "What is Rhode Island?"
+        },
+        {
+          "value": 600,
+          "clue": "This New England state is the only one bordering just a single other state.",
+          "response": "What is Maine?"
+        },
+        {
+          "value": 800,
+          "clue": "Tennessee and this 'Show-Me' state each touch eight neighboring states.",
+          "response": "What is Missouri?"
+        },
+        {
+          "value": 1000,
+          "clue": "Four states meet at the single point known by this geographic name.",
+          "response": "What is the Four Corners?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Cartoon Sign-Offs",
+    "clue": "This stuttering Looney Tunes character closed many shows with 'Th-th-th-that's all, folks!'",
+    "response": "Who is Porky Pig?"
+  }
+}

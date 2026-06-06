@@ -1,0 +1,160 @@
+{
+  "title": "Set 10",
+  "categories": [
+    {
+      "name": "Origins & Firsts",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "White Castle, opened in 1921, is often credited as the first chain selling these small square patties.",
+          "response": "What are hamburgers?"
+        },
+        {
+          "value": 400,
+          "clue": "The McDonald brothers launched their original stand in San Bernardino, in this U.S. state.",
+          "response": "What is California?"
+        },
+        {
+          "value": 600,
+          "clue": "Colonel Sanders first cooked his secret-recipe chicken at a roadside spot in this Bluegrass State.",
+          "response": "What is Kentucky?"
+        },
+        {
+          "value": 800,
+          "clue": "A standard Subway 'footlong' sandwich measures this many inches.",
+          "response": "What is 12?"
+        },
+        {
+          "value": 1000,
+          "clue": "Before franchising burgers, Ray Kroc sold these five-spindled milkshake machines.",
+          "response": "What are Multimixers?"
+        }
+      ]
+    },
+    {
+      "name": "Gummy & Chewy",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "These translucent, chewy bear-shaped candies come in fruit flavors.",
+          "response": "What are gummy bears?"
+        },
+        {
+          "value": 400,
+          "clue": "These long, twisted red licorice-style ropes are a Hershey's chewy treat.",
+          "response": "What are Twizzlers?"
+        },
+        {
+          "value": 600,
+          "clue": "These individually wrapped, chewy fruit squares are sold in a pink-heavy pack.",
+          "response": "What is Starburst?"
+        },
+        {
+          "value": 800,
+          "clue": "This pulled, pastel boardwalk treat is named for the sea despite containing little of it.",
+          "response": "What is saltwater taffy?"
+        },
+        {
+          "value": 1000,
+          "clue": "Sour gummy worms get their pucker from a coating of this tangy crystalline acid.",
+          "response": "What is citric acid?"
+        }
+      ]
+    },
+    {
+      "name": "Slogans",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "'I'm Lovin' It,' set to a famous five-note jingle, belongs to this arches chain.",
+          "response": "What is McDonald's?"
+        },
+        {
+          "value": 400,
+          "clue": "'Eat Fresh' was long the tagline of this footlong-sandwich chain.",
+          "response": "What is Subway?"
+        },
+        {
+          "value": 600,
+          "clue": "'Think Outside the Bun' urged customers toward this taco-and-burrito chain.",
+          "response": "What is Taco Bell?"
+        },
+        {
+          "value": 800,
+          "clue": "'Finger Lickin' Good' is the classic line of this Colonel's chicken chain.",
+          "response": "What is KFC?"
+        },
+        {
+          "value": 1000,
+          "clue": "'Have It Your Way' was for decades the motto of this Whopper-selling chain.",
+          "response": "What is Burger King?"
+        }
+      ]
+    },
+    {
+      "name": "Medicine & Science",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Alexander Fleming discovered this mold-derived antibiotic in 1928.",
+          "response": "What is penicillin?"
+        },
+        {
+          "value": 400,
+          "clue": "Jonas Salk developed the first effective vaccine against this paralyzing disease.",
+          "response": "What is polio?"
+        },
+        {
+          "value": 600,
+          "clue": "This English doctor pioneered smallpox vaccination using cowpox.",
+          "response": "Who is Edward Jenner?"
+        },
+        {
+          "value": 800,
+          "clue": "Marie Curie won Nobel Prizes for her work on this phenomenon, a term she coined.",
+          "response": "What is radioactivity?"
+        },
+        {
+          "value": 1000,
+          "clue": "Wilhelm Roentgen discovered these penetrating imaging rays in 1895.",
+          "response": "What are X-rays?"
+        }
+      ]
+    },
+    {
+      "name": "Death Scenes",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This aged Jedi lets Vader strike him down, then vanishes leaving empty robes.",
+          "response": "Who is Obi-Wan Kenobi?"
+        },
+        {
+          "value": 400,
+          "clue": "Hitchcock shocked audiences by killing this lead character in an early shower stabbing.",
+          "response": "Who is Marion Crane?"
+        },
+        {
+          "value": 600,
+          "clue": "In 'Titanic,' this poor artist freezes in the Atlantic so Rose can survive on a door.",
+          "response": "Who is Jack Dawson?"
+        },
+        {
+          "value": 800,
+          "clue": "Mufasa is trampled to death in a stampede of these horned plains animals.",
+          "response": "What are wildebeests?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'Old Yeller,' the boy must tearfully shoot his loyal pet after it contracts this disease.",
+          "response": "What is rabies?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Animated Animal Friends",
+    "clue": "Voiced by Ellen DeGeneres, this forgetful blue tang debuted in a 2003 Pixar film and headlined a 2016 sequel of her own.",
+    "response": "Who is Dory?"
+  }
+}

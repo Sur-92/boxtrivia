@@ -1,0 +1,160 @@
+{
+  "title": "Set 8",
+  "categories": [
+    {
+      "name": "Mascots",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This red-haired, yellow-jumpsuited clown has fronted McDonald's ads for decades.",
+          "response": "Who is Ronald McDonald?"
+        },
+        {
+          "value": 400,
+          "clue": "This white-suited, goateed 'Colonel' is the face of a fried chicken empire.",
+          "response": "Who is Colonel Sanders?"
+        },
+        {
+          "value": 600,
+          "clue": "A talking Chihuahua in late-90s ads pined 'Yo quiero...' for this Mexican-style chain.",
+          "response": "What is Taco Bell?"
+        },
+        {
+          "value": 800,
+          "clue": "This chain's ad mascot is a calm executive topped with a giant round white ball for a head.",
+          "response": "What is Jack in the Box?"
+        },
+        {
+          "value": 1000,
+          "clue": "Toucan Sam, who follows his nose, fronts this fruity Kellogg's loop cereal sold at no drive-thru.",
+          "response": "What is Froot Loops?"
+        }
+      ]
+    },
+    {
+      "name": "Villain Henchmen",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Ursula commands two slithering moray henchmen named Flotsam and Jetsam, of this slippery species.",
+          "response": "What are eels?"
+        },
+        {
+          "value": 400,
+          "clue": "Jafar's sarcastic, squawking sidekick is this red-feathered bird.",
+          "response": "Who is Iago?"
+        },
+        {
+          "value": 600,
+          "clue": "Scar's cackling trio includes Shenzi, Banzai and this nonspeaking, giggling one.",
+          "response": "Who is Ed?"
+        },
+        {
+          "value": 800,
+          "clue": "Captain Hook's bumbling, kindly first mate is this fellow.",
+          "response": "Who is Mr. Smee?"
+        },
+        {
+          "value": 1000,
+          "clue": "Maleficent's clumsy foot-soldiers in 'Sleeping Beauty' are this pig-snouted horde.",
+          "response": "What are goons?"
+        }
+      ]
+    },
+    {
+      "name": "Last Words (History)",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Shakespeare gives this betrayed Roman dictator the dying line 'Et tu, Brute?'",
+          "response": "Who is Julius Caesar?"
+        },
+        {
+          "value": 400,
+          "clue": "This patriot regretted having but one of these to give for his country before hanging.",
+          "response": "What is a life?"
+        },
+        {
+          "value": 600,
+          "clue": "Marie Antoinette's reported final apology was for stepping on this person's foot.",
+          "response": "Who is the executioner?"
+        },
+        {
+          "value": 800,
+          "clue": "Naval hero John Paul Jones reportedly declared he had not yet begun to do this.",
+          "response": "What is fight?"
+        },
+        {
+          "value": 1000,
+          "clue": "Inventor Thomas Edison reportedly murmured 'It is very beautiful over' this place.",
+          "response": "What is there?"
+        }
+      ]
+    },
+    {
+      "name": "Athlete Nicknames",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Basketball's 'His Airness' wore number 23 for the Chicago Bulls.",
+          "response": "Who is Michael Jordan?"
+        },
+        {
+          "value": 400,
+          "clue": "This boxer called himself 'The Greatest' and floated like a butterfly.",
+          "response": "Who is Muhammad Ali?"
+        },
+        {
+          "value": 600,
+          "clue": "Hockey's 'Great One' wore number 99 and shattered scoring records.",
+          "response": "Who is Wayne Gretzky?"
+        },
+        {
+          "value": 800,
+          "clue": "This Argentine soccer legend, nicknamed 'D10S,' won the 1986 World Cup.",
+          "response": "Who is Diego Maradona?"
+        },
+        {
+          "value": 1000,
+          "clue": "Baseball's 'Sultan of Swat' clouted 714 career home runs.",
+          "response": "Who is Babe Ruth?"
+        }
+      ]
+    },
+    {
+      "name": "Candy History",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Milton Hershey built an entire company town for his chocolate works in this state.",
+          "response": "What is Pennsylvania?"
+        },
+        {
+          "value": 400,
+          "clue": "Besides candy, the Mars company is a giant maker of this product for cats and dogs.",
+          "response": "What is pet food?"
+        },
+        {
+          "value": 600,
+          "clue": "PEZ began in this European country as a compressed peppermint breath candy.",
+          "response": "What is Austria?"
+        },
+        {
+          "value": 800,
+          "clue": "Candy corn's three traditional bands are white, orange and this.",
+          "response": "What is yellow?"
+        },
+        {
+          "value": 1000,
+          "clue": "The chocolate maker Cadbury was founded in this country, also home to its Dairy Milk bar.",
+          "response": "What is England?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "World Capitals",
+    "clue": "This purpose-built inland city, not Sydney or Melbourne, is the capital of Australia.",
+    "response": "What is Canberra?"
+  }
+}

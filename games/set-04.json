@@ -1,0 +1,160 @@
+{
+  "title": "Set 4",
+  "categories": [
+    {
+      "name": "Princess Companions",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Snow White keeps house for this many diamond-mining dwarfs.",
+          "response": "What is seven?"
+        },
+        {
+          "value": 400,
+          "clue": "In 'Tangled,' Rapunzel's loyal companion is this color-changing reptile, Pascal.",
+          "response": "What is a chameleon?"
+        },
+        {
+          "value": 600,
+          "clue": "In 'The Princess and the Frog,' a trumpet-loving bayou reptile named Louis is this toothy species.",
+          "response": "What is an alligator?"
+        },
+        {
+          "value": 800,
+          "clue": "In 'Moana,' the heroine is stuck at sea with this dim-witted clucking barnyard bird.",
+          "response": "What is a rooster?"
+        },
+        {
+          "value": 1000,
+          "clue": "Sleeping Beauty is raised in the woods by three good ones of these magical winged women.",
+          "response": "What are fairies?"
+        }
+      ]
+    },
+    {
+      "name": "Secret Identities",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Orphaned billionaire Bruce Wayne prowls Gotham at night as this caped figure.",
+          "response": "Who is Batman?"
+        },
+        {
+          "value": 400,
+          "clue": "A scrawny recruit named Steve Rogers takes a super-soldier serum to become this star-spangled hero.",
+          "response": "Who is Captain America?"
+        },
+        {
+          "value": 600,
+          "clue": "Wisecracking mercenary Wade Wilson breaks the fourth wall as this red-suited antihero.",
+          "response": "Who is Deadpool?"
+        },
+        {
+          "value": 800,
+          "clue": "Diana Prince walks among humans while secretly being this Amazon warrior.",
+          "response": "Who is Wonder Woman?"
+        },
+        {
+          "value": 1000,
+          "clue": "Weather-controlling mutant Ororo Munroe leads the X-Men under this codename.",
+          "response": "Who is Storm?"
+        }
+      ]
+    },
+    {
+      "name": "Movie Critters",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This 2003 Pixar film follows a clownfish dad searching the ocean for his son.",
+          "response": "What is Finding Nemo?"
+        },
+        {
+          "value": 400,
+          "clue": "In \"Ice Age\" (2002), this acorn-obsessed saber-toothed squirrel steals every scene.",
+          "response": "Who is Scrat?"
+        },
+        {
+          "value": 600,
+          "clue": "Will Smith voiced Oscar, a fast-talking fish, in this 2004 DreamWorks film.",
+          "response": "What is Shark Tale?"
+        },
+        {
+          "value": 800,
+          "clue": "This 2005 DreamWorks film sends four Central Park Zoo animals to an African island.",
+          "response": "What is Madagascar?"
+        },
+        {
+          "value": 1000,
+          "clue": "In Disney's 2002 \"Lilo & Stitch,\" Stitch is officially designated this experiment number.",
+          "response": "What is 626?"
+        }
+      ]
+    },
+    {
+      "name": "Teams",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Iron Man, Cap and Thor headline this team billed as 'Earth's Mightiest Heroes.'",
+          "response": "Who are the Avengers?"
+        },
+        {
+          "value": 400,
+          "clue": "Superman, Batman and Wonder Woman anchor this premier DC super-team.",
+          "response": "What is the Justice League?"
+        },
+        {
+          "value": 600,
+          "clue": "Professor Charles Xavier mentors this family of mutant heroes.",
+          "response": "Who are the X-Men?"
+        },
+        {
+          "value": 800,
+          "clue": "Star-Lord, Groot and Rocket form this cosmic, wisecracking Marvel squad.",
+          "response": "Who are the Guardians of the Galaxy?"
+        },
+        {
+          "value": 1000,
+          "clue": "Robin, Starfire and Cyborg form this youthful 'Teen' DC team.",
+          "response": "Who are the Titans?"
+        }
+      ]
+    },
+    {
+      "name": "Sitcom Themes",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "'I'll Be There for You' by The Rembrandts opens this NBC comedy about six pals in New York.",
+          "response": "What is Friends?"
+        },
+        {
+          "value": 400,
+          "clue": "'Movin' on Up' to a deluxe apartment is the theme of this 'All in the Family' spin-off.",
+          "response": "What are The Jeffersons?"
+        },
+        {
+          "value": 600,
+          "clue": "'Making your way in the world today takes everything you've got' opens this Boston bar comedy.",
+          "response": "What is Cheers?"
+        },
+        {
+          "value": 800,
+          "clue": "'Thank you for being a friend' introduces this sitcom about four older women in Miami.",
+          "response": "What are The Golden Girls?"
+        },
+        {
+          "value": 1000,
+          "clue": "A rapped origin story 'born and raised' in West Philadelphia opens this Will Smith comedy.",
+          "response": "What is The Fresh Prince of Bel-Air?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Comic Creators",
+    "clue": "This mustachioed writer-editor co-created Spider-Man and the X-Men and made cameos in many Marvel films.",
+    "response": "Who is Stan Lee?"
+  }
+}

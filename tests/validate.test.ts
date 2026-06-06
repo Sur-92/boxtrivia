@@ -35,8 +35,8 @@ test('a clean board passes with no errors or warnings', () => {
   assert.ok(r.seed)
 })
 
-test('the bundled Early 2000s Pop Animals board passes strict', () => {
-  const raw = JSON.parse(readFileSync(join(here, '../games/early-2000s-pop-animals.json'), 'utf-8'))
+test('the bundled Set 1 board passes strict', () => {
+  const raw = JSON.parse(readFileSync(join(here, '../games/set-01.json'), 'utf-8'))
   const r = validateSeed(raw)
   assert.deepEqual(r.errors, [], r.errors.join('\n'))
   assert.deepEqual(r.warnings, [], r.warnings.join('\n'))

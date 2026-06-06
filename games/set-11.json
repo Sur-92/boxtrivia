@@ -1,0 +1,160 @@
+{
+  "title": "Set 11",
+  "categories": [
+    {
+      "name": "Name That Show",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "'Who lives in a pineapple under the sea?' opens this Nickelodeon cartoon.",
+          "response": "What is SpongeBob SquarePants?"
+        },
+        {
+          "value": 400,
+          "clue": "'A horse is a horse, of course, of course' introduced this talking-equine comedy.",
+          "response": "What is Mister Ed?"
+        },
+        {
+          "value": 600,
+          "clue": "'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's show.",
+          "response": "What is Sesame Street?"
+        },
+        {
+          "value": 800,
+          "clue": "This 90s ABC 'TGIF' comedy followed Cory Matthews and his teacher Mr. Feeny.",
+          "response": "What is Boy Meets World?"
+        },
+        {
+          "value": 1000,
+          "clue": "'Believe it or not, I'm walking on air' opened this comedy about a reluctant flying hero.",
+          "response": "What is The Greatest American Hero?"
+        }
+      ]
+    },
+    {
+      "name": "Animal Sidekicks",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This mischievous pet monkey accompanies the street rat Aladdin.",
+          "response": "Who is Abu?"
+        },
+        {
+          "value": 400,
+          "clue": "This nervous Jamaican crab serves King Triton and sings 'Under the Sea.'",
+          "response": "Who is Sebastian?"
+        },
+        {
+          "value": 600,
+          "clue": "This small, fast-talking red dragon guards the heroine of 'Mulan.'",
+          "response": "Who is Mushu?"
+        },
+        {
+          "value": 800,
+          "clue": "This curious raccoon is Pocahontas's woodland companion.",
+          "response": "Who is Meeko?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'Cinderella,' the helpful mice include Jaq and this plump one.",
+          "response": "Who is Gus?"
+        }
+      ]
+    },
+    {
+      "name": "Cartoon Menagerie",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This square yellow sea sponge lives in a pineapple under the sea.",
+          "response": "Who is SpongeBob SquarePants?"
+        },
+        {
+          "value": 400,
+          "clue": "SpongeBob's dim-witted best friend is this pink starfish.",
+          "response": "Who is Patrick Star?"
+        },
+        {
+          "value": 600,
+          "clue": "On \"The Wild Thornberrys,\" young Eliza has the secret power to do this with animals.",
+          "response": "What is talk to them?"
+        },
+        {
+          "value": 800,
+          "clue": "This 2004 live-action movie starred a CGI version of the lasagna-loving comic-strip cat.",
+          "response": "What is Garfield?"
+        },
+        {
+          "value": 1000,
+          "clue": "King Julien, the \"I Like to Move It\" party animal of Madagascar, is this type of primate.",
+          "response": "What is a (ring-tailed) lemur?"
+        }
+      ]
+    },
+    {
+      "name": "Rules & Terms",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Rolling these two pip-covered cubes determines movement in many games.",
+          "response": "What are dice?"
+        },
+        {
+          "value": 400,
+          "clue": "In Monopoly, landing on the wrong corner can send you here, behind bars.",
+          "response": "What is Jail?"
+        },
+        {
+          "value": 600,
+          "clue": "In Trivial Pursuit, correct answers earn these colored plastic 'pie' wedges.",
+          "response": "What are scoring wedges?"
+        },
+        {
+          "value": 800,
+          "clue": "In backgammon, you may bear pieces off only after moving them all into this final quadrant.",
+          "response": "What is the home board?"
+        },
+        {
+          "value": 1000,
+          "clue": "In Scrabble, a tile placed on a dark-red premium square multiplies the word by this factor.",
+          "response": "What is triple?"
+        }
+      ]
+    },
+    {
+      "name": "DC Heroes",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "The last son of Krypton lands on Earth and grows up as reporter Clark Kent.",
+          "response": "Who is Superman?"
+        },
+        {
+          "value": 400,
+          "clue": "This Amazonian princess wields a golden Lasso of Truth and bullet-blocking bracelets.",
+          "response": "Who is Wonder Woman?"
+        },
+        {
+          "value": 600,
+          "clue": "Forensic scientist Barry Allen races into action as this 'fastest man alive.'",
+          "response": "Who is the Flash?"
+        },
+        {
+          "value": 800,
+          "clue": "Pilot Hal Jordan channels willpower through a glowing ring as this corps member.",
+          "response": "Who is Green Lantern?"
+        },
+        {
+          "value": 1000,
+          "clue": "This trident-wielding monarch rules the undersea kingdom of Atlantis.",
+          "response": "Who is Aquaman?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Closing Themes",
+    "clue": "This sci-fi anthology's narrator and theme invited viewers into 'another dimension... a dimension of imagination.'",
+    "response": "What is The Twilight Zone?"
+  }
+}

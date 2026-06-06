@@ -1,0 +1,160 @@
+{
+  "title": "Set 15",
+  "categories": [
+    {
+      "name": "Marvel Heroes",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Genius billionaire Tony Stark fights crime in a high-tech suit of armor as this hero.",
+          "response": "Who is Iron Man?"
+        },
+        {
+          "value": 400,
+          "clue": "Bitten by a radioactive arachnid, Peter Parker swings through the city as this hero.",
+          "response": "Who is Spider-Man?"
+        },
+        {
+          "value": 600,
+          "clue": "This Asgardian god of thunder wields the enchanted hammer Mjolnir.",
+          "response": "Who is Thor?"
+        },
+        {
+          "value": 800,
+          "clue": "When Bruce Banner gets angry, he transforms into this enormous green powerhouse.",
+          "response": "Who is the Hulk?"
+        },
+        {
+          "value": 1000,
+          "clue": "Blind attorney Matt Murdock protects Hell's Kitchen as this horned vigilante.",
+          "response": "Who is Daredevil?"
+        }
+      ]
+    },
+    {
+      "name": "Cereal History",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "The Kellogg brothers created corn flakes in this Michigan 'Cereal City.'",
+          "response": "What is Battle Creek?"
+        },
+        {
+          "value": 400,
+          "clue": "This 'General' company, a Kellogg's rival, makes Cheerios and Lucky Charms.",
+          "response": "What is General Mills?"
+        },
+        {
+          "value": 600,
+          "clue": "A famously misleading Post cereal's name promises grapes and these tree seeds, yet contains neither.",
+          "response": "What are nuts?"
+        },
+        {
+          "value": 800,
+          "clue": "Early breakfast cereals were promoted as health food by this Seventh-day religious movement.",
+          "response": "Who are the Adventists?"
+        },
+        {
+          "value": 1000,
+          "clue": "Crunchy granola surged in popularity during this hippie counterculture decade.",
+          "response": "What are the 1960s?"
+        }
+      ]
+    },
+    {
+      "name": "Classic Games",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "In this real-estate game, players buy properties like Boardwalk and Park Place.",
+          "response": "What is Monopoly?"
+        },
+        {
+          "value": 400,
+          "clue": "In this game, players form words from lettered tiles on a 15-by-15 grid.",
+          "response": "What is Scrabble?"
+        },
+        {
+          "value": 600,
+          "clue": "In this murder-mystery game, suspects include Colonel Mustard and Professor Plum.",
+          "response": "What is Clue?"
+        },
+        {
+          "value": 800,
+          "clue": "This ancient two-player game of kings and pawns ends in checkmate.",
+          "response": "What is chess?"
+        },
+        {
+          "value": 1000,
+          "clue": "In this grid game, you call out coordinates hoping to hear 'you sank my' fleet.",
+          "response": "What is Battleship?"
+        }
+      ]
+    },
+    {
+      "name": "Transportation",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Henry Ford's assembly line cranked out millions of this affordable 'Model.'",
+          "response": "What is the Model T?"
+        },
+        {
+          "value": 400,
+          "clue": "Karl Benz patented an early gasoline-powered version of this four-wheeled vehicle in 1886.",
+          "response": "What is the automobile?"
+        },
+        {
+          "value": 600,
+          "clue": "This Scottish engineer, namesake of a power unit, vastly improved the steam engine.",
+          "response": "Who is James Watt?"
+        },
+        {
+          "value": 800,
+          "clue": "Rudolf, whose surname labels a compression-ignition engine and a fuel, pioneered it in the 1890s.",
+          "response": "Who is Diesel?"
+        },
+        {
+          "value": 1000,
+          "clue": "Elisha Otis's safety brake made it safe for skyscrapers to lift people in this vertical car.",
+          "response": "What is the elevator?"
+        }
+      ]
+    },
+    {
+      "name": "Thrillers & Horror",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This cannibal psychiatrist helped catch Buffalo Bill from behind bars.",
+          "response": "Who is Hannibal Lecter?"
+        },
+        {
+          "value": 400,
+          "clue": "This burned dream-stalker wore a bladed glove and haunted Elm Street.",
+          "response": "Who is Freddy Krueger?"
+        },
+        {
+          "value": 600,
+          "clue": "This motel owner, disturbingly devoted to his mother, ran the Bates property.",
+          "response": "Who is Norman Bates?"
+        },
+        {
+          "value": 800,
+          "clue": "This 'No Country for Old Men' hitman killed with a captive-bolt cattle gun.",
+          "response": "Who is Anton Chigurh?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'Se7en,' this killer staged murders around the seven deadly sins.",
+          "response": "Who is John Doe?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Olympic Lore",
+    "clue": "These five interlocking colored loops symbolize the union of the world's continents at the Games.",
+    "response": "What are the Olympic rings?"
+  }
+}

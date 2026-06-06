@@ -1,0 +1,160 @@
+{
+  "title": "Set 5",
+  "categories": [
+    {
+      "name": "Venues & Rivalries",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This Boston ballpark, opened in 1912, has a tall left-field wall called the 'Green Monster.'",
+          "response": "What is Fenway Park?"
+        },
+        {
+          "value": 400,
+          "clue": "The Yankees–Red Sox feud pits New York against this New England city.",
+          "response": "What is Boston?"
+        },
+        {
+          "value": 600,
+          "clue": "College football's 'Iron Bowl' pits Auburn against this in-state Crimson Tide rival.",
+          "response": "What is Alabama?"
+        },
+        {
+          "value": 800,
+          "clue": "This ivy-walled Chicago ballpark is home to the Cubs.",
+          "response": "What is Wrigley Field?"
+        },
+        {
+          "value": 1000,
+          "clue": "The storied Lakers–Celtics rivalry pits these two basketball cities against each other.",
+          "response": "What are Los Angeles and Boston?"
+        }
+      ]
+    },
+    {
+      "name": "Animal Anthems",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Baha Men's 2000 hit repeatedly asks who let these animals out.",
+          "response": "What are the dogs?"
+        },
+        {
+          "value": 400,
+          "clue": "In 2005 this blue cartoon amphibian's version of \"Axel F\" topped European charts.",
+          "response": "Who is Crazy Frog?"
+        },
+        {
+          "value": 600,
+          "clue": "This circa-2000 looping website featured a row of rodents dancing to a sped-up tune.",
+          "response": "What is the Hampster Dance?"
+        },
+        {
+          "value": 800,
+          "clue": "Crazy Frog's \"Axel F\" is a remix of the theme from this 1984 Eddie Murphy cop comedy.",
+          "response": "What is Beverly Hills Cop?"
+        },
+        {
+          "value": 1000,
+          "clue": "The Baha Men of \"Who Let the Dogs Out\" fame hail from this island nation.",
+          "response": "What are the Bahamas?"
+        }
+      ]
+    },
+    {
+      "name": "Chocolate Bars",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "This flat, segmented milk-chocolate bar comes from a Pennsylvania town famous for cocoa.",
+          "response": "What is a Hershey's Bar?"
+        },
+        {
+          "value": 400,
+          "clue": "'Gimme a break' pitches this crispy four-finger wafer bar.",
+          "response": "What is Kit Kat?"
+        },
+        {
+          "value": 600,
+          "clue": "This caramel-nougat-and-peanut bar was named after the candy maker's favorite horse.",
+          "response": "What is Snickers?"
+        },
+        {
+          "value": 800,
+          "clue": "This bar splits into two chocolate-coated caramel-and-cookie sticks.",
+          "response": "What is Twix?"
+        },
+        {
+          "value": 1000,
+          "clue": "This Mars bar of nougat and caramel claims it 'really satisfies.'",
+          "response": "What is Milky Way?"
+        }
+      ]
+    },
+    {
+      "name": "Which Publisher?",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "The mad titan Thanos belongs to which of the two big comic publishers?",
+          "response": "What is Marvel?"
+        },
+        {
+          "value": 400,
+          "clue": "The New Gods tyrant Darkseid was created at which publisher?",
+          "response": "What is DC?"
+        },
+        {
+          "value": 600,
+          "clue": "The doomed home planet Krypton comes from which publisher's mythology?",
+          "response": "What is DC?"
+        },
+        {
+          "value": 800,
+          "clue": "The hidden African nation of Wakanda originates at which publisher?",
+          "response": "What is Marvel?"
+        },
+        {
+          "value": 1000,
+          "clue": "The acclaimed graphic novel 'Watchmen' was put out by which publisher?",
+          "response": "What is DC?"
+        }
+      ]
+    },
+    {
+      "name": "Shapes & Tie-Ins",
+      "clues": [
+        {
+          "value": 200,
+          "clue": "Lucky Charms marshmallows famously include hearts, stars, clovers and these orange crescents.",
+          "response": "What are moons?"
+        },
+        {
+          "value": 400,
+          "clue": "A single Cheerio is shaped like this round letter of the alphabet.",
+          "response": "What is an O?"
+        },
+        {
+          "value": 600,
+          "clue": "Honeycomb cereal pieces have this six-sided geometric shape.",
+          "response": "What is a hexagon?"
+        },
+        {
+          "value": 800,
+          "clue": "Cocoa Pebbles and Fruity Pebbles are licensed from this prehistoric cartoon clan.",
+          "response": "Who are the Flintstones?"
+        },
+        {
+          "value": 1000,
+          "clue": "Apple Jacks and Froot Loops are both shaped like this small circular form.",
+          "response": "What is a ring?"
+        }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Modern Tech",
+    "clue": "This Apple co-founder, in a black turtleneck, unveiled the first iPhone in 2007.",
+    "response": "Who is Steve Jobs?"
+  }
+}
