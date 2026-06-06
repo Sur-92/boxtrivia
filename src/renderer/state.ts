@@ -30,6 +30,7 @@ export interface AppState {
   playerNames: string[]
   setupErrors: string[]
   setupWarnings: string[]
+  setupNotice: string | null
   loading: boolean
   // match
   game: GameFull | null
@@ -49,6 +50,7 @@ export const state: AppState = {
   playerNames: ['', '', '', '', ''],
   setupErrors: [],
   setupWarnings: [],
+  setupNotice: null,
   loading: false,
   game: null,
   players: [],
@@ -101,6 +103,7 @@ export async function loadGames(): Promise<void> {
 export async function importGame(): Promise<void> {
   state.setupErrors = []
   state.setupWarnings = []
+  state.setupNotice = null
   const result = await window.boxtrivia.games.import()
   if (!result.ok) {
     // Empty errors === user canceled the file picker → silent no-op.
@@ -116,6 +119,7 @@ export async function importGame(): Promise<void> {
 export async function importSampleGame(seed: unknown): Promise<void> {
   state.setupErrors = []
   state.setupWarnings = []
+  state.setupNotice = null
   const result = await window.boxtrivia.games.importSeed(seed as never)
   if (!result.ok) {
     state.setupErrors = result.errors?.length ? result.errors : ['Import failed.']
@@ -124,6 +128,31 @@ export async function importSampleGame(seed: unknown): Promise<void> {
   }
   state.setupWarnings = result.warnings ?? []
   state.selectedGameId = result.game!.id
+  await loadGames()
+}
+
+export async function importBundledGames(seeds: unknown[]): Promise<void> {
+  state.setupErrors = []
+  state.setupWarnings = []
+  state.setupNotice = null
+  const errs: string[] = []
+  const warns: string[] = []
+  let imported = 0
+  let firstId: number | null = null
+  for (const seed of seeds) {
+    const r = await window.boxtrivia.games.importSeed(seed as never)
+    if (r.ok) {
+      imported++
+      if (firstId == null && r.game) firstId = r.game.id
+      if (r.warnings?.length) warns.push(...r.warnings)
+    } else {
+      errs.push(...(r.errors ?? []))
+    }
+  }
+  if (firstId != null) state.selectedGameId = firstId
+  state.setupErrors = errs
+  state.setupWarnings = warns
+  state.setupNotice = imported ? `Loaded ${imported} bundled game${imported > 1 ? 's' : ''}.` : null
   await loadGames()
 }
 
@@ -144,6 +173,7 @@ export function setPlayerName(index: number, name: string): void {
 
 export async function startMatch(): Promise<void> {
   state.setupErrors = []
+  state.setupNotice = null
   if (!state.selectedGameId) {
     state.setupErrors = ['Pick a game first.']
     render()

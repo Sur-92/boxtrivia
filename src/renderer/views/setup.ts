@@ -1,9 +1,11 @@
 import { el } from '../lib/dom'
 import { SAMPLE_GAME } from '../lib/sample-game'
+import { BUNDLED_GAMES } from '../lib/bundled-games'
 import {
   state,
   importGame,
   importSampleGame,
+  importBundledGames,
   deleteGame,
   selectGame,
   setPlayerName,
@@ -64,9 +66,20 @@ export function renderSetup(): HTMLElement {
     'div',
     { class: 'btn-row' },
     el('button', { class: 'btn', text: 'Import JSON…', onclick: () => void importGame() }),
-    el('button', { class: 'btn ghost', text: 'Load sample game', onclick: () => void importSampleGame(SAMPLE_GAME) })
+    el('button', {
+      class: 'btn ghost',
+      text: `Load all ${BUNDLED_GAMES.length} bundled games`,
+      onclick: () => void importBundledGames(BUNDLED_GAMES)
+    }),
+    el('button', { class: 'btn ghost', text: 'Sample only', onclick: () => void importSampleGame(SAMPLE_GAME) })
   )
   gamesPanel.appendChild(importRow)
+
+  if (state.setupNotice) {
+    gamesPanel.appendChild(el('div', { class: 'msg-box notice-box' },
+      el('div', { class: 'msg-head', text: state.setupNotice })
+    ))
+  }
 
   if (state.setupErrors.length) {
     const box = el('div', { class: 'msg-box error-box' },
