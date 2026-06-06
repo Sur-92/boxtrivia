@@ -1,12 +1,24 @@
 import { el } from '../lib/dom'
-import { state, findClue, selectClue } from '../state'
+import { state, findClue, selectClue, setView, closeClue } from '../state'
 
 // The presentation surface — what the host flips to so the room can see
 // the board or the active clue. Never shows the correct response unless
-// the host has explicitly revealed it.
+// the host has explicitly revealed it. The grid is clickable so the host
+// can pick a clue right from the board; a floating button (and Space)
+// always returns to the host controls.
+
+function hostControlsButton(): HTMLElement {
+  return el('button', {
+    class: 'board-host-btn',
+    text: '⚙ Host Controls',
+    title: 'Back to the moderator screen (Space)',
+    onclick: () => setView('control')
+  })
+}
 
 export function renderBoard(): HTMLElement {
   const root = el('div', { class: 'board-screen' })
+  root.appendChild(hostControlsButton())
 
   if (state.phase === 'final') {
     return renderFinalBoard(root)
@@ -24,15 +36,16 @@ export function renderBoard(): HTMLElement {
           el('div', { class: 'clue-stage-text', text: found.clue.clue }),
           state.responseRevealed
             ? el('div', { class: 'clue-stage-response', text: found.clue.response })
-            : el('div', { class: 'clue-stage-hint', text: 'Answer when ready…' })
+            : el('div', { class: 'clue-stage-hint', text: 'Answer when ready…' }),
+          el('button', { class: 'btn ghost clue-stage-back', text: '← Back to board', onclick: () => closeClue() })
         )
       )
       return root
     }
   }
 
-  // Otherwise show the grid.
-  root.appendChild(renderGrid(false))
+  // Otherwise show the clickable grid.
+  root.appendChild(renderGrid(true))
   return root
 }
 
