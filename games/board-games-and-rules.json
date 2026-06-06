@@ -1,0 +1,60 @@
+{
+  "title": "Board Games & Their Rules",
+  "categories": [
+    {
+      "name": "Classic Games",
+      "clues": [
+        { "value": 200, "clue": "In this real-estate game, players buy properties like Boardwalk and Park Place.", "response": "What is Monopoly?" },
+        { "value": 400, "clue": "In this game, players form words from lettered tiles on a 15-by-15 grid.", "response": "What is Scrabble?" },
+        { "value": 600, "clue": "In this murder-mystery game, suspects include Colonel Mustard and Professor Plum.", "response": "What is Clue?" },
+        { "value": 800, "clue": "This ancient two-player game of kings and pawns ends in checkmate.", "response": "What is chess?" },
+        { "value": 1000, "clue": "In this grid game, you call out coordinates hoping to hear 'you sank my' fleet.", "response": "What is Battleship?" }
+      ]
+    },
+    {
+      "name": "How to Win",
+      "clues": [
+        { "value": 200, "clue": "Chess is won by trapping the enemy king in this inescapable position.", "response": "What is checkmate?" },
+        { "value": 400, "clue": "In Monopoly, you win once every rival has gone this, out of money.", "response": "What is bankrupt?" },
+        { "value": 600, "clue": "In Scrabble, playing all seven of your tiles at once earns this 50-point bonus.", "response": "What is a bingo?" },
+        { "value": 800, "clue": "Rolling five dice that all show the same number scores this game's namesake 50 points.", "response": "What is a Yahtzee?" },
+        { "value": 1000, "clue": "In Risk, victory means your armies occupy every one of these regions on the map.", "response": "What are territories?" }
+      ]
+    },
+    {
+      "name": "Game Pieces",
+      "clues": [
+        { "value": 200, "clue": "Classic Monopoly tokens include a top hat, a thimble and this Scottie figure.", "response": "What is the dog?" },
+        { "value": 400, "clue": "Chess sets include pawns, rooks, bishops, knights, a queen and this most important royal.", "response": "What is the king?" },
+        { "value": 600, "clue": "Connect Four players take turns dropping these colored plastic discs into a grid.", "response": "What are checkers?" },
+        { "value": 800, "clue": "In Operation, you extract plastic ailments using these metal pincers.", "response": "What are tweezers?" },
+        { "value": 1000, "clue": "In Sorry!, players slide these colored plastic playing pieces around the track.", "response": "What are pawns?" }
+      ]
+    },
+    {
+      "name": "Rules & Terms",
+      "clues": [
+        { "value": 200, "clue": "Rolling these two pip-covered cubes determines movement in many games.", "response": "What are dice?" },
+        { "value": 400, "clue": "In Monopoly, landing on the wrong corner can send you here, behind bars.", "response": "What is Jail?" },
+        { "value": 600, "clue": "In Trivial Pursuit, correct answers earn these colored plastic 'pie' wedges.", "response": "What are scoring wedges?" },
+        { "value": 800, "clue": "In backgammon, you may bear pieces off only after moving them all into this final quadrant.", "response": "What is the home board?" },
+        { "value": 1000, "clue": "In Scrabble, a tile placed on a dark-red premium square multiplies the word by this factor.", "response": "What is triple?" }
+      ]
+    },
+    {
+      "name": "Modern Board Games",
+      "clues": [
+        { "value": 200, "clue": "In this island game, players gather brick, wood, sheep, wheat and ore to build settlements.", "response": "What is Catan?" },
+        { "value": 400, "clue": "In this cooperative game, players race to cure four diseases sweeping the globe.", "response": "What is Pandemic?" },
+        { "value": 600, "clue": "In this game, players collect colored cards to claim cross-country rail routes.", "response": "What is Ticket to Ride?" },
+        { "value": 800, "clue": "In this tile-laying game, you place 'meeples' on a growing medieval French landscape.", "response": "What is Carcassonne?" },
+        { "value": 1000, "clue": "In this hidden-role party game, villagers try to unmask the secret lycanthropes among them.", "response": "What is Werewolf?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Game Night Math",
+    "clue": "Add up the pips on every face of one standard six-sided die and you get this total.",
+    "response": "What is 21?"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Space & the Solar System",
+  "categories": [
+    {
+      "name": "The Planets",
+      "clues": [
+        { "value": 200, "clue": "This small, fast planet orbits closest to the Sun.", "response": "What is Mercury?" },
+        { "value": 400, "clue": "This iron-oxide-covered world is nicknamed the 'Red Planet.'", "response": "What is Mars?" },
+        { "value": 600, "clue": "This largest gas giant sports a centuries-old Great Red Spot storm.", "response": "What is Jupiter?" },
+        { "value": 800, "clue": "This gas giant is famous for its broad, icy ring system.", "response": "What is Saturn?" },
+        { "value": 1000, "clue": "This distant body was demoted to 'dwarf planet' status in 2006.", "response": "What is Pluto?" }
+      ]
+    },
+    {
+      "name": "The Sun & Moon",
+      "clues": [
+        { "value": 200, "clue": "This blazing star sits at the center of our solar system.", "response": "What is the Sun?" },
+        { "value": 400, "clue": "This is Earth's one and only natural satellite.", "response": "What is the Moon?" },
+        { "value": 600, "clue": "A solar one of these happens when our satellite passes directly in front of the Sun.", "response": "What is an eclipse?" },
+        { "value": 800, "clue": "The Sun is composed mostly of this lightest chemical element.", "response": "What is hydrogen?" },
+        { "value": 1000, "clue": "The Moon's gravity is the main driver of these twice-daily ocean rises and falls.", "response": "What are tides?" }
+      ]
+    },
+    {
+      "name": "Space Missions",
+      "clues": [
+        { "value": 200, "clue": "This 1969 NASA mission first landed humans on the lunar surface.", "response": "What is Apollo 11?" },
+        { "value": 400, "clue": "This reusable winged NASA spacecraft flew from 1981 until its retirement in 2011.", "response": "What is the Space Shuttle?" },
+        { "value": 600, "clue": "This orbiting observatory, launched in 1990, is named for an American astronomer.", "response": "What is the Hubble Space Telescope?" },
+        { "value": 800, "clue": "The 'Perseverance' rover currently explores this red world.", "response": "What is Mars?" },
+        { "value": 1000, "clue": "This crewed orbital laboratory, abbreviated ISS, has hosted astronauts since 2000.", "response": "What is the International Space Station?" }
+      ]
+    },
+    {
+      "name": "Stars & Galaxies",
+      "clues": [
+        { "value": 200, "clue": "Our home galaxy bears this milky-looking name.", "response": "What is the Milky Way?" },
+        { "value": 400, "clue": "This brilliant explosion marks the violent death of a massive star.", "response": "What is a supernova?" },
+        { "value": 600, "clue": "This collapsed object is so dense that not even light can escape it.", "response": "What is a black hole?" },
+        { "value": 800, "clue": "The bright 'North Star' also goes by this proper name.", "response": "What is Polaris?" },
+        { "value": 1000, "clue": "The nearest star beyond the Sun is 'Proxima' followed by this constellation name.", "response": "What is Centauri?" }
+      ]
+    },
+    {
+      "name": "Space Firsts",
+      "clues": [
+        { "value": 200, "clue": "This Soviet cosmonaut became the first human in space in 1961.", "response": "Who is Yuri Gagarin?" },
+        { "value": 400, "clue": "This American was the first person to set foot on the Moon.", "response": "Who is Neil Armstrong?" },
+        { "value": 600, "clue": "This American became the first U.S. woman in space in 1983.", "response": "Who is Sally Ride?" },
+        { "value": 800, "clue": "This Soviet 'fellow traveler,' launched in 1957, was the first artificial satellite.", "response": "What is Sputnik?" },
+        { "value": 1000, "clue": "Launched in 1977, this probe became the first human craft to reach interstellar space.", "response": "What is Voyager 1?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Constellations",
+    "clue": "This mythological hunter constellation is easily spotted by its three-star 'belt.'",
+    "response": "What is Orion?"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "title": "Fast Food History & Mascots",
+  "categories": [
+    {
+      "name": "Burger Chains",
+      "clues": [
+        { "value": 200, "clue": "This chain with golden arches was built into a giant by Ray Kroc from a brothers' stand.", "response": "What is McDonald's?" },
+        { "value": 400, "clue": "This flame-grilled chain bills itself the 'Home of the Whopper.'", "response": "What is Burger King?" },
+        { "value": 600, "clue": "This square-patty chain was named for founder Dave Thomas's red-haired daughter.", "response": "What is Wendy's?" },
+        { "value": 800, "clue": "This West Coast chain is famous for a secret menu and 'animal style' orders.", "response": "What is In-N-Out?" },
+        { "value": 1000, "clue": "This Wisconsin-born chain is known for 'ButterBurgers' and frozen custard.", "response": "What is Culver's?" }
+      ]
+    },
+    {
+      "name": "Mascots",
+      "clues": [
+        { "value": 200, "clue": "This red-haired, yellow-jumpsuited clown has fronted McDonald's ads for decades.", "response": "Who is Ronald McDonald?" },
+        { "value": 400, "clue": "This white-suited, goateed 'Colonel' is the face of a fried chicken empire.", "response": "Who is Colonel Sanders?" },
+        { "value": 600, "clue": "A talking Chihuahua in late-90s ads pined 'Yo quiero...' for this Mexican-style chain.", "response": "What is Taco Bell?" },
+        { "value": 800, "clue": "This chain's ad mascot is a calm executive topped with a giant round white ball for a head.", "response": "What is Jack in the Box?" },
+        { "value": 1000, "clue": "Toucan Sam, who follows his nose, fronts this fruity Kellogg's loop cereal sold at no drive-thru.", "response": "What is Froot Loops?" }
+      ]
+    },
+    {
+      "name": "Slogans",
+      "clues": [
+        { "value": 200, "clue": "'I'm Lovin' It,' set to a famous five-note jingle, belongs to this arches chain.", "response": "What is McDonald's?" },
+        { "value": 400, "clue": "'Eat Fresh' was long the tagline of this footlong-sandwich chain.", "response": "What is Subway?" },
+        { "value": 600, "clue": "'Think Outside the Bun' urged customers toward this taco-and-burrito chain.", "response": "What is Taco Bell?" },
+        { "value": 800, "clue": "'Finger Lickin' Good' is the classic line of this Colonel's chicken chain.", "response": "What is KFC?" },
+        { "value": 1000, "clue": "'Have It Your Way' was for decades the motto of this Whopper-selling chain.", "response": "What is Burger King?" }
+      ]
+    },
+    {
+      "name": "Menu Items",
+      "clues": [
+        { "value": 200, "clue": "This McDonald's breakfast sandwich stacks egg, cheese and Canadian bacon on a muffin.", "response": "What is the Egg McMuffin?" },
+        { "value": 400, "clue": "'Two all-beef patties, special sauce, lettuce, cheese' describes this towering McDonald's burger.", "response": "What is the Big Mac?" },
+        { "value": 600, "clue": "This thick Wendy's dessert comes in chocolate or vanilla and resists a straw.", "response": "What is a Frosty?" },
+        { "value": 800, "clue": "Taco Bell's hexagonal grilled item is the 'Crunchwrap' followed by this word.", "response": "What is Supreme?" },
+        { "value": 1000, "clue": "Arby's built its reputation on thin-sliced piles of this seasoned beef.", "response": "What is roast beef?" }
+      ]
+    },
+    {
+      "name": "Origins & Firsts",
+      "clues": [
+        { "value": 200, "clue": "White Castle, opened in 1921, is often credited as the first chain selling these small square patties.", "response": "What are hamburgers?" },
+        { "value": 400, "clue": "The McDonald brothers launched their original stand in San Bernardino, in this U.S. state.", "response": "What is California?" },
+        { "value": 600, "clue": "Colonel Sanders first cooked his secret-recipe chicken at a roadside spot in this Bluegrass State.", "response": "What is Kentucky?" },
+        { "value": 800, "clue": "A standard Subway 'footlong' sandwich measures this many inches.", "response": "What is 12?" },
+        { "value": 1000, "clue": "Before franchising burgers, Ray Kroc sold these five-spindled milkshake machines.", "response": "What are Multimixers?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Pizza Delivery",
+    "clue": "This chain once promised '30 minutes or it's free' and uses a red-and-blue domino tile logo.",
+    "response": "What is Domino's?"
+  }
+}

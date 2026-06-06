@@ -1,0 +1,60 @@
+{
+  "title": "Breakfast Cereals & Slogans",
+  "categories": [
+    {
+      "name": "Cereal Mascots",
+      "clues": [
+        { "value": 200, "clue": "This enthusiastic orange-striped feline insists Frosted Flakes are 'gr-r-reat!'", "response": "Who is Tony the Tiger?" },
+        { "value": 400, "clue": "This green-suited Irish sprite guards the marshmallows in a General Mills charm cereal.", "response": "Who is Lucky the Leprechaun?" },
+        { "value": 600, "clue": "This frantic bird goes 'cuckoo' for a chocolate-puff cereal.", "response": "Who is Sonny?" },
+        { "value": 800, "clue": "This nautical officer in a tricorn hat sells a crunchy sweetened-corn cereal.", "response": "Who is Cap'n Crunch?" },
+        { "value": 1000, "clue": "An eternally denied rabbit is told this fruity cereal is 'for kids' only.", "response": "What is Trix?" }
+      ]
+    },
+    {
+      "name": "Slogans",
+      "clues": [
+        { "value": 200, "clue": "'Snap, Crackle, Pop' are the three elf mascots of this crispy rice cereal.", "response": "What are Rice Krispies?" },
+        { "value": 400, "clue": "'Kid tested, mother approved' has long pitched this General Mills cereal.", "response": "What is Kix?" },
+        { "value": 600, "clue": "'The Breakfast of Champions' is the boast of this athlete-endorsed wheat-flake cereal.", "response": "What is Wheaties?" },
+        { "value": 800, "clue": "'Follow your nose' guides Toucan Sam to this Kellogg's fruity-ring cereal.", "response": "What is Froot Loops?" },
+        { "value": 1000, "clue": "'They're magically delicious' describes the marshmallows in this Lucky charm cereal.", "response": "What is Lucky Charms?" }
+      ]
+    },
+    {
+      "name": "Name the Cereal",
+      "clues": [
+        { "value": 200, "clue": "These ring-shaped oat pieces in a yellow box are pitched as heart-healthy.", "response": "What are Cheerios?" },
+        { "value": 400, "clue": "These frosted, shredded-wheat pillows come in a 'bite size' version.", "response": "What are Frosted Mini-Wheats?" },
+        { "value": 600, "clue": "These sugar-dusted square pieces are hawked by mischievous cartoon bakers.", "response": "What is Cinnamon Toast Crunch?" },
+        { "value": 800, "clue": "These pieces are shaped like the 26 characters of the alphabet.", "response": "What are Alpha-Bits?" },
+        { "value": 1000, "clue": "These fruity pebble-shaped bits are tied to a Stone Age cartoon family.", "response": "What are Fruity Pebbles?" }
+      ]
+    },
+    {
+      "name": "Shapes & Tie-Ins",
+      "clues": [
+        { "value": 200, "clue": "Lucky Charms marshmallows famously include hearts, stars, clovers and these orange crescents.", "response": "What are moons?" },
+        { "value": 400, "clue": "A single Cheerio is shaped like this round letter of the alphabet.", "response": "What is an O?" },
+        { "value": 600, "clue": "Honeycomb cereal pieces have this six-sided geometric shape.", "response": "What is a hexagon?" },
+        { "value": 800, "clue": "Cocoa Pebbles and Fruity Pebbles are licensed from this prehistoric cartoon clan.", "response": "Who are the Flintstones?" },
+        { "value": 1000, "clue": "Apple Jacks and Froot Loops are both shaped like this small circular form.", "response": "What is a ring?" }
+      ]
+    },
+    {
+      "name": "Cereal History",
+      "clues": [
+        { "value": 200, "clue": "The Kellogg brothers created corn flakes in this Michigan 'Cereal City.'", "response": "What is Battle Creek?" },
+        { "value": 400, "clue": "This 'General' company, a Kellogg's rival, makes Cheerios and Lucky Charms.", "response": "What is General Mills?" },
+        { "value": 600, "clue": "A famously misleading Post cereal's name promises grapes and these tree seeds, yet contains neither.", "response": "What are nuts?" },
+        { "value": 800, "clue": "Early breakfast cereals were promoted as health food by this Seventh-day religious movement.", "response": "Who are the Adventists?" },
+        { "value": 1000, "clue": "Crunchy granola surged in popularity during this hippie counterculture decade.", "response": "What are the 1960s?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Inside the Box",
+    "clue": "For decades, cereal boxes hid these small plastic surprises that kids would dig through the flakes to find.",
+    "response": "What are toys?"
+  }
+}

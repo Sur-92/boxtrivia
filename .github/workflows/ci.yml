@@ -44,6 +44,9 @@ jobs:
       - name: Test (authoring guardrails)
         run: npm test
 
+      - name: Validate bundled game boards
+        run: npm run validate:games
+
       - name: Build (electron-vite bundles)
         run: npm run build
 

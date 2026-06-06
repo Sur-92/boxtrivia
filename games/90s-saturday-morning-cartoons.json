@@ -1,0 +1,60 @@
+{
+  "title": "90s Saturday Morning Cartoons",
+  "categories": [
+    {
+      "name": "Nicktoons",
+      "clues": [
+        { "value": 200, "clue": "This calm fourth-grader with a football-shaped head lived in a big city boarding house.", "response": "Who is Arnold?" },
+        { "value": 400, "clue": "In a 1991 Klasky-Csupo series, this screwdriver-wielding baby in a blue shirt led the diaper crew.", "response": "Who is Tommy Pickles?" },
+        { "value": 600, "clue": "This journal-keeping cartoon kid crushed on Patti Mayonnaise and had an alter ego, Quailman.", "response": "Who is Doug Funnie?" },
+        { "value": 800, "clue": "Two dam-building brothers named Norbert and Daggett were this buck-toothed rodent.", "response": "What are beavers?" },
+        { "value": 1000, "clue": "This 1998 Nicktoon starred conjoined feline-and-canine title characters sharing one body.", "response": "What is CatDog?" }
+      ]
+    },
+    {
+      "name": "Cartoon Network",
+      "clues": [
+        { "value": 200, "clue": "Three sugar-and-spice sisters battled the simian villain Mojo Jojo.", "response": "Who are the Powerpuff Girls?" },
+        { "value": 400, "clue": "This lab-coated boy genius hid a secret laboratory from his sister Dee Dee.", "response": "Who is Dexter?" },
+        { "value": 600, "clue": "This buff, pompadour-sporting ladies' man in shades constantly struck out with women.", "response": "Who is Johnny Bravo?" },
+        { "value": 800, "clue": "Ed, Edd n Eddy ran scams to buy these spherical, jaw-straining candies.", "response": "What are jawbreakers?" },
+        { "value": 1000, "clue": "This cowardly pink dog protected elderly owners Muriel and Eustace from the paranormal.", "response": "Who is Courage?" }
+      ]
+    },
+    {
+      "name": "Disney Afternoon",
+      "clues": [
+        { "value": 200, "clue": "Scrooge McDuck's grandnephews are Huey, Dewey and this third triplet.", "response": "Who is Louie?" },
+        { "value": 400, "clue": "Chip 'n Dale headed a squad of crime-solving rodents in this 1989 detective series.", "response": "What are the Rescue Rangers?" },
+        { "value": 600, "clue": "In TaleSpin, this easygoing bear pilot flew the cargo plane known as the Sea Duck.", "response": "Who is Baloo?" },
+        { "value": 800, "clue": "Darkwing Duck's heroic catchphrase ended with the line 'Let's get...' this adjective.", "response": "What is dangerous?" },
+        { "value": 1000, "clue": "In Goof Troop, this clumsy Disney everyman raised his son Max.", "response": "Who is Goofy?" }
+      ]
+    },
+    {
+      "name": "WB & Animaniacs",
+      "clues": [
+        { "value": 200, "clue": "The zany Warner siblings were Yakko, Wakko and this little sister.", "response": "Who is Dot?" },
+        { "value": 400, "clue": "These two lab mice, one a genius and one insane, schemed nightly to take over the world.", "response": "Who are Pinky and the Brain?" },
+        { "value": 600, "clue": "This 1992 animated series starred the Dark Knight of Gotham and his butler Alfred.", "response": "Who is Batman?" },
+        { "value": 800, "clue": "This clawed, gruff X-Men hero has a healing factor and an adamantium skeleton.", "response": "Who is Wolverine?" },
+        { "value": 1000, "clue": "Tiny Toon Adventures and Animaniacs were both produced by this blockbuster filmmaker, Steven.", "response": "Who is Steven Spielberg?" }
+      ]
+    },
+    {
+      "name": "Themes & Networks",
+      "clues": [
+        { "value": 200, "clue": "These half-shell heroes were 'teenage,' 'mutant' and 'ninja.'", "response": "What are Turtles?" },
+        { "value": 400, "clue": "The 'One Saturday Morning' block aired on this alphabet broadcast network.", "response": "What is ABC?" },
+        { "value": 600, "clue": "This bumbling cyborg detective relied on niece Penny and a dog named Brain to crack cases.", "response": "Who is Inspector Gadget?" },
+        { "value": 800, "clue": "Captain Planet's powers came from rings of Earth, Fire, Wind, Water and this fifth element.", "response": "What is Heart?" },
+        { "value": 1000, "clue": "This 1990 eco-hero was summoned when five Planeteers combined their rings.", "response": "Who is Captain Planet?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Cartoon Sign-Offs",
+    "clue": "This stuttering Looney Tunes character closed many shows with 'Th-th-th-that's all, folks!'",
+    "response": "Who is Porky Pig?"
+  }
+}

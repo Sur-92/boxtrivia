@@ -1,0 +1,60 @@
+{
+  "title": "Marvel vs. DC",
+  "categories": [
+    {
+      "name": "Marvel Heroes",
+      "clues": [
+        { "value": 200, "clue": "Genius billionaire Tony Stark fights crime in a high-tech suit of armor as this hero.", "response": "Who is Iron Man?" },
+        { "value": 400, "clue": "Bitten by a radioactive arachnid, Peter Parker swings through the city as this hero.", "response": "Who is Spider-Man?" },
+        { "value": 600, "clue": "This Asgardian god of thunder wields the enchanted hammer Mjolnir.", "response": "Who is Thor?" },
+        { "value": 800, "clue": "When Bruce Banner gets angry, he transforms into this enormous green powerhouse.", "response": "Who is the Hulk?" },
+        { "value": 1000, "clue": "Blind attorney Matt Murdock protects Hell's Kitchen as this horned vigilante.", "response": "Who is Daredevil?" }
+      ]
+    },
+    {
+      "name": "DC Heroes",
+      "clues": [
+        { "value": 200, "clue": "The last son of Krypton lands on Earth and grows up as reporter Clark Kent.", "response": "Who is Superman?" },
+        { "value": 400, "clue": "This Amazonian princess wields a golden Lasso of Truth and bullet-blocking bracelets.", "response": "Who is Wonder Woman?" },
+        { "value": 600, "clue": "Forensic scientist Barry Allen races into action as this 'fastest man alive.'", "response": "Who is the Flash?" },
+        { "value": 800, "clue": "Pilot Hal Jordan channels willpower through a glowing ring as this corps member.", "response": "Who is Green Lantern?" },
+        { "value": 1000, "clue": "This trident-wielding monarch rules the undersea kingdom of Atlantis.", "response": "Who is Aquaman?" }
+      ]
+    },
+    {
+      "name": "Secret Identities",
+      "clues": [
+        { "value": 200, "clue": "Orphaned billionaire Bruce Wayne prowls Gotham at night as this caped figure.", "response": "Who is Batman?" },
+        { "value": 400, "clue": "A scrawny recruit named Steve Rogers takes a super-soldier serum to become this star-spangled hero.", "response": "Who is Captain America?" },
+        { "value": 600, "clue": "Wisecracking mercenary Wade Wilson breaks the fourth wall as this red-suited antihero.", "response": "Who is Deadpool?" },
+        { "value": 800, "clue": "Diana Prince walks among humans while secretly being this Amazon warrior.", "response": "Who is Wonder Woman?" },
+        { "value": 1000, "clue": "Weather-controlling mutant Ororo Munroe leads the X-Men under this codename.", "response": "Who is Storm?" }
+      ]
+    },
+    {
+      "name": "Teams",
+      "clues": [
+        { "value": 200, "clue": "Iron Man, Cap and Thor headline this team billed as 'Earth's Mightiest Heroes.'", "response": "Who are the Avengers?" },
+        { "value": 400, "clue": "Superman, Batman and Wonder Woman anchor this premier DC super-team.", "response": "What is the Justice League?" },
+        { "value": 600, "clue": "Professor Charles Xavier mentors this family of mutant heroes.", "response": "Who are the X-Men?" },
+        { "value": 800, "clue": "Star-Lord, Groot and Rocket form this cosmic, wisecracking Marvel squad.", "response": "Who are the Guardians of the Galaxy?" },
+        { "value": 1000, "clue": "Robin, Starfire and Cyborg form this youthful 'Teen' DC team.", "response": "Who are the Titans?" }
+      ]
+    },
+    {
+      "name": "Which Publisher?",
+      "clues": [
+        { "value": 200, "clue": "The mad titan Thanos belongs to which of the two big comic publishers?", "response": "What is Marvel?" },
+        { "value": 400, "clue": "The New Gods tyrant Darkseid was created at which publisher?", "response": "What is DC?" },
+        { "value": 600, "clue": "The doomed home planet Krypton comes from which publisher's mythology?", "response": "What is DC?" },
+        { "value": 800, "clue": "The hidden African nation of Wakanda originates at which publisher?", "response": "What is Marvel?" },
+        { "value": 1000, "clue": "The acclaimed graphic novel 'Watchmen' was put out by which publisher?", "response": "What is DC?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Comic Creators",
+    "clue": "This mustachioed writer-editor co-created Spider-Man and the X-Men and made cameos in many Marvel films.",
+    "response": "Who is Stan Lee?"
+  }
+}

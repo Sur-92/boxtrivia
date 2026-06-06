@@ -1,0 +1,60 @@
+{
+  "title": "State Capitals & Weird Laws",
+  "categories": [
+    {
+      "name": "Name the Capital",
+      "clues": [
+        { "value": 200, "clue": "This live-music city is the capital of Texas.", "response": "What is Austin?" },
+        { "value": 400, "clue": "This city on the American River is California's capital.", "response": "What is Sacramento?" },
+        { "value": 600, "clue": "This upstate city, not the largest one, is the capital of New York.", "response": "What is Albany?" },
+        { "value": 800, "clue": "This Panhandle city is the capital of Florida.", "response": "What is Tallahassee?" },
+        { "value": 1000, "clue": "This city, sharing a witch-trial name, is the capital of Oregon.", "response": "What is Salem?" }
+      ]
+    },
+    {
+      "name": "Capital Clues",
+      "clues": [
+        { "value": 200, "clue": "Arizona's capital shares its name with a mythical bird reborn from ashes.", "response": "What is Phoenix?" },
+        { "value": 400, "clue": "Wisconsin's capital is named for the fourth U.S. president.", "response": "What is Madison?" },
+        { "value": 600, "clue": "Minnesota's capital, named for an apostle, is the twin city to Minneapolis.", "response": "What is Saint Paul?" },
+        { "value": 800, "clue": "Indiana's capital tacks the Greek word for 'city' onto the state's name.", "response": "What is Indianapolis?" },
+        { "value": 1000, "clue": "Colorado's 'Mile-High' capital sits at roughly 5,280 feet of elevation.", "response": "What is Denver?" }
+      ]
+    },
+    {
+      "name": "Weird Laws (Reputed)",
+      "clues": [
+        { "value": 200, "clue": "An Alaska statute is often cited for banning waking this hibernating animal to take a photo.", "response": "What is a bear?" },
+        { "value": 400, "clue": "An 1897 Indiana bill nearly legally redefined this circle-ratio constant to 3.2.", "response": "What is pi?" },
+        { "value": 600, "clue": "Carmel, California once required a permit to wear these tall shoes on its sloped streets.", "response": "What are high heels?" },
+        { "value": 800, "clue": "Gainesville, Georgia 'requires' that this fried bird be eaten only with one's hands.", "response": "What is chicken?" },
+        { "value": 1000, "clue": "A reputed Kansas rule forbids topping cherry pie on Sundays with this cold dairy treat.", "response": "What is ice cream?" }
+      ]
+    },
+    {
+      "name": "Nicknames & Mottos",
+      "clues": [
+        { "value": 200, "clue": "This southeastern state is nicknamed 'The Sunshine State.'", "response": "What is Florida?" },
+        { "value": 400, "clue": "This large state is 'The Lone Star State.'", "response": "What is Texas?" },
+        { "value": 600, "clue": "This state's skeptical nickname is 'The Show-Me State.'", "response": "What is Missouri?" },
+        { "value": 800, "clue": "This northern state is the 'Land of 10,000 Lakes.'", "response": "What is Minnesota?" },
+        { "value": 1000, "clue": "This island state is 'The Aloha State.'", "response": "What is Hawaii?" }
+      ]
+    },
+    {
+      "name": "Geography",
+      "clues": [
+        { "value": 200, "clue": "This northern state is by far the largest in the U.S. by land area.", "response": "What is Alaska?" },
+        { "value": 400, "clue": "This New England state is the smallest in the country by area.", "response": "What is Rhode Island?" },
+        { "value": 600, "clue": "This New England state is the only one bordering just a single other state.", "response": "What is Maine?" },
+        { "value": 800, "clue": "Tennessee and this 'Show-Me' state each touch eight neighboring states.", "response": "What is Missouri?" },
+        { "value": 1000, "clue": "Four states meet at the single point known by this geographic name.", "response": "What is the Four Corners?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "World Capitals",
+    "clue": "This purpose-built inland city, not Sydney or Melbourne, is the capital of Australia.",
+    "response": "What is Canberra?"
+  }
+}

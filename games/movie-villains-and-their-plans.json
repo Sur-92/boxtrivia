@@ -1,0 +1,60 @@
+{
+  "title": "Movie Villains & Their Plans",
+  "categories": [
+    {
+      "name": "Disney Villains",
+      "clues": [
+        { "value": 200, "clue": "This envious lion brother murders Mufasa to seize Pride Rock.", "response": "Who is Scar?" },
+        { "value": 400, "clue": "This sea witch tricks Ariel out of her voice in exchange for legs.", "response": "Who is Ursula?" },
+        { "value": 600, "clue": "This fashion-obsessed fiend wanted to skin Dalmatian puppies for a coat.", "response": "Who is Cruella de Vil?" },
+        { "value": 800, "clue": "This royal vizier in Agrabah carried a snake-headed staff and a parrot named Iago.", "response": "Who is Jafar?" },
+        { "value": 1000, "clue": "This self-styled 'Mistress of All Evil' cursed Princess Aurora to prick her finger.", "response": "Who is Maleficent?" }
+      ]
+    },
+    {
+      "name": "Superhero Foes",
+      "clues": [
+        { "value": 200, "clue": "This green-haired clown prince of crime is Batman's archenemy.", "response": "Who is the Joker?" },
+        { "value": 400, "clue": "This Spider-Man foe is a scientist fused with four mechanical tentacle arms.", "response": "Who is Doctor Octopus?" },
+        { "value": 600, "clue": "This bald billionaire businessman is Superman's brilliant nemesis.", "response": "Who is Lex Luthor?" },
+        { "value": 800, "clue": "This trickster god, Thor's adopted brother, led the Chitauri attack on New York.", "response": "Who is Loki?" },
+        { "value": 1000, "clue": "The mad titan Thanos sought to gather all six of these reality-warping gems.", "response": "What are the Infinity Stones?" }
+      ]
+    },
+    {
+      "name": "Sci-Fi & Fantasy",
+      "clues": [
+        { "value": 200, "clue": "This black-helmeted Sith Lord turned out to be Luke Skywalker's father.", "response": "Who is Darth Vader?" },
+        { "value": 400, "clue": "This dark lord of Mordor forged the One Ring to rule Middle-earth.", "response": "Who is Sauron?" },
+        { "value": 600, "clue": "This relentless suited program hunted Neo through the simulated world of the Matrix.", "response": "Who is Agent Smith?" },
+        { "value": 800, "clue": "This dark wizard, 'He-Who-Must-Not-Be-Named,' sought immortality via Horcruxes.", "response": "Who is Voldemort?" },
+        { "value": 1000, "clue": "This shape-shifting, liquid-metal assassin model was sent to kill John Connor.", "response": "What is the T-1000?" }
+      ]
+    },
+    {
+      "name": "Thrillers & Horror",
+      "clues": [
+        { "value": 200, "clue": "This cannibal psychiatrist helped catch Buffalo Bill from behind bars.", "response": "Who is Hannibal Lecter?" },
+        { "value": 400, "clue": "This burned dream-stalker wore a bladed glove and haunted Elm Street.", "response": "Who is Freddy Krueger?" },
+        { "value": 600, "clue": "This motel owner, disturbingly devoted to his mother, ran the Bates property.", "response": "Who is Norman Bates?" },
+        { "value": 800, "clue": "This 'No Country for Old Men' hitman killed with a captive-bolt cattle gun.", "response": "Who is Anton Chigurh?" },
+        { "value": 1000, "clue": "In 'Se7en,' this killer staged murders around the seven deadly sins.", "response": "Who is John Doe?" }
+      ]
+    },
+    {
+      "name": "Their Evil Plans",
+      "clues": [
+        { "value": 200, "clue": "In 'Goldfinger,' the villain schemes to contaminate the U.S. gold reserve at this Kentucky depository.", "response": "What is Fort Knox?" },
+        { "value": 400, "clue": "In 'Despicable Me,' Gru's grand scheme is to steal this entire natural satellite.", "response": "What is the Moon?" },
+        { "value": 600, "clue": "In 'Die Hard,' Hans Gruber's real goal is robbing the vault inside this L.A. high-rise.", "response": "What is Nakatomi Plaza?" },
+        { "value": 800, "clue": "Dr. Evil unfreezes and demands a ransom of this comically modest 'one ... dollars.'", "response": "What is one million dollars?" },
+        { "value": 1000, "clue": "In 'Avengers: Infinity War,' Thanos snaps his fingers to erase this fraction of all living things.", "response": "What is half?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Villain Catchphrases",
+    "clue": "In 'The Dark Knight,' this anarchic, scarred villain repeatedly taunts victims with 'Why so serious?'",
+    "response": "Who is the Joker?"
+  }
+}

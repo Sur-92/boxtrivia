@@ -1,0 +1,60 @@
+{
+  "title": "TV Theme Songs",
+  "categories": [
+    {
+      "name": "Sitcom Themes",
+      "clues": [
+        { "value": 200, "clue": "'I'll Be There for You' by The Rembrandts opens this NBC comedy about six pals in New York.", "response": "What is Friends?" },
+        { "value": 400, "clue": "'Movin' on Up' to a deluxe apartment is the theme of this 'All in the Family' spin-off.", "response": "What are The Jeffersons?" },
+        { "value": 600, "clue": "'Making your way in the world today takes everything you've got' opens this Boston bar comedy.", "response": "What is Cheers?" },
+        { "value": 800, "clue": "'Thank you for being a friend' introduces this sitcom about four older women in Miami.", "response": "What are The Golden Girls?" },
+        { "value": 1000, "clue": "A rapped origin story 'born and raised' in West Philadelphia opens this Will Smith comedy.", "response": "What is The Fresh Prince of Bel-Air?" }
+      ]
+    },
+    {
+      "name": "Finish the Lyric",
+      "clues": [
+        { "value": 200, "clue": "The Gilligan's Island theme says the castaways set out on 'a three-hour' this.", "response": "What is tour?" },
+        { "value": 400, "clue": "The Brady Bunch theme calls it 'the story of a lovely' this.", "response": "What is lady?" },
+        { "value": 600, "clue": "The Flintstones theme promises 'we'll have a gay old' this.", "response": "What is time?" },
+        { "value": 800, "clue": "The Cheers theme longs for a place 'where everybody knows your' this.", "response": "What is name?" },
+        { "value": 1000, "clue": "The Addams Family theme tells listeners to do this twice with their fingers.", "response": "What is snap?" }
+      ]
+    },
+    {
+      "name": "Drama & Cartoon Themes",
+      "clues": [
+        { "value": 200, "clue": "This composer wrote the bouncy fanfare for 'The Simpsons,' first name Danny.", "response": "Who is Elfman?" },
+        { "value": 400, "clue": "The eerie 'X-Files' theme is famous for being this kind of music, with no words.", "response": "What is instrumental?" },
+        { "value": 600, "clue": "The opening of 'SpongeBob SquarePants' begins by asking, 'Are you ready,' these?", "response": "What are kids?" },
+        { "value": 800, "clue": "The cello-driven 'Game of Thrones' main title was composed by Ramin, last name this.", "response": "Who is Djawadi?" },
+        { "value": 1000, "clue": "The Mary Tyler Moore theme asks if she's 'gonna make it after' this word.", "response": "What is all?" }
+      ]
+    },
+    {
+      "name": "Name That Show",
+      "clues": [
+        { "value": 200, "clue": "'Who lives in a pineapple under the sea?' opens this Nickelodeon cartoon.", "response": "What is SpongeBob SquarePants?" },
+        { "value": 400, "clue": "'A horse is a horse, of course, of course' introduced this talking-equine comedy.", "response": "What is Mister Ed?" },
+        { "value": 600, "clue": "'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's show.", "response": "What is Sesame Street?" },
+        { "value": 800, "clue": "This 90s ABC 'TGIF' comedy followed Cory Matthews and his teacher Mr. Feeny.", "response": "What is Boy Meets World?" },
+        { "value": 1000, "clue": "'Believe it or not, I'm walking on air' opened this comedy about a reluctant flying hero.", "response": "What is The Greatest American Hero?" }
+      ]
+    },
+    {
+      "name": "Theme Trivia",
+      "clues": [
+        { "value": 200, "clue": "The duo who recorded the 'Friends' theme were this two-piece pop band.", "response": "Who are The Rembrandts?" },
+        { "value": 400, "clue": "The actor who sings the 'Fresh Prince' rap theme also stars in the show.", "response": "Who is Will Smith?" },
+        { "value": 600, "clue": "The Jeffersons and All in the Family were both created by this producer, first name Norman.", "response": "Who is Lear?" },
+        { "value": 800, "clue": "Modern streaming shows added a 'skip' button mainly to bypass these recurring opening songs.", "response": "What are theme songs?" },
+        { "value": 1000, "clue": "The brief, wordless 'Office' (U.S.) theme is played mainly on this keyboard instrument.", "response": "What is a piano?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Closing Themes",
+    "clue": "This sci-fi anthology's narrator and theme invited viewers into 'another dimension... a dimension of imagination.'",
+    "response": "What is The Twilight Zone?"
+  }
+}
