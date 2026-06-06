@@ -87,6 +87,33 @@ test('Rule 11: non-question response warns but does not block', () => {
   assert.ok(r.seed) // still importable
 })
 
+test('Rule 12: a clue that contains its own answer is rejected', () => {
+  const bad = structuredClone(good)
+  bad.categories[0].clues[0] = {
+    value: 200,
+    clue: 'What is burnt bread called, like toast?',
+    response: 'What is toast?'
+  }
+  const r = validateSeed(bad)
+  assert.ok(r.errors.some((e) => e.startsWith('Rule 12')), r.errors.join('\n'))
+})
+
+test('Rule 12: an incidental shared common word does NOT trip the rule', () => {
+  const ok = structuredClone(good)
+  ok.categories[0].clues[0] = {
+    value: 200,
+    clue: 'This GameCube life-sim is full of talking animal villagers.',
+    response: 'What is Animal Crossing?'
+  }
+  ok.categories[1].clues[0] = {
+    value: 200,
+    clue: 'A 1984 Eddie Murphy cop comedy set in California.',
+    response: 'What is Beverly Hills Cop?'
+  }
+  const r = validateSeed(ok)
+  assert.ok(!r.errors.some((e) => e.startsWith('Rule 12')), r.errors.join('\n'))
+})
+
 test('all violations are collected, not just the first', () => {
   const messy = {
     title: '',

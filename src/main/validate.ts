@@ -33,6 +33,58 @@ function looksLikeQuestion(s: string): boolean {
   return /^(who|what|where|when|why|how|whom|whose|name|in (what|which))\b/i.test(t)
 }
 
+const ANSWER_STOPWORDS = new Set([
+  'it', 'is', 'are', 'was', 'were', 'the', 'a', 'an', 'to', 'of', 'in', 'on',
+  'and', 'or', 'this', 'that', 'these', 'those', 'them', 'they', 'he', 'she'
+])
+
+/** Lowercase alphanumeric word tokens. */
+function tokenize(s: string): string[] {
+  return s.toLowerCase().match(/[a-z0-9]+/g) ?? []
+}
+
+/**
+ * Strip the Jeopardy framing off a response to get the bare answer:
+ * "Who is Steve Irwin?" -> ["steve", "irwin"]. Returns the answer's
+ * significant tokens (stopwords removed only when they'd leave nothing).
+ */
+function answerTokens(response: string): string[] {
+  let s = response.trim().toLowerCase()
+  s = s.replace(/[?!.]+\s*$/, '')
+  s = s.replace(/^(who|what|where|when|why|how|whom|whose|which)\b\s*/, '')
+  s = s.replace(/^(is|are|was|were|am)\b\s*/, '')
+  s = s.replace(/^(the|a|an)\b\s*/, '')
+  return tokenize(s)
+}
+
+/** Does `needle` appear as a contiguous run within `haystack`? */
+function containsSubsequence(haystack: string[], needle: string[]): boolean {
+  if (needle.length === 0 || needle.length > haystack.length) return false
+  for (let i = 0; i + needle.length <= haystack.length; i++) {
+    let match = true
+    for (let j = 0; j < needle.length; j++) {
+      if (haystack[i + j] !== needle[j]) { match = false; break }
+    }
+    if (match) return true
+  }
+  return false
+}
+
+/**
+ * Rule 12 — does the clue give away its own answer? True only when the
+ * full answer phrase appears contiguously in the clue. A lone short or
+ * stopword answer token (e.g. "it") is ignored to avoid false positives.
+ */
+function clueLeaksAnswer(clue: string, response: string): boolean {
+  const needle = answerTokens(response)
+  if (needle.length === 0) return false
+  if (needle.length === 1) {
+    const w = needle[0]!
+    if (w.length < 3 || ANSWER_STOPWORDS.has(w)) return false
+  }
+  return containsSubsequence(tokenize(clue), needle)
+}
+
 /**
  * Validate an untrusted parsed JSON object against the authoring rules.
  * Collects ALL violations (does not stop at the first) so the user can
@@ -146,6 +198,11 @@ export function validateSeed(raw: unknown): ValidationResult {
           warnings.push(`Rule 11: ${clueLabel} response is not phrased as a question: "${response}".`)
         }
 
+        // Rule 12 — clue must not contain its own answer
+        if (text && response && clueLeaksAnswer(text, response)) {
+          errors.push(`Rule 12: ${clueLabel} gives away its answer ("${response}") inside the clue.`)
+        }
+
         clues.push({ value: Number.isFinite(value) ? value : 0, clue: text, response })
       })
 
@@ -180,6 +237,9 @@ export function validateSeed(raw: unknown): ValidationResult {
       } else {
         if (fResponse && !looksLikeQuestion(fResponse)) {
           warnings.push(`Rule 11: Final response is not phrased as a question: "${fResponse}".`)
+        }
+        if (clueLeaksAnswer(fClue, fResponse)) {
+          errors.push(`Rule 12: the Final clue gives away its answer ("${fResponse}").`)
         }
         final = { category: fCategory, clue: fClue, response: fResponse }
       }

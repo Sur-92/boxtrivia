@@ -60,6 +60,23 @@ The `final` key is optional. If present, it must have a non-empty `clue`
 and `response`; `category` is recommended. Omit the whole key for a
 board-only game.
 
+## Rule 12 — A clue must not contain its own answer 🔴
+The clue may not give the answer away by stating it. Detected when the
+**full answer phrase** (the `response` with its "Who/What is…?" framing
+and leading article stripped) appears as a contiguous run of words in the
+clue, compared case-insensitively.
+
+- ❌ clue "What is burnt bread called, like *toast*?" → response "What is
+  toast?" — the word *toast* is right there in the clue.
+- ✅ clue "Burnt sliced bread, popped from a chrome appliance at
+  breakfast." → response "What is toast?" — the answer is never stated.
+
+This is deliberately conservative: only the whole answer phrase trips it,
+so an incidental shared common word (a clue about "talking **animal**
+villagers" with the answer "Animal Crossing") is fine. The same circular
+smell in reverse — an answer that merely parrots the clue — is the same
+problem; write the clue and answer so neither states the other.
+
 ## Rule 10 — Whitespace and ordering are normalized 🟡
 Leading/trailing whitespace is trimmed from all text. Clues are sorted
 by ascending value and categories by file order; `position` is assigned
