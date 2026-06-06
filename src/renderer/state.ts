@@ -28,7 +28,8 @@ export interface AppState {
   games: GameSummary[]
   selectedGameId: number | null
   playerNames: string[]
-  setupError: string | null
+  setupErrors: string[]
+  setupWarnings: string[]
   loading: boolean
   // match
   game: GameFull | null
@@ -46,7 +47,8 @@ export const state: AppState = {
   games: [],
   selectedGameId: null,
   playerNames: ['', '', '', '', ''],
-  setupError: null,
+  setupErrors: [],
+  setupWarnings: [],
   loading: false,
   game: null,
   players: [],
@@ -97,25 +99,30 @@ export async function loadGames(): Promise<void> {
 }
 
 export async function importGame(): Promise<void> {
-  state.setupError = null
+  state.setupErrors = []
+  state.setupWarnings = []
   const result = await window.boxtrivia.games.import()
   if (!result.ok) {
-    if (result.error && result.error !== 'canceled') state.setupError = result.error
+    // Empty errors === user canceled the file picker → silent no-op.
+    state.setupErrors = result.errors ?? []
     render()
     return
   }
+  state.setupWarnings = result.warnings ?? []
   state.selectedGameId = result.game!.id
   await loadGames()
 }
 
 export async function importSampleGame(seed: unknown): Promise<void> {
-  state.setupError = null
+  state.setupErrors = []
+  state.setupWarnings = []
   const result = await window.boxtrivia.games.importSeed(seed as never)
   if (!result.ok) {
-    state.setupError = result.error ?? 'Import failed.'
+    state.setupErrors = result.errors?.length ? result.errors : ['Import failed.']
     render()
     return
   }
+  state.setupWarnings = result.warnings ?? []
   state.selectedGameId = result.game!.id
   await loadGames()
 }
@@ -136,15 +143,15 @@ export function setPlayerName(index: number, name: string): void {
 }
 
 export async function startMatch(): Promise<void> {
-  state.setupError = null
+  state.setupErrors = []
   if (!state.selectedGameId) {
-    state.setupError = 'Pick a game first.'
+    state.setupErrors = ['Pick a game first.']
     render()
     return
   }
   const names = state.playerNames.map((n) => n.trim()).filter(Boolean)
   if (names.length < 1) {
-    state.setupError = 'Enter at least one player.'
+    state.setupErrors = ['Enter at least one player.']
     render()
     return
   }
@@ -153,7 +160,7 @@ export async function startMatch(): Promise<void> {
   const game = await window.boxtrivia.games.get(state.selectedGameId)
   state.loading = false
   if (!game) {
-    state.setupError = 'Could not load that game.'
+    state.setupErrors = ['Could not load that game.']
     render()
     return
   }

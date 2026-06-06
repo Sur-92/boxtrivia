@@ -57,7 +57,10 @@ export interface GameFull {
 export interface ImportResult {
   ok: boolean
   game?: GameSummary
-  error?: string
+  /** Blocking rule violations (present when ok = false). Reports all at once. */
+  errors?: string[]
+  /** Non-blocking quality flags (may be present even when ok = true). */
+  warnings?: string[]
 }
 
 // ─── The JSON seed file shape (what users drop in to author a game) ───

@@ -68,8 +68,24 @@ export function renderSetup(): HTMLElement {
   )
   gamesPanel.appendChild(importRow)
 
-  if (state.setupError) {
-    gamesPanel.appendChild(el('p', { class: 'error', text: state.setupError }))
+  if (state.setupErrors.length) {
+    const box = el('div', { class: 'msg-box error-box' },
+      el('div', { class: 'msg-head', text: `Import blocked — ${state.setupErrors.length} issue${state.setupErrors.length > 1 ? 's' : ''}:` })
+    )
+    const ul = el('ul', { class: 'msg-list' })
+    for (const e of state.setupErrors) ul.appendChild(el('li', { text: e }))
+    box.appendChild(ul)
+    gamesPanel.appendChild(box)
+  }
+
+  if (state.setupWarnings.length) {
+    const box = el('div', { class: 'msg-box warn-box' },
+      el('div', { class: 'msg-head', text: `Imported with ${state.setupWarnings.length} warning${state.setupWarnings.length > 1 ? 's' : ''}:` })
+    )
+    const ul = el('ul', { class: 'msg-list' })
+    for (const w of state.setupWarnings) ul.appendChild(el('li', { text: w }))
+    box.appendChild(ul)
+    gamesPanel.appendChild(box)
   }
 
   // ── Players ──

@@ -2,8 +2,9 @@ import { dialog } from 'electron'
 import { readFileSync } from 'node:fs'
 import { basename } from 'node:path'
 import { getDb } from './db'
+import { validateSeed } from './validate'
 import type {
-  GameSummary, GameFull, Category, Clue, ImportResult, SeedGame, SeedCategory, SeedClue
+  GameSummary, GameFull, Category, Clue, ImportResult, SeedGame
 } from '@shared/types'
 
 // ─── Reads ───
@@ -71,59 +72,6 @@ export function deleteGame(id: number): void {
 
 // ─── Writes (seed import) ───
 
-/** Validate + coerce an untrusted parsed JSON object into a SeedGame. Throws on bad shape. */
-export function validateSeed(raw: unknown): SeedGame {
-  if (!raw || typeof raw !== 'object') throw new Error('File is not a JSON object.')
-  const obj = raw as Record<string, unknown>
-
-  const title = typeof obj.title === 'string' ? obj.title.trim() : ''
-  if (!title) throw new Error('Missing "title".')
-
-  if (!Array.isArray(obj.categories) || obj.categories.length === 0) {
-    throw new Error('"categories" must be a non-empty array.')
-  }
-
-  const categories: SeedCategory[] = obj.categories.map((c, ci) => {
-    if (!c || typeof c !== 'object') throw new Error(`Category #${ci + 1} is not an object.`)
-    const cat = c as Record<string, unknown>
-    const name = typeof cat.name === 'string' ? cat.name.trim() : ''
-    if (!name) throw new Error(`Category #${ci + 1} is missing "name".`)
-    if (!Array.isArray(cat.clues) || cat.clues.length === 0) {
-      throw new Error(`Category "${name}" must have a non-empty "clues" array.`)
-    }
-    const clues: SeedClue[] = cat.clues.map((cl, li) => {
-      if (!cl || typeof cl !== 'object') throw new Error(`Clue #${li + 1} in "${name}" is not an object.`)
-      const clue = cl as Record<string, unknown>
-      const value = Number(clue.value)
-      if (!Number.isFinite(value) || value <= 0) {
-        throw new Error(`Clue #${li + 1} in "${name}" has an invalid "value".`)
-      }
-      const text = typeof clue.clue === 'string' ? clue.clue.trim() : ''
-      const response = typeof clue.response === 'string' ? clue.response.trim() : ''
-      if (!text) throw new Error(`Clue #${li + 1} in "${name}" is missing "clue".`)
-      if (!response) throw new Error(`Clue #${li + 1} in "${name}" is missing "response".`)
-      return { value, clue: text, response }
-    })
-    return { name, clues }
-  })
-
-  let final: SeedGame['final']
-  if (obj.final && typeof obj.final === 'object') {
-    const f = obj.final as Record<string, unknown>
-    const fClue = typeof f.clue === 'string' ? f.clue.trim() : ''
-    const fResponse = typeof f.response === 'string' ? f.response.trim() : ''
-    if (fClue && fResponse) {
-      final = {
-        category: typeof f.category === 'string' ? f.category.trim() : '',
-        clue: fClue,
-        response: fResponse
-      }
-    }
-  }
-
-  return { title, categories, final }
-}
-
 /** Insert a validated seed as a new game, atomically. Returns its summary. */
 export function insertSeed(seed: SeedGame): GameSummary {
   const db = getDb()
@@ -157,6 +105,16 @@ export function insertSeed(seed: SeedGame): GameSummary {
   return listGames().find((g) => g.id === id)!
 }
 
+/** Validate then (only if clean) insert. Shared by file + in-memory import paths. */
+function validateAndInsert(raw: unknown): ImportResult {
+  const { seed, errors, warnings } = validateSeed(raw)
+  if (errors.length || !seed) {
+    return { ok: false, errors, warnings }
+  }
+  const game = insertSeed(seed)
+  return { ok: true, game, warnings }
+}
+
 /** Open a file picker, read + validate + insert a JSON game. */
 export async function importGameFromFile(): Promise<ImportResult> {
   const result = await dialog.showOpenDialog({
@@ -165,28 +123,21 @@ export async function importGameFromFile(): Promise<ImportResult> {
     filters: [{ name: 'Trivia Game (JSON)', extensions: ['json'] }]
   })
   if (result.canceled || result.filePaths.length === 0) {
-    return { ok: false, error: 'canceled' }
+    // No errors → the renderer treats this as a silent no-op.
+    return { ok: false, errors: [], warnings: [] }
   }
   const filePath = result.filePaths[0]!
+  let parsed: unknown
   try {
-    const text = readFileSync(filePath, 'utf-8')
-    const parsed = JSON.parse(text)
-    const seed = validateSeed(parsed)
-    const game = insertSeed(seed)
-    return { ok: true, game }
+    parsed = JSON.parse(readFileSync(filePath, 'utf-8'))
   } catch (err) {
     const reason = err instanceof Error ? err.message : String(err)
-    return { ok: false, error: `${basename(filePath)}: ${reason}` }
+    return { ok: false, errors: [`${basename(filePath)}: not valid JSON — ${reason}`], warnings: [] }
   }
+  return validateAndInsert(parsed)
 }
 
 /** Import directly from an in-memory seed object (bundled sample game). */
 export function importSeedObject(raw: unknown): ImportResult {
-  try {
-    const seed = validateSeed(raw)
-    const game = insertSeed(seed)
-    return { ok: true, game }
-  } catch (err) {
-    return { ok: false, error: err instanceof Error ? err.message : String(err) }
-  }
+  return validateAndInsert(raw)
 }

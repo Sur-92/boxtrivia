@@ -41,6 +41,11 @@ Drop a `.json` file matching this shape and import it. See
 [`games/early-2000s-pop-animals.json`](games/early-2000s-pop-animals.json) for a
 full example.
 
+Import is **strict**: the file is validated against the authoring rules in
+[`docs/Rules/trivia-authoring.md`](docs/Rules/trivia-authoring.md) and is only
+saved if it has zero rule violations. Every problem is reported at once, so you
+fix them in a single pass. Run `npm test` to exercise the validator.
+
 ```json
 {
   "title": "My Trivia Night",

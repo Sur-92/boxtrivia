@@ -59,6 +59,12 @@ button { font-family: inherit; cursor: pointer; }
 .muted { color: var(--muted); }
 .error { color: #ff9b8a; margin-top: 12px; font-weight: 600; }
 
+.msg-box { margin-top: 16px; border-radius: 10px; padding: 12px 14px; border: 1px solid; }
+.msg-box .msg-head { font-weight: 700; margin-bottom: 6px; }
+.msg-list { margin: 0; padding-left: 18px; font-size: 13px; line-height: 1.5; }
+.error-box { background: #3a0f10; border-color: #c0392b; color: #ffb4a8; }
+.warn-box { background: #3a2f0c; border-color: var(--gold); color: #ffe08a; }
+
 /* ─── Setup ─── */
 .setup { padding: 32px 40px; overflow-y: auto; }
 .setup-head { text-align: center; margin-bottom: 28px; }
