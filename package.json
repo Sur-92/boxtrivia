@@ -1,0 +1,30 @@
+{
+  "name": "boxtrivia",
+  "version": "0.1.0",
+  "description": "Box Trivia — a Jeopardy-style host console for running trivia nights.",
+  "main": "./out/main/index.js",
+  "author": "Steve Beamesderfer",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "electron-vite dev",
+    "build": "electron-vite build",
+    "start": "electron-vite build && electron .",
+    "build:mac": "electron-vite build && electron-builder --mac",
+    "typecheck": "tsc --noEmit -p tsconfig.node.json && tsc --noEmit -p tsconfig.web.json",
+    "rebuild": "electron-builder install-app-deps",
+    "setup": "npm install --ignore-scripts && node node_modules/electron/install.js && electron-builder install-app-deps"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.7.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^22.10.0",
+    "electron": "^33.3.0",
+    "electron-builder": "^25.1.8",
+    "electron-vite": "^2.3.0",
+    "typescript": "^5.7.2",
+    "vite": "^5.4.11"
+  }
+}

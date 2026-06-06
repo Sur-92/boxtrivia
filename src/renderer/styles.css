@@ -1,0 +1,180 @@
+/* Box Trivia — Jeopardy-inspired theme: deep blue board, gold values. */
+
+:root {
+  --jeopardy-blue: #060ce9;
+  --board-blue: #0b1a86;
+  --cell-blue: #0a1f9c;
+  --gold: #d69f4c;
+  --gold-bright: #f5c518;
+  --ink: #ffffff;
+  --muted: #aab4e8;
+  --panel: #11185c;
+  --panel-line: #2a37a8;
+  --correct: #1f9d55;
+  --wrong: #c0392b;
+  font-family: 'Helvetica Neue', Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  background: var(--jeopardy-blue);
+  color: var(--ink);
+}
+
+#app { height: 100vh; display: flex; flex-direction: column; }
+
+button { font-family: inherit; cursor: pointer; }
+
+/* ─── Buttons ─── */
+.btn {
+  background: var(--panel);
+  color: var(--ink);
+  border: 1px solid var(--panel-line);
+  border-radius: 8px;
+  padding: 10px 16px;
+  font-size: 15px;
+  font-weight: 600;
+  transition: filter 0.12s ease;
+}
+.btn:hover:not(:disabled) { filter: brightness(1.25); }
+.btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.btn.primary { background: var(--gold); border-color: var(--gold-bright); color: #1a1200; }
+.btn.ghost { background: transparent; }
+.btn.big { font-size: 18px; padding: 14px 28px; }
+.btn.correct { background: var(--correct); border-color: var(--correct); }
+.btn.wrong { background: var(--wrong); border-color: var(--wrong); }
+.btn.correct.active, .btn.wrong.active { outline: 3px solid var(--gold-bright); }
+.btn-row { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 16px; }
+.icon-btn {
+  background: transparent; color: var(--muted);
+  border: 1px solid var(--panel-line); border-radius: 6px;
+  padding: 4px 10px; font-size: 13px; font-weight: 700;
+}
+.icon-btn:hover { color: var(--ink); }
+.icon-btn.danger:hover { color: #fff; background: var(--wrong); border-color: var(--wrong); }
+
+.muted { color: var(--muted); }
+.error { color: #ff9b8a; margin-top: 12px; font-weight: 600; }
+
+/* ─── Setup ─── */
+.setup { padding: 32px 40px; overflow-y: auto; }
+.setup-head { text-align: center; margin-bottom: 28px; }
+.logo {
+  font-size: 56px; font-weight: 900; letter-spacing: 4px;
+  color: var(--gold-bright); margin: 0;
+  text-shadow: 3px 3px 0 #00114d;
+}
+.tagline { color: var(--muted); font-size: 16px; margin: 6px 0 0; }
+.setup-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; max-width: 1100px; margin: 0 auto; }
+.panel { background: var(--panel); border: 1px solid var(--panel-line); border-radius: 14px; padding: 24px; }
+.panel h2 { margin: 0 0 16px; font-size: 20px; color: var(--gold); }
+
+.game-list { list-style: none; margin: 0 0 16px; padding: 0; display: flex; flex-direction: column; gap: 8px; }
+.game-item {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 12px 14px; border-radius: 10px; border: 1px solid var(--panel-line);
+  background: #0d1444; cursor: pointer;
+}
+.game-item:hover { border-color: var(--gold); }
+.game-item.selected { border-color: var(--gold-bright); background: #15206e; }
+.game-item-main { display: flex; flex-direction: column; gap: 2px; }
+.game-title { font-weight: 700; font-size: 16px; }
+.game-meta { color: var(--muted); font-size: 13px; }
+
+.players-inputs { display: flex; flex-direction: column; gap: 10px; }
+.player-input {
+  background: #0d1444; border: 1px solid var(--panel-line); border-radius: 8px;
+  padding: 12px 14px; color: var(--ink); font-size: 16px;
+}
+.player-input:focus { outline: none; border-color: var(--gold-bright); }
+
+/* ─── Board (presentation) ─── */
+.board-screen { flex: 1; display: flex; flex-direction: column; padding: 18px; }
+.board-grid {
+  flex: 1; display: grid;
+  grid-template-columns: repeat(var(--cols), 1fr);
+  grid-auto-rows: 1fr; gap: 6px;
+}
+.cat-head {
+  display: flex; align-items: center; justify-content: center; text-align: center;
+  background: var(--board-blue); color: var(--ink);
+  font-weight: 800; font-size: clamp(13px, 1.5vw, 20px); text-transform: uppercase;
+  padding: 8px; border-radius: 6px; letter-spacing: 0.5px;
+}
+.cell {
+  display: flex; align-items: center; justify-content: center;
+  background: var(--cell-blue); border-radius: 6px;
+  color: var(--gold-bright); font-weight: 900;
+  font-size: clamp(20px, 3.2vw, 48px);
+  text-shadow: 2px 2px 0 #00114d;
+}
+.cell.blank { background: transparent; }
+.cell.spent { background: #060f54; }
+.cell.clickable { cursor: pointer; }
+.cell.clickable:hover { background: #15269e; }
+.cell.selected { outline: 3px solid var(--gold-bright); }
+
+.clue-stage {
+  flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
+  text-align: center; gap: 28px; padding: 6vw; background: var(--cell-blue);
+  margin: 0; border-radius: 10px;
+}
+.clue-stage-cat { color: var(--gold); font-size: clamp(18px, 2.4vw, 30px); font-weight: 800; text-transform: uppercase; letter-spacing: 2px; }
+.clue-stage-text { font-size: clamp(28px, 4.5vw, 64px); font-weight: 800; line-height: 1.25; text-shadow: 3px 3px 0 #00114d; }
+.clue-stage-hint { color: var(--muted); font-size: 20px; font-style: italic; }
+.clue-stage-response { color: var(--gold-bright); font-size: clamp(24px, 3.5vw, 48px); font-weight: 800; }
+
+/* ─── Control (host cockpit) ─── */
+.control-screen { flex: 1; display: flex; flex-direction: column; min-height: 0; }
+.control-top {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 14px 22px; background: var(--board-blue); border-bottom: 2px solid var(--gold);
+}
+.control-title { font-size: 22px; font-weight: 800; color: var(--gold-bright); }
+.control-top-actions { display: flex; gap: 12px; }
+
+.control-body { flex: 1; display: grid; grid-template-columns: 1fr 280px; gap: 18px; padding: 18px; min-height: 0; }
+.control-main { min-height: 0; overflow-y: auto; display: flex; flex-direction: column; }
+.control-main .board-grid { min-height: 360px; }
+.control-hint { color: var(--muted); font-size: 15px; margin: 0 0 14px; }
+
+.clue-panel { background: var(--panel); border: 1px solid var(--panel-line); border-radius: 14px; padding: 22px; }
+.clue-panel-head { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 14px; }
+.clue-panel-cat { font-size: 18px; font-weight: 800; color: var(--gold); text-transform: uppercase; }
+.clue-panel-value { font-size: 26px; font-weight: 900; color: var(--gold-bright); }
+.clue-panel-clue { font-size: 24px; font-weight: 700; line-height: 1.35; margin-bottom: 18px; }
+.clue-panel-response {
+  background: #0d1444; border-left: 4px solid var(--gold-bright); border-radius: 6px;
+  padding: 14px 16px; margin-bottom: 8px; display: flex; flex-direction: column; gap: 4px;
+}
+.clue-panel-response .label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
+.clue-panel-response .value { font-size: 22px; font-weight: 800; color: var(--gold-bright); }
+
+.scoring { margin-top: 20px; display: flex; flex-direction: column; gap: 8px; }
+.scoring-label { color: var(--muted); font-weight: 700; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
+.scoring-row, .wager-row { display: flex; align-items: center; gap: 10px; }
+.scoring-name { flex: 1; font-weight: 600; font-size: 16px; }
+.scoring-row .btn { padding: 8px 14px; font-size: 14px; }
+.wager-input {
+  width: 120px; background: #0d1444; border: 1px solid var(--panel-line);
+  border-radius: 8px; padding: 10px; color: var(--ink); font-size: 16px;
+}
+
+/* ─── Scoreboard ─── */
+.scoreboard { background: var(--panel); border: 1px solid var(--panel-line); border-radius: 14px; padding: 16px; overflow-y: auto; }
+.scoreboard h3 { margin: 0 0 14px; color: var(--gold); font-size: 16px; text-transform: uppercase; letter-spacing: 1px; }
+.score-card { background: #0d1444; border-radius: 10px; padding: 12px; margin-bottom: 10px; }
+.score-top { display: flex; align-items: baseline; justify-content: space-between; }
+.score-name { font-weight: 700; font-size: 16px; }
+.score-val { font-weight: 900; font-size: 22px; color: var(--gold-bright); }
+.score-val.neg { color: #ff9b8a; }
+.score-adjust { display: flex; gap: 6px; margin-top: 8px; }
+.score-adjust .icon-btn { flex: 1; }
+
+@media (max-width: 900px) {
+  .setup-grid { grid-template-columns: 1fr; }
+  .control-body { grid-template-columns: 1fr; }
+}

@@ -1,0 +1,67 @@
+name: Release macOS DMG
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Tag to release (e.g. v0.1.0)'
+        required: true
+
+permissions:
+  contents: write   # needed to create the GitHub Release
+
+jobs:
+  build-mac:
+    name: Build macOS DMG
+    runs-on: macos-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.inputs.tag || github.ref }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install (skip native build)
+        run: npm install --ignore-scripts
+
+      - name: Download Electron binary
+        run: node node_modules/electron/install.js
+
+      - name: Rebuild native modules against Electron
+        run: npx electron-builder install-app-deps
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Build DMG & publish draft release
+        env:
+          # No signing cert wired up in this repo yet — build unsigned.
+          # To enable real Developer ID signing + notarization later, add
+          # CSC_LINK / CSC_KEY_PASSWORD (and APPLE_ID / APPLE_APP_SPECIFIC_PASSWORD
+          # / APPLE_TEAM_ID) as repo secrets and flip this to 'true'.
+          CSC_IDENTITY_AUTO_DISCOVERY: 'false'
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run build:mac
+
+      - name: List release artifacts
+        run: ls -la release/
+
+      - name: Upload DMG artifact (CI debug copy)
+        uses: actions/upload-artifact@v4
+        with:
+          name: boxtrivia-macos-dmg
+          path: |
+            release/*.dmg
+            release/*.dmg.blockmap
+            release/latest-mac.yml
+          retention-days: 90

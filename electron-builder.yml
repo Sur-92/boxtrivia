@@ -1,0 +1,27 @@
+appId: com.roadandrock.boxtrivia
+productName: Box Trivia
+copyright: Copyright © 2026 Steve Beamesderfer
+
+directories:
+  output: release
+
+files:
+  - "out/**/*"
+  - "package.json"
+  - "!**/*.map"
+
+asarUnpack:
+  - "**/*.{node,dll}"
+
+mac:
+  target:
+    - target: dmg
+      arch: [arm64, x64]
+  category: public.app-category.games
+  artifactName: ${productName}-${version}-${arch}.${ext}
+
+publish:
+  - provider: github
+    owner: Sur-92
+    repo: boxtrivia
+    releaseType: draft
