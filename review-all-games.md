@@ -3,407 +3,407 @@
 ## Set 1
 
 ### Disney Villains
-- **$200** — This envious lion brother murders Mufasa to seize Pride Rock.  
-  → Who is Scar?
-- **$400** — This sea witch tricks Ariel out of her voice in exchange for legs.  
-  → Who is Ursula?
-- **$600** — This fashion-obsessed fiend wanted to skin Dalmatian puppies for a coat.  
-  → Who is Cruella de Vil?
-- **$800** — This royal vizier in Agrabah carried a snake-headed staff and a parrot named Iago.  
-  → Who is Jafar?
-- **$1000** — This self-styled 'Mistress of All Evil' cursed Princess Aurora to prick her finger.  
+- **$200** — Largely animated by Marc Davis, this 1959 villainess transforms into a dragon for the climax.  
   → Who is Maleficent?
+- **$400** — Voiced by Pat Carroll, this 1989 antagonist was visually modeled on the drag performer Divine.  
+  → Who is Ursula?
+- **$600** — This 1996 Disney judge sings the guilt-and-lust confession 'Hellfire.'  
+  → Who is Claude Frollo?
+- **$800** — This 'Shadow Man' of 2009's bayou bargains with sinister voodoo spirits he calls his 'friends.'  
+  → Who is Doctor Facilier?
+- **$1000** — Voiced by Vincent Price, this rat criminal mastermind plots against the Crown in a 1986 film.  
+  → Who is Professor Ratigan?
 
 ### Viral & Web Beasts
-- **$200** — This yellow electric mouse is the franchise mascot of Pokémon.  
-  → Who is Pikachu?
-- **$400** — A 2003 Weebl flash cartoon endlessly chants this woodland animal's name (with "mushroom mushroom").  
-  → What is a badger?
-- **$600** — Released in North America in 2002, this GameCube life-sim is full of talking animal villagers.  
-  → What is Animal Crossing?
-- **$800** — This 2007 site captioned cat photos with misspelled gems like "I Can Has Cheezburger?"  
-  → What is I Can Has Cheezburger? (lolcats)
-- **$1000** — This 2007 viral video paired a piano-"playing" feline with the phrase "play him off."  
+- **$200** — This 2011 meme animation pairs a feline with a Pop-Tart torso and a rainbow trail.  
+  → What is Nyan Cat?
+- **$400** — A 2007 humor site popularized this genre of feline photos captioned in deliberately broken English.  
+  → What are lolcats?
+- **$600** — The 2013 'Doge' meme, later a cryptocurrency mascot, features this Japanese dog breed.  
+  → What is a Shiba Inu?
+- **$800** — This perpetually frowning internet-celebrity feline's real name was Tardar Sauce.  
+  → Who is Grumpy Cat?
+- **$1000** — Filmed in 1984 but uploaded in 2007 to 'play off' people, this piano-pawing tabby became an early viral hit.  
   → Who is Keyboard Cat?
 
 ### WB & Animaniacs
-- **$200** — The zany Warner siblings were Yakko, Wakko and this little sister.  
-  → Who is Dot?
-- **$400** — These two lab mice, one a genius and one insane, schemed nightly to take over the world.  
+- **$200** — These two genetically altered lab mice headlined their own 1995 spinoff after an Animaniacs segment.  
   → Who are Pinky and the Brain?
-- **$600** — This 1992 animated series starred the Dark Knight of Gotham and his butler Alfred.  
+- **$400** — The zany Warner siblings were said to be locked in the water tower on this Burbank studio's lot.  
+  → What is Warner Bros.?
+- **$600** — Bruce Timm and Eric Radomski's 1992 series reinvented Gotham's Dark Knight for animation.  
   → Who is Batman?
-- **$800** — This clawed, gruff X-Men hero has a healing factor and an adamantium skeleton.  
-  → Who is Wolverine?
-- **$1000** — Tiny Toon Adventures and Animaniacs were both produced by this blockbuster filmmaker, Steven.  
-  → Who is Steven Spielberg?
+- **$800** — Harley Quinn was co-created for that 1992 series by writer Paul Dini and this animator-producer.  
+  → Who is Bruce Timm?
+- **$1000** — Steven Spielberg's Amblin produced Tiny Toon Adventures and this 1993 variety-cartoon successor.  
+  → What is Animaniacs?
 
 ### Cartoon Network
-- **$200** — Three sugar-and-spice sisters battled the simian villain Mojo Jojo.  
-  → Who are the Powerpuff Girls?
-- **$400** — This lab-coated boy genius hid a secret laboratory from his sister Dee Dee.  
+- **$200** — Genndy Tartakovsky's 1996 series followed a boy genius hiding a lab from his sister Dee Dee.  
   → Who is Dexter?
-- **$600** — This buff, pompadour-sporting ladies' man in shades constantly struck out with women.  
-  → Who is Johnny Bravo?
-- **$800** — Ed, Edd n Eddy ran scams to buy these spherical, jaw-straining candies.  
-  → What are jawbreakers?
-- **$1000** — This cowardly pink dog protected elderly owners Muriel and Eustace from the paranormal.  
-  → Who is Courage?
+- **$400** — Craig McCracken created this 1998 trio of sisters powered by 'Chemical X.'  
+  → Who are the Powerpuff Girls?
+- **$600** — McCracken's 2004 series centered on a foster home for abandoned imaginary companions.  
+  → What is Foster's Home for Imaginary Friends?
+- **$800** — The network's adult-oriented late-night programming block launched in 2001 under this name.  
+  → What is Adult Swim?
+- **$1000** — Pendleton Ward's 2010 series sent Finn and Jake adventuring across the Land of Ooo.  
+  → What is Adventure Time?
 
 ### Theme Trivia
-- **$200** — The duo who recorded the 'Friends' theme were this two-piece pop band.  
+- **$200** — The duo who recorded the 'Friends' theme 'I'll Be There for You' went by this name.  
   → Who are The Rembrandts?
-- **$400** — The actor who sings the 'Fresh Prince' rap theme also stars in the show.  
+- **$400** — The 'Fresh Prince' rap theme was performed by this star, partnered on records with DJ Jazzy Jeff.  
   → Who is Will Smith?
-- **$600** — The Jeffersons and All in the Family were both created by this producer, first name Norman.  
-  → Who is Lear?
-- **$800** — Modern streaming shows added a 'skip' button mainly to bypass these recurring opening songs.  
-  → What are theme songs?
-- **$1000** — The brief, wordless 'Office' (U.S.) theme is played mainly on this keyboard instrument.  
-  → What is a piano?
+- **$600** — The 'Game of Thrones' main title was composed by Ramin, whose surname is this.  
+  → What is Djawadi?
+- **$800** — This film-score composer, known for Tim Burton movies, wrote 'The Simpsons' main theme.  
+  → Who is Danny Elfman?
+- **$1000** — Lalo Schifrin wrote this 1966 spy series' theme in an unusual 5/4 time signature.  
+  → What is Mission: Impossible?
 
 ### FINAL — Inside the Box
-- For decades, cereal boxes hid these small plastic surprises that kids would dig through the flakes to find.  
-  → What are toys?
+- In 1909 this company sparked the in-box-premium craze by offering a children's 'Funny Jungleland' picture book.  
+  → What is Kellogg's?
 
 ---
 
 ## Set 2
 
 ### Menu Items
-- **$200** — This McDonald's breakfast sandwich stacks egg, cheese and Canadian bacon on a muffin.  
-  → What is the Egg McMuffin?
-- **$400** — 'Two all-beef patties, special sauce, lettuce, cheese' describes this towering McDonald's burger.  
+- **$200** — Created in 1967 by franchisee Jim Delligatti, this double-decker sandwich has a 'special sauce.'  
   → What is the Big Mac?
-- **$600** — This thick Wendy's dessert comes in chocolate or vanilla and resists a straw.  
-  → What is a Frosty?
-- **$800** — Taco Bell's hexagonal grilled item is the 'Crunchwrap' followed by this word.  
-  → What is Supreme?
-- **$1000** — Arby's built its reputation on thin-sliced piles of this seasoned beef.  
-  → What is roast beef?
+- **$400** — Introduced by Wendy's in 1969, this dairy dessert is famously too thick to drink through a straw.  
+  → What is the Frosty?
+- **$600** — McDonald's Filet-O-Fish was created in 1962 to serve Catholic customers during this meatless season.  
+  → What is Lent?
+- **$800** — This grilled, hexagonal Taco Bell item folds a tostada and fillings into a tortilla pocket.  
+  → What is the Crunchwrap Supreme?
+- **$1000** — Debuting nationally in 2010, this KFC sandwich uses two fried chicken filets in place of a bun.  
+  → What is the Double Down?
 
 ### Capital Clues
-- **$200** — Arizona's capital shares its name with a mythical bird reborn from ashes.  
+- **$200** — Named for a mythic firebird, this is the most populous U.S. state capital.  
   → What is Phoenix?
-- **$400** — Wisconsin's capital is named for the fourth U.S. president.  
+- **$400** — This capital honoring the fourth U.S. president lies in a state named for a different leader.  
   → What is Madison?
-- **$600** — Minnesota's capital, named for an apostle, is the twin city to Minneapolis.  
-  → What is Saint Paul?
-- **$800** — Indiana's capital tacks the Greek word for 'city' onto the state's name.  
-  → What is Indianapolis?
-- **$1000** — Colorado's 'Mile-High' capital sits at roughly 5,280 feet of elevation.  
-  → What is Denver?
+- **$600** — Kentucky's capital is this small city, not the larger Louisville or Lexington.  
+  → What is Frankfort?
+- **$800** — Nevada's capital is named for a famed 19th-century frontiersman and scout.  
+  → What is Carson City?
+- **$1000** — South Dakota's capital, pronounced 'peer,' is spelled this distinctive way.  
+  → What is Pierre?
 
 ### Themes & Networks
-- **$200** — These half-shell heroes were 'teenage,' 'mutant' and 'ninja.'  
-  → What are Turtles?
-- **$400** — The 'One Saturday Morning' block aired on this alphabet broadcast network.  
+- **$200** — The 'One Saturday Morning' block debuted in 1997 on this broadcast network.  
   → What is ABC?
-- **$600** — This bumbling cyborg detective relied on niece Penny and a dog named Brain to crack cases.  
-  → Who is Inspector Gadget?
-- **$800** — Captain Planet's powers came from rings of Earth, Fire, Wind, Water and this fifth element.  
-  → What is Heart?
-- **$1000** — This 1990 eco-hero was summoned when five Planeteers combined their rings.  
-  → Who is Captain Planet?
+- **$400** — The 1987 'Teenage Mutant Ninja Turtles' cartoon adapted comics by Kevin Eastman and this co-creator.  
+  → Who is Peter Laird?
+- **$600** — 'X-Men: The Animated Series' premiered on the Fox Kids block in this year.  
+  → What is 1992?
+- **$800** — 'Captain Planet' was conceived by this media mogul who founded CNN and TBS.  
+  → Who is Ted Turner?
+- **$1000** — 'Inspector Gadget' and 'The Real Ghostbusters' came from this French-founded studio known by a three-letter acronym.  
+  → What is DiC?
 
 ### Mascots & Slogans
-- **$200** — 'Melts in your mouth, not in your hands' is the long-time line for these candy-shelled chocolates.  
-  → What are M&M's?
-- **$400** — Among the M&M's spokescandies, this nervous-voiced color often plays the dim one.  
-  → Who is Yellow?
-- **$600** — 'Sometimes you feel like a nut' pairs Almond Joy with this nut-free coconut cousin.  
-  → What is Mounds?
-- **$800** — Skittles invites fans to 'taste the' this colorful arc.  
-  → What is the rainbow?
-- **$1000** — PEZ candy is dispensed from collectible toppers shaped like these cartoon noggins.  
-  → What are heads?
+- **$200** — The late-90s Taco Bell Chihuahua delivered its 'Yo quiero' catchphrase in this language.  
+  → What is Spanish?
+- **$400** — Wendy's freckled mascot is named for the founder's daughter, whose actual first name is this.  
+  → What is Melinda?
+- **$600** — The McDonald's Hamburglar is known for muttering this nonsense exclamation.  
+  → What is 'Robble robble'?
+- **$800** — KFC's founder received his honorary 'Colonel' commission from the commonwealth of this state.  
+  → What is Kentucky?
+- **$1000** — The 1984 'Where's the beef?' Wendy's ad starred this elderly actress, surname Peller.  
+  → Who is Clara Peller?
 
 ### Burger Chains
-- **$200** — This chain with golden arches was built into a giant by Ray Kroc from a brothers' stand.  
+- **$200** — Founded in 1940 in San Bernardino, this chain was transformed after Ray Kroc joined in 1955.  
   → What is McDonald's?
-- **$400** — This flame-grilled chain bills itself the 'Home of the Whopper.'  
+- **$400** — Founded in 1954 in Miami, this chain trademarked the 'Whopper' three years later.  
   → What is Burger King?
-- **$600** — This square-patty chain was named for founder Dave Thomas's red-haired daughter.  
+- **$600** — Dave Thomas launched this square-patty chain in Columbus, Ohio in 1969.  
   → What is Wendy's?
-- **$800** — This West Coast chain is famous for a secret menu and 'animal style' orders.  
+- **$800** — Harry and Esther Snyder opened this chain, California's first drive-thru, in 1948.  
   → What is In-N-Out?
-- **$1000** — This Wisconsin-born chain is known for 'ButterBurgers' and frozen custard.  
-  → What is Culver's?
+- **$1000** — Founded in 1921 in Wichita, Kansas, this chain is often called America's first hamburger chain.  
+  → What is White Castle?
 
 ### FINAL — Game Night Math
-- Add up the pips on every face of one standard six-sided die and you get this total.  
-  → What is 21?
+- On a standard six-sided die, every pair of opposite faces always adds up to this number.  
+  → What is 7?
 
 ---
 
 ## Set 3
 
 ### The Planets
-- **$200** — This small, fast planet orbits closest to the Sun.  
-  → What is Mercury?
-- **$400** — This iron-oxide-covered world is nicknamed the 'Red Planet.'  
-  → What is Mars?
-- **$600** — This largest gas giant sports a centuries-old Great Red Spot storm.  
+- **$200** — This planet has the longest sidereal rotation period and spins retrograde.  
+  → What is Venus?
+- **$400** — Ganymede, the largest moon in the solar system, orbits this planet.  
   → What is Jupiter?
-- **$800** — This gas giant is famous for its broad, icy ring system.  
-  → What is Saturn?
-- **$1000** — This distant body was demoted to 'dwarf planet' status in 2006.  
-  → What is Pluto?
+- **$600** — This ice giant rotates almost on its side, with an axial tilt near 98 degrees.  
+  → What is Uranus?
+- **$800** — Olympus Mons, the tallest known volcano in the solar system, rises on this planet.  
+  → What is Mars?
+- **$1000** — Predicted mathematically before being seen, this planet was discovered in 1846.  
+  → What is Neptune?
 
 ### Comic Relief
-- **$200** — This big blue, wish-granting spirit bursts from a lamp in 'Aladdin.'  
+- **$200** — Robin Williams improvised much of this wish-granting character's dialogue in a 1992 film.  
   → Who is the Genie?
-- **$400** — This carrot-nosed snowman from 'Frozen' dreams of summer and warm hugs.  
+- **$400** — Voiced by Josh Gad, this 'Frozen' snowman dreams of experiencing summer.  
   → Who is Olaf?
-- **$600** — A meerkat and a warthog teach 'Hakuna Matata' in 'The Lion King'; name the warthog.  
-  → Who is Pumbaa?
-- **$800** — This goat-legged trainer of heroes in 'Hercules' was voiced by Danny DeVito.  
-  → Who is Phil?
-- **$1000** — This uptight mantel-clock majordomo keeps order in the Beast's castle.  
+- **$600** — In 'The Lion King,' name the wisecracking meerkat who sings 'Hakuna Matata.'  
+  → Who is Timon?
+- **$800** — David Ogden Stiers voiced this fussy mantel-clock majordomo in 'Beauty and the Beast.'  
   → Who is Cogsworth?
+- **$1000** — Danny DeVito voiced this satyr trainer of heroes in Disney's 'Hercules.'  
+  → Who is Philoctetes?
 
 ### Cereal Mascots
-- **$200** — This enthusiastic orange-striped feline insists Frosted Flakes are 'gr-r-reat!'  
+- **$200** — This striped tiger has fronted Frosted Flakes since 1952, joined in ads by his son Tony Jr.  
   → Who is Tony the Tiger?
-- **$400** — This green-suited Irish sprite guards the marshmallows in a General Mills charm cereal.  
-  → Who is Lucky the Leprechaun?
-- **$600** — This frantic bird goes 'cuckoo' for a chocolate-puff cereal.  
-  → Who is Sonny?
-- **$800** — This nautical officer in a tricorn hat sells a crunchy sweetened-corn cereal.  
-  → Who is Cap'n Crunch?
-- **$1000** — An eternally denied rabbit is told this fruity cereal is 'for kids' only.  
-  → What is Trix?
+- **$400** — The Lucky Charms leprechaun's catchphrase calls the cereal 'magically' this.  
+  → What is delicious?
+- **$600** — This cereal captain's lore-given full name is Horatio Magellan, plus this surname.  
+  → What is Crunch?
+- **$800** — The eternally denied Trix rabbit gag dates to the cereal's debut in this decade.  
+  → What are the 1950s?
+- **$1000** — Toucan Sam of Froot Loops was originally voiced by this Looney Tunes 'Man of a Thousand Voices.'  
+  → Who is Mel Blanc?
 
 ### Movie Final Lines
-- **$200** — Scarlett O'Hara ends 'Gone with the Wind' vowing that 'after all, tomorrow is' this.  
+- **$200** — 'Gone with the Wind' ends with Scarlett resolving that tomorrow is this.  
   → What is another day?
-- **$400** — 'Casablanca' closes calling this the start of 'a beautiful' bond between two men.  
-  → What is friendship?
-- **$600** — An aged Rose drops this priceless blue gem into the sea at the close of 'Titanic.'  
-  → What is the Heart of the Ocean?
-- **$800** — The 1968 'Planet of the Apes' ends with Taylor finding this toppled New York monument on a beach.  
-  → What is the Statue of Liberty?
-- **$1000** — The reprogrammed cyborg gives a thumbs-up sinking into molten steel in this 1991 sequel.  
-  → What is Terminator 2?
+- **$400** — 'Casablanca' closes with Rick speaking the 'beautiful friendship' line to this police captain.  
+  → Who is Captain Renault?
+- **$600** — '2001: A Space Odyssey' has this rogue computer plead and sing as it is shut down.  
+  → What is HAL 9000?
+- **$800** — 'Some Like It Hot' ends with the deadpan line 'Well, nobody's' this.  
+  → What is perfect?
+- **$1000** — Roman Polanski's 1974 noir closes with the line 'Forget it, Jake. It's' this Los Angeles district.  
+  → What is Chinatown?
 
 ### Endings & Twists
-- **$200** — 'The Sixth Sense' reveals Bruce Willis's character has been in this state the whole film.  
+- **$200** — 'The Sixth Sense' reveals Malcolm Crowe has been in this state for most of the film.  
   → What is dead?
-- **$400** — 'Fight Club' twists when the narrator realizes he and Tyler Durden share this trait.  
-  → What is being the same person?
-- **$600** — 'Soylent Green' ends with the horrifying revelation that the food is made from these.  
-  → What are people?
-- **$800** — 'The Empire Strikes Back' stuns with the reveal that Vader is this relation to Luke.  
-  → What is his father?
-- **$1000** — 'The Usual Suspects' unveils that meek Verbal Kint is really this criminal mastermind.  
+- **$400** — 'Fight Club' reveals the narrator and Tyler Durden are actually this.  
+  → What is one person?
+- **$600** — The 1968 'Planet of the Apes' ends at the ruins of this monument on a beach.  
+  → What is the Statue of Liberty?
+- **$800** — 'The Empire Strikes Back' reveals this character is Luke's father.  
+  → Who is Darth Vader?
+- **$1000** — 'The Usual Suspects' reveals meek Verbal Kint to be this elusive mastermind.  
   → Who is Keyser Soze?
 
 ### FINAL — Voices Behind the Sidekicks
-- This late, beloved comedian improvised the manic Genie in Disney's 1992 'Aladdin.'  
-  → Who is Robin Williams?
+- This comedian voiced both Donkey in 'Shrek' and Mushu in Disney's 'Mulan.'  
+  → Who is Eddie Murphy?
 
 ---
 
 ## Set 4
 
 ### Princess Companions
-- **$200** — Snow White keeps house for this many diamond-mining dwarfs.  
-  → What is seven?
-- **$400** — In 'Tangled,' Rapunzel's loyal companion is this color-changing reptile, Pascal.  
+- **$200** — Rapunzel's silent sidekick in 'Tangled' is this kind of color-shifting reptile.  
   → What is a chameleon?
-- **$600** — In 'The Princess and the Frog,' a trumpet-loving bayou reptile named Louis is this toothy species.  
-  → What is an alligator?
-- **$800** — In 'Moana,' the heroine is stuck at sea with this dim-witted clucking barnyard bird.  
-  → What is a rooster?
-- **$1000** — Sleeping Beauty is raised in the woods by three good ones of these magical winged women.  
-  → What are fairies?
+- **$400** — Mulan is accompanied by Mushu and a 'lucky' one of these chirping insects.  
+  → What is a cricket?
+- **$600** — In 'Moana,' name the dim-witted pet pig left behind when the heroine sets sail.  
+  → Who is Pua?
+- **$800** — Pocahontas's companions are a hummingbird named Flit and this curious raccoon.  
+  → Who is Meeko?
+- **$1000** — In 'The Princess and the Frog,' this trumpet-playing alligator longs to join a jazz band.  
+  → Who is Louis?
 
 ### Secret Identities
-- **$200** — Orphaned billionaire Bruce Wayne prowls Gotham at night as this caped figure.  
-  → Who is Batman?
-- **$400** — A scrawny recruit named Steve Rogers takes a super-soldier serum to become this star-spangled hero.  
-  → Who is Captain America?
-- **$600** — Wisecracking mercenary Wade Wilson breaks the fourth wall as this red-suited antihero.  
-  → Who is Deadpool?
-- **$800** — Diana Prince walks among humans while secretly being this Amazon warrior.  
+- **$200** — This Amazonian hero lives among humans under the name Diana Prince.  
   → Who is Wonder Woman?
-- **$1000** — Weather-controlling mutant Ororo Munroe leads the X-Men under this codename.  
-  → Who is Storm?
+- **$400** — Black Panther rules the nation of Wakanda under this royal given name.  
+  → Who is T'Challa?
+- **$600** — This blind Hell's Kitchen attorney moonlights as a horned vigilante.  
+  → Who is Matt Murdock?
+- **$800** — The Silver Age Flash is this Central City forensic scientist.  
+  → Who is Barry Allen?
+- **$1000** — Hal Jordan, wielder of a willpower-fueled ring, belongs to this intergalactic peacekeeping force.  
+  → What is the Green Lantern Corps?
 
 ### Movie Critters
-- **$200** — This 2003 Pixar film follows a clownfish dad searching the ocean for his son.  
-  → What is Finding Nemo?
-- **$400** — In "Ice Age" (2002), this acorn-obsessed saber-toothed squirrel steals every scene.  
+- **$200** — In 'Finding Nemo,' name the anxious clownfish father searching for his son.  
+  → Who is Marlin?
+- **$400** — In 'Ratatouille,' this refined-palate rat dreams of becoming a chef.  
+  → Who is Remy?
+- **$600** — This acorn-obsessed saber-toothed squirrel-rat provides slapstick in the 'Ice Age' films.  
   → Who is Scrat?
-- **$600** — Will Smith voiced Oscar, a fast-talking fish, in this 2004 DreamWorks film.  
-  → What is Shark Tale?
-- **$800** — This 2005 DreamWorks film sends four Central Park Zoo animals to an African island.  
-  → What is Madagascar?
-- **$1000** — In Disney's 2002 "Lilo & Stitch," Stitch is officially designated this experiment number.  
-  → What is 626?
+- **$800** — In 'Madagascar,' name the lemur king who performs 'I Like to Move It.'  
+  → Who is King Julien?
+- **$1000** — This 1998 DreamWorks ant film opened the same year as Pixar's 'A Bug's Life.'  
+  → What is Antz?
 
 ### Teams
-- **$200** — Iron Man, Cap and Thor headline this team billed as 'Earth's Mightiest Heroes.'  
+- **$200** — This Marvel team is billed as 'Earth's Mightiest Heroes.'  
   → Who are the Avengers?
-- **$400** — Superman, Batman and Wonder Woman anchor this premier DC super-team.  
-  → What is the Justice League?
-- **$600** — Professor Charles Xavier mentors this family of mutant heroes.  
+- **$400** — Professor Charles Xavier founded this mutant team at his school for gifted youngsters.  
   → Who are the X-Men?
-- **$800** — Star-Lord, Groot and Rocket form this cosmic, wisecracking Marvel squad.  
+- **$600** — This cosmic Marvel team includes a sentient tree and a gun-toting raccoon.  
   → Who are the Guardians of the Galaxy?
-- **$1000** — Robin, Starfire and Cyborg form this youthful 'Teen' DC team.  
-  → Who are the Titans?
+- **$800** — DC's Justice League debuted in 1960 in the anthology 'The Brave and the' this.  
+  → What is Bold?
+- **$1000** — The Fantastic Four gained their powers from exposure to these high-energy space particles.  
+  → What are cosmic rays?
 
 ### Sitcom Themes
-- **$200** — 'I'll Be There for You' by The Rembrandts opens this NBC comedy about six pals in New York.  
-  → What is Friends?
-- **$400** — 'Movin' on Up' to a deluxe apartment is the theme of this 'All in the Family' spin-off.  
+- **$200** — 'Movin' on Up' is the theme to this 'All in the Family' spinoff.  
   → What are The Jeffersons?
-- **$600** — 'Making your way in the world today takes everything you've got' opens this Boston bar comedy.  
-  → What is Cheers?
-- **$800** — 'Thank you for being a friend' introduces this sitcom about four older women in Miami.  
-  → What are The Golden Girls?
-- **$1000** — A rapped origin story 'born and raised' in West Philadelphia opens this Will Smith comedy.  
-  → What is The Fresh Prince of Bel-Air?
+- **$400** — The 'Cheers' theme's full title is this phrase about a welcoming bar.  
+  → What is 'Where Everybody Knows Your Name'?
+- **$600** — The 'Golden Girls' theme 'Thank You for Being a Friend' was a 1978 hit for this singer.  
+  → Who is Andrew Gold?
+- **$800** — The Rembrandts' 'Friends' theme carries this title.  
+  → What is 'I'll Be There for You'?
+- **$1000** — 'Love Is All Around' opened this 1970s sitcom about a Minneapolis newsroom.  
+  → What is The Mary Tyler Moore Show?
 
 ### FINAL — Comic Creators
-- This mustachioed writer-editor co-created Spider-Man and the X-Men and made cameos in many Marvel films.  
-  → Who is Stan Lee?
+- This reclusive artist co-created Spider-Man and Doctor Strange with Stan Lee before leaving Marvel.  
+  → Who is Steve Ditko?
 
 ---
 
 ## Set 5
 
 ### Venues & Rivalries
-- **$200** — This Boston ballpark, opened in 1912, has a tall left-field wall called the 'Green Monster.'  
+- **$200** — Opened in 1912, this Boston ballpark features the 37-foot 'Green Monster' wall.  
   → What is Fenway Park?
-- **$400** — The Yankees–Red Sox feud pits New York against this New England city.  
-  → What is Boston?
-- **$600** — College football's 'Iron Bowl' pits Auburn against this in-state Crimson Tide rival.  
-  → What is Alabama?
-- **$800** — This ivy-walled Chicago ballpark is home to the Cubs.  
+- **$400** — Opened in 1914 and known for its ivy-covered outfield walls, this Chicago park hosts the Cubs.  
   → What is Wrigley Field?
-- **$1000** — The storied Lakers–Celtics rivalry pits these two basketball cities against each other.  
-  → What are Los Angeles and Boston?
+- **$600** — College football's 'Iron Bowl' pits Auburn against this Crimson Tide rival.  
+  → What is Alabama?
+- **$800** — The Lakers' fiercest NBA-Finals rival plays its home games in this city.  
+  → What is Boston?
+- **$1000** — 'The Big House,' the largest stadium in the U.S., belongs to this university.  
+  → What is Michigan?
 
 ### Animal Anthems
-- **$200** — Baha Men's 2000 hit repeatedly asks who let these animals out.  
-  → What are the dogs?
-- **$400** — In 2005 this blue cartoon amphibian's version of "Axel F" topped European charts.  
-  → Who is Crazy Frog?
-- **$600** — This circa-2000 looping website featured a row of rodents dancing to a sped-up tune.  
-  → What is the Hampster Dance?
-- **$800** — Crazy Frog's "Axel F" is a remix of the theme from this 1984 Eddie Murphy cop comedy.  
-  → What is Beverly Hills Cop?
-- **$1000** — The Baha Men of "Who Let the Dogs Out" fame hail from this island nation.  
+- **$200** — The Baha Men, who asked who let the dogs out, hail from this island nation.  
   → What are the Bahamas?
+- **$400** — Crazy Frog's 2005 'Axel F' samples the theme from this 1984 Eddie Murphy comedy.  
+  → What is Beverly Hills Cop?
+- **$600** — Survivor's 'Eye of the Tiger' was written as the theme for this 1982 boxing sequel.  
+  → What is Rocky III?
+- **$800** — The 1961 doo-wop hit 'The Lion Sleeps Tonight' adapts a song by this South African, Solomon.  
+  → Who is Linda?
+- **$1000** — This 1958 Sheb Wooley novelty hit describes a one-eyed, one-horned flying creature that eats people.  
+  → What is 'The Purple People Eater'?
 
 ### Chocolate Bars
-- **$200** — This flat, segmented milk-chocolate bar comes from a Pennsylvania town famous for cocoa.  
-  → What is a Hershey's Bar?
-- **$400** — 'Gimme a break' pitches this crispy four-finger wafer bar.  
-  → What is Kit Kat?
-- **$600** — This caramel-nougat-and-peanut bar was named after the candy maker's favorite horse.  
+- **$200** — This bar of nougat, caramel and peanuts was named for the Mars family's favorite horse.  
   → What is Snickers?
-- **$800** — This bar splits into two chocolate-coated caramel-and-cookie sticks.  
-  → What is Twix?
-- **$1000** — This Mars bar of nougat and caramel claims it 'really satisfies.'  
-  → What is Milky Way?
+- **$400** — 'Gimme a break' advertises this originally-British four-finger wafer bar.  
+  → What is Kit Kat?
+- **$600** — Hershey's introduced these foil-wrapped conical chocolates in 1907.  
+  → What are Kisses?
+- **$800** — This Mars bar's name references swashbuckling characters and once contained three flavored pieces.  
+  → What is 3 Musketeers?
+- **$1000** — Toblerone's triangular peaks evoke the Matterhorn in this country, where the bar is made.  
+  → What is Switzerland?
 
 ### Which Publisher?
-- **$200** — The mad titan Thanos belongs to which of the two big comic publishers?  
+- **$200** — The cosmic villain Thanos was created in 1973 at this publisher.  
   → What is Marvel?
-- **$400** — The New Gods tyrant Darkseid was created at which publisher?  
+- **$400** — Jack Kirby created the New Gods and Darkseid at this publisher.  
   → What is DC?
-- **$600** — The doomed home planet Krypton comes from which publisher's mythology?  
+- **$600** — Alan Moore's 1986 limited series 'Watchmen' was published by this company.  
   → What is DC?
-- **$800** — The hidden African nation of Wakanda originates at which publisher?  
-  → What is Marvel?
-- **$1000** — The acclaimed graphic novel 'Watchmen' was put out by which publisher?  
+- **$800** — The mature-readers imprint 'Vertigo,' home to 'Sandman,' belonged to this publisher.  
   → What is DC?
+- **$1000** — Todd McFarlane's 1992 hit 'Spawn' helped launch this creator-owned publisher.  
+  → What is Image Comics?
 
 ### Shapes & Tie-Ins
-- **$200** — Lucky Charms marshmallows famously include hearts, stars, clovers and these orange crescents.  
-  → What are moons?
-- **$400** — A single Cheerio is shaped like this round letter of the alphabet.  
+- **$200** — A single Cheerio takes the shape of this letter of the alphabet.  
   → What is an O?
-- **$600** — Honeycomb cereal pieces have this six-sided geometric shape.  
+- **$400** — Each piece of the Post cereal 'Honeycomb' takes this six-sided geometric form.  
   → What is a hexagon?
-- **$800** — Cocoa Pebbles and Fruity Pebbles are licensed from this prehistoric cartoon clan.  
+- **$600** — Cocoa Pebbles and Fruity Pebbles are licensed from this prehistoric animated family.  
   → Who are the Flintstones?
-- **$1000** — Apple Jacks and Froot Loops are both shaped like this small circular form.  
-  → What is a ring?
+- **$800** — This strawberry-flavored General Mills monster cereal debuted in 1971 alongside Count Chocula.  
+  → What is Franken Berry?
+- **$1000** — Lucky Charms launched in 1964 with marshmallow hearts, moons, stars and these green ones.  
+  → What are clovers?
 
 ### FINAL — Modern Tech
-- This Apple co-founder, in a black turtleneck, unveiled the first iPhone in 2007.  
-  → Who is Steve Jobs?
+- This Apple co-founder engineered the Apple I and Apple II and is the company's other 'Steve.'  
+  → Who is Steve Wozniak?
 
 ---
 
 ## Set 6
 
 ### Pixar Pals
-- **$200** — In 'Toy Story,' the cowboy Woody's chief rival turned best friend is this space ranger.  
+- **$200** — In 'Toy Story,' name the space-ranger action figure who becomes Woody's friend.  
   → Who is Buzz Lightyear?
-- **$400** — In 'Finding Nemo,' this forgetful blue tang helps Marlin search for his son.  
-  → Who is Dory?
-- **$600** — In 'Monsters, Inc.,' this short, one-eyed green monster is Sulley's wisecracking partner.  
+- **$400** — In 'Monsters, Inc.,' this short, one-eyed green monster is Sulley's coach and best friend.  
   → Who is Mike Wazowski?
-- **$800** — In 'Up,' this golden retriever wears a collar that lets him speak aloud.  
+- **$600** — In 'Up,' name the friendly dog whose special collar voices his thoughts aloud.  
   → Who is Dug?
-- **$1000** — In 'Ratatouille,' the rat Remy secretly steers this clumsy kitchen garbage boy by his hair.  
-  → Who is Linguini?
+- **$800** — Voiced by Phyllis Smith, this blue, bespectacled emotion appears in 'Inside Out.'  
+  → Who is Sadness?
+- **$1000** — This Pixar director helmed 'Toy Story' (1995) and later led the studio creatively.  
+  → Who is John Lasseter?
 
 ### Nicktoons
-- **$200** — This calm fourth-grader with a football-shaped head lived in a big city boarding house.  
+- **$200** — This 1991 Klasky-Csupo series followed a band of babies led by Tommy Pickles.  
+  → What is Rugrats?
+- **$400** — This football-headed boy lived in his grandparents' Sunset Arms boarding house.  
   → Who is Arnold?
-- **$400** — In a 1991 Klasky-Csupo series, this screwdriver-wielding baby in a blue shirt led the diaper crew.  
-  → Who is Tommy Pickles?
-- **$600** — This journal-keeping cartoon kid crushed on Patti Mayonnaise and had an alter ego, Quailman.  
-  → Who is Doug Funnie?
-- **$800** — Two dam-building brothers named Norbert and Daggett were this buck-toothed rodent.  
-  → What are beavers?
-- **$1000** — This 1998 Nicktoon starred conjoined feline-and-canine title characters sharing one body.  
+- **$600** — 'SpongeBob SquarePants' was created by this marine-biologist-turned-animator.  
+  → Who is Stephen Hillenburg?
+- **$800** — This 1998 Nicktoon starred a conjoined cat and dog sharing a single body.  
   → What is CatDog?
+- **$1000** — 'The Ren & Stimpy Show' was created by this controversial Canadian animator.  
+  → Who is John Kricfalusi?
 
 ### Name the Capital
-- **$200** — This live-music city is the capital of Texas.  
+- **$200** — This Texas capital is famous for its music scene and 'Keep It Weird' slogan.  
   → What is Austin?
-- **$400** — This city on the American River is California's capital.  
-  → What is Sacramento?
-- **$600** — This upstate city, not the largest one, is the capital of New York.  
-  → What is Albany?
-- **$800** — This Panhandle city is the capital of Florida.  
-  → What is Tallahassee?
-- **$1000** — This city, sharing a witch-trial name, is the capital of Oregon.  
-  → What is Salem?
+- **$400** — Washington State's capital sits on Puget Sound, far smaller than nearby Seattle.  
+  → What is Olympia?
+- **$600** — This Connecticut capital, a major insurance hub, lies on the Connecticut River.  
+  → What is Hartford?
+- **$800** — Vermont's capital is the least-populous state capital in the U.S.  
+  → What is Montpelier?
+- **$1000** — Maine's capital sits on the Kennebec River and shares a name with a Roman empress.  
+  → What is Augusta?
 
 ### Superhero Foes
-- **$200** — This green-haired clown prince of crime is Batman's archenemy.  
-  → Who is the Joker?
-- **$400** — This Spider-Man foe is a scientist fused with four mechanical tentacle arms.  
+- **$200** — This Spider-Man foe is scientist Otto Octavius, fused to four mechanical arms.  
   → Who is Doctor Octopus?
-- **$600** — This bald billionaire businessman is Superman's brilliant nemesis.  
-  → Who is Lex Luthor?
-- **$800** — This trickster god, Thor's adopted brother, led the Chitauri attack on New York.  
-  → Who is Loki?
-- **$1000** — The mad titan Thanos sought to gather all six of these reality-warping gems.  
-  → What are the Infinity Stones?
+- **$400** — This umbrella-wielding Batman villain is the portly Oswald Cobblepot.  
+  → Who is the Penguin?
+- **$600** — This masked monarch of Latveria is the Fantastic Four's archenemy.  
+  → Who is Doctor Doom?
+- **$800** — This Holocaust survivor and X-Men antagonist controls magnetism.  
+  → Who is Magneto?
+- **$1000** — This towering crime boss, the rotund Wilson Fisk, menaces Daredevil and Spider-Man.  
+  → Who is the Kingpin?
 
 ### How to Win
-- **$200** — Chess is won by trapping the enemy king in this inescapable position.  
+- **$200** — In chess, this term describes a king under inescapable attack, ending the game.  
   → What is checkmate?
-- **$400** — In Monopoly, you win once every rival has gone this, out of money.  
-  → What is bankrupt?
-- **$600** — In Scrabble, playing all seven of your tiles at once earns this 50-point bonus.  
+- **$400** — In Scrabble, playing all seven of your tiles at once earns this 50-point bonus.  
   → What is a bingo?
-- **$800** — Rolling five dice that all show the same number scores this game's namesake 50 points.  
-  → What is a Yahtzee?
-- **$1000** — In Risk, victory means your armies occupy every one of these regions on the map.  
-  → What are territories?
+- **$600** — In Monopoly, this corner square lets a player merely pass through with no penalty.  
+  → What is Just Visiting?
+- **$800** — In contract bridge, winning all thirteen tricks is called this.  
+  → What is a grand slam?
+- **$1000** — In Risk, holding an entire one of these landmasses grants bonus armies each turn.  
+  → What is a continent?
 
 ### FINAL — Pizza Delivery
-- This chain once promised '30 minutes or it's free' and uses a red-and-blue domino tile logo.  
+- Founded in 1960 in Ypsilanti, Michigan, this chain once promised delivery in '30 minutes or it's free.'  
   → What is Domino's?
 
 ---
@@ -411,271 +411,271 @@
 ## Set 7
 
 ### Series Finales
-- **$200** — This 1998 finale jailed its quartet of self-absorbed New Yorkers from a 'show about nothing.'  
+- **$200** — This 'show about nothing' ended in 1998 with its four leads sentenced to jail.  
   → What is Seinfeld?
-- **$400** — This 1983 war-comedy finale was titled 'Goodbye, Farewell and Amen.'  
+- **$400** — This 1983 finale, 'Goodbye, Farewell and Amen,' was long the most-watched U.S. broadcast.  
   → What is M*A*S*H?
-- **$600** — Tony orders onion rings before this HBO mob drama abruptly cuts to a black screen.  
-  → What is The Sopranos?
-- **$800** — This chemistry-teacher-turned-kingpin dies in his lab in the finale 'Felina.'  
-  → Who is Walter White?
-- **$1000** — The 'Friends' gang leaves their apartment keys and heads out for one last cup of this.  
-  → What is coffee?
+- **$600** — This mob drama ended in 2007 with an abrupt cut to black in a diner.  
+  → What are The Sopranos?
+- **$800** — The 2013 finale 'Felina' concluded this drama about a chemistry teacher named Walter White.  
+  → What is Breaking Bad?
+- **$1000** — This 2010 finale revealed a 'flash-sideways' afterlife, dividing fans of a castaway drama.  
+  → What is Lost?
 
 ### Who Invented It?
-- **$200** — This prolific Menlo Park inventor is credited with the first practical incandescent light bulb.  
+- **$200** — This Menlo Park inventor held over 1,000 U.S. patents, including for the phonograph.  
   → Who is Thomas Edison?
-- **$400** — This Scottish-born scientist won the 1876 telephone patent.  
-  → Who is Alexander Graham Bell?
-- **$600** — This Serbian-American visionary championed alternating-current electrical systems.  
+- **$400** — This Serbian-American engineer's alternating-current designs power the modern grid.  
   → Who is Nikola Tesla?
-- **$800** — These Ohio bicycle-shop brothers achieved the first powered airplane flight in 1903.  
-  → Who are the Wright Brothers?
-- **$1000** — This Swedish chemist invented dynamite and endowed a famous set of prizes.  
+- **$600** — This British mathematician's 1936 'universal machine' helped found computer science.  
+  → Who is Alan Turing?
+- **$800** — This chemist invented dynamite and funded a famous set of annual prizes.  
   → Who is Alfred Nobel?
+- **$1000** — This physicist co-invented the transistor at Bell Labs and later promoted eugenics.  
+  → Who is William Shockley?
 
 ### Space Firsts
-- **$200** — This Soviet cosmonaut became the first human in space in 1961.  
+- **$200** — In April 1961 this Soviet cosmonaut became the first human in space.  
   → Who is Yuri Gagarin?
-- **$400** — This American was the first person to set foot on the Moon.  
-  → Who is Neil Armstrong?
-- **$600** — This American became the first U.S. woman in space in 1983.  
-  → Who is Sally Ride?
-- **$800** — This Soviet 'fellow traveler,' launched in 1957, was the first artificial satellite.  
+- **$400** — Launched in 1957, this Soviet craft was the first artificial satellite.  
   → What is Sputnik?
-- **$1000** — Launched in 1977, this probe became the first human craft to reach interstellar space.  
+- **$600** — In 1983 this American became the first U.S. woman in space.  
+  → Who is Sally Ride?
+- **$800** — In 1963 this Soviet became the first woman in space, surname Tereshkova.  
+  → Who is Valentina Tereshkova?
+- **$1000** — Launched in 1977, this probe became the first human craft to enter interstellar space.  
   → What is Voyager 1?
 
 ### Logos & Colors
-- **$200** — The Chicago Bulls' primary uniform color is this fiery hue.  
+- **$200** — The Chicago Bulls wear this fiery color as their primary hue.  
   → What is red?
-- **$400** — The Dallas Cowboys' helmets feature this five-pointed shape.  
+- **$400** — The Dallas Cowboys' helmet displays this five-pointed shape.  
   → What is a star?
-- **$600** — The Pittsburgh Steelers pair black with this shining color.  
+- **$600** — The Steelers' 'Steelmark' logo carries this number of diamond-like hypocycloids.  
+  → What is three?
+- **$800** — The Green Bay Packers' 'G' logo pairs green with this metallic color.  
   → What is gold?
-- **$800** — The Green Bay Packers' two colors are green and this.  
-  → What is gold?
-- **$1000** — The Raiders' menacing look pairs a metallic gray hue with the color of night.  
-  → What are silver and black?
+- **$1000** — The Montreal Canadiens' interlocking logo combines a 'C' and this letter, for 'club de hockey.'  
+  → What is H?
 
 ### Mascots
-- **$200** — This fuzzy green Philadelphia baseball mascot has a long snout and a cannon.  
+- **$200** — This furry green Philadelphia baseball mascot debuted in 1978.  
   → What is the Phillie Phanatic?
-- **$400** — The San Diego Padres' mascot is a brown-robed, smiling religious brother.  
+- **$400** — The San Diego Padres' original mascot was this robed, smiling religious figure.  
   → What is the Swinging Friar?
 - **$600** — The University of Texas parades a live longhorn steer by this name.  
   → What is Bevo?
-- **$800** — The Phoenix Suns' costumed mascot is a purple, dunking ape.  
+- **$800** — The Phoenix Suns' purple costumed mascot is this dunking ape.  
   → What is the Gorilla?
-- **$1000** — Notre Dame's pugnacious 'Fighting Irish' mascot is this little fellow with raised fists.  
+- **$1000** — Notre Dame's pugnacious costumed mascot is this little figure with raised fists.  
   → What is the Leprechaun?
 
 ### FINAL — Villain Catchphrases
-- In 'The Dark Knight,' this anarchic, scarred villain repeatedly taunts victims with 'Why so serious?'  
-  → Who is the Joker?
+- In 'The Silence of the Lambs,' this villain coolly recalls eating a census taker's liver with fava beans.  
+  → Who is Hannibal Lecter?
 
 ---
 
 ## Set 8
 
 ### Mascots
-- **$200** — This red-haired, yellow-jumpsuited clown has fronted McDonald's ads for decades.  
+- **$200** — This red-haired clown debuted as the McDonald's mascot in 1963, first played by Willard Scott.  
   → Who is Ronald McDonald?
-- **$400** — This white-suited, goateed 'Colonel' is the face of a fried chicken empire.  
-  → Who is Colonel Sanders?
-- **$600** — A talking Chihuahua in late-90s ads pined 'Yo quiero...' for this Mexican-style chain.  
-  → What is Taco Bell?
-- **$800** — This chain's ad mascot is a calm executive topped with a giant round white ball for a head.  
-  → What is Jack in the Box?
-- **$1000** — Toucan Sam, who follows his nose, fronts this fruity Kellogg's loop cereal sold at no drive-thru.  
-  → What is Froot Loops?
+- **$400** — This monocled, top-hatted legume has represented Planters since 1916.  
+  → Who is Mr. Peanut?
+- **$600** — This giggling, doughy figure springs up when poked to sell Pillsbury products.  
+  → Who is the Pillsbury Doughboy?
+- **$800** — This towering verdant mascot booms 'Ho ho ho' for a frozen-vegetable brand.  
+  → Who is the Jolly Green Giant?
+- **$1000** — This beret-wearing cartoon fish ironically keeps trying to get caught by a tuna brand.  
+  → Who is Charlie the Tuna?
 
 ### Villain Henchmen
-- **$200** — Ursula commands two slithering moray henchmen named Flotsam and Jetsam, of this slippery species.  
-  → What are eels?
-- **$400** — Jafar's sarcastic, squawking sidekick is this red-feathered bird.  
+- **$200** — Jafar's sarcastic, squawking sidekick in 'Aladdin' is this red parrot.  
   → Who is Iago?
-- **$600** — Scar's cackling trio includes Shenzi, Banzai and this nonspeaking, giggling one.  
-  → Who is Ed?
-- **$800** — Captain Hook's bumbling, kindly first mate is this fellow.  
+- **$400** — Ursula's two slippery eel minions are Flotsam and this one.  
+  → Who is Jetsam?
+- **$600** — Captain Hook's anxious yet kindly first mate is this fellow.  
   → Who is Mr. Smee?
-- **$1000** — Maleficent's clumsy foot-soldiers in 'Sleeping Beauty' are this pig-snouted horde.  
+- **$800** — Scar's hyena trio is Shenzi, Banzai and this non-speaking, giggling one.  
+  → Who is Ed?
+- **$1000** — In 'Sleeping Beauty,' Maleficent's clumsy pig-snouted foot soldiers are this horde.  
   → What are goons?
 
 ### Last Words (History)
-- **$200** — Shakespeare gives this betrayed Roman dictator the dying line 'Et tu, Brute?'  
+- **$200** — Shakespeare gives this assassinated dictator the dying line 'Et tu, Brute?'  
   → Who is Julius Caesar?
-- **$400** — This patriot regretted having but one of these to give for his country before hanging.  
-  → What is a life?
-- **$600** — Marie Antoinette's reported final apology was for stepping on this person's foot.  
-  → Who is the executioner?
-- **$800** — Naval hero John Paul Jones reportedly declared he had not yet begun to do this.  
-  → What is fight?
-- **$1000** — Inventor Thomas Edison reportedly murmured 'It is very beautiful over' this place.  
-  → What is there?
+- **$400** — This patriot spy reportedly regretted having but one life to give before his 1776 hanging.  
+  → Who is Nathan Hale?
+- **$600** — This German writer's reputed final words were 'More light!' ('Mehr Licht!').  
+  → Who is Goethe?
+- **$800** — This British admiral died at Trafalgar reportedly murmuring 'Kiss me, Hardy.'  
+  → Who is Horatio Nelson?
+- **$1000** — This Australian outlaw reputedly faced the gallows in 1880 saying 'Such is life.'  
+  → Who is Ned Kelly?
 
 ### Athlete Nicknames
-- **$200** — Basketball's 'His Airness' wore number 23 for the Chicago Bulls.  
+- **$200** — Basketball's 'His Airness' won six NBA titles with the Chicago Bulls.  
   → Who is Michael Jordan?
-- **$400** — This boxer called himself 'The Greatest' and floated like a butterfly.  
+- **$400** — Boxing's 'The Greatest' lit the cauldron at the 1996 Atlanta Olympics.  
   → Who is Muhammad Ali?
-- **$600** — Hockey's 'Great One' wore number 99 and shattered scoring records.  
+- **$600** — Hockey's 'The Great One' holds the NHL career points record.  
   → Who is Wayne Gretzky?
-- **$800** — This Argentine soccer legend, nicknamed 'D10S,' won the 1986 World Cup.  
-  → Who is Diego Maradona?
-- **$1000** — Baseball's 'Sultan of Swat' clouted 714 career home runs.  
-  → Who is Babe Ruth?
+- **$800** — Soccer's 'O Rei' (The King), this Brazilian won three World Cups.  
+  → Who is Pele?
+- **$1000** — Baseball's 'The Splendid Splinter' was the last man to bat .400 in a season.  
+  → Who is Ted Williams?
 
 ### Candy History
-- **$200** — Milton Hershey built an entire company town for his chocolate works in this state.  
+- **$200** — Milton Hershey built a model company town for his chocolate works in this state.  
   → What is Pennsylvania?
-- **$400** — Besides candy, the Mars company is a giant maker of this product for cats and dogs.  
-  → What is pet food?
-- **$600** — PEZ began in this European country as a compressed peppermint breath candy.  
+- **$400** — PEZ originated in this European country in 1927 as a peppermint for adults.  
   → What is Austria?
-- **$800** — Candy corn's three traditional bands are white, orange and this.  
-  → What is yellow?
-- **$1000** — The chocolate maker Cadbury was founded in this country, also home to its Dairy Milk bar.  
-  → What is England?
+- **$600** — The second 'M' in M&M's honors Bruce, son of a Hershey president, whose surname is this.  
+  → Who is Murrie?
+- **$800** — Candy corn, dating to the 1880s, was originally marketed as 'Chicken' this.  
+  → What is feed?
+- **$1000** — This Quaker family firm, founded in Birmingham in 1824, makes Dairy Milk.  
+  → What is Cadbury?
 
 ### FINAL — World Capitals
-- This purpose-built inland city, not Sydney or Melbourne, is the capital of Australia.  
-  → What is Canberra?
+- This purpose-built modernist city replaced Rio de Janeiro as Brazil's capital in 1960.  
+  → What is Brasilia?
 
 ---
 
 ## Set 9
 
 ### Sci-Fi & Fantasy
-- **$200** — This black-helmeted Sith Lord turned out to be Luke Skywalker's father.  
+- **$200** — This armored Sith Lord, once Anakin Skywalker, breathes through a life-support mask.  
   → Who is Darth Vader?
-- **$400** — This dark lord of Mordor forged the One Ring to rule Middle-earth.  
+- **$400** — This dark lord of Mordor is bound to the One Ring he forged.  
   → Who is Sauron?
-- **$600** — This relentless suited program hunted Neo through the simulated world of the Matrix.  
+- **$600** — In 'Dune,' this grotesque, floating Baron schemes against House Atreides.  
+  → Who is Baron Harkonnen?
+- **$800** — In 'The Matrix,' this relentless suited program hunts Neo.  
   → Who is Agent Smith?
-- **$800** — This dark wizard, 'He-Who-Must-Not-Be-Named,' sought immortality via Horcruxes.  
-  → Who is Voldemort?
-- **$1000** — This shape-shifting, liquid-metal assassin model was sent to kill John Connor.  
-  → What is the T-1000?
+- **$1000** — In 'Blade Runner,' this replicant leader delivers the 'tears in rain' monologue.  
+  → Who is Roy Batty?
 
 ### Game Pieces
-- **$200** — Classic Monopoly tokens include a top hat, a thimble and this Scottie figure.  
+- **$200** — Each side in standard chess begins with this many pawns.  
+  → What is eight?
+- **$400** — Classic Monopoly tokens include the top hat, thimble and this Scottie figure.  
   → What is the dog?
-- **$400** — Chess sets include pawns, rooks, bishops, knights, a queen and this most important royal.  
-  → What is the king?
-- **$600** — Connect Four players take turns dropping these colored plastic discs into a grid.  
-  → What are checkers?
-- **$800** — In Operation, you extract plastic ailments using these metal pincers.  
-  → What are tweezers?
-- **$1000** — In Sorry!, players slide these colored plastic playing pieces around the track.  
-  → What are pawns?
+- **$600** — A standard playing-card deck is divided into this many suits.  
+  → What is four?
+- **$800** — In backgammon, each player controls this many checkers.  
+  → What is fifteen?
+- **$1000** — A standard double-six domino set contains this many tiles.  
+  → What is 28?
 
 ### Space Missions
-- **$200** — This 1969 NASA mission first landed humans on the lunar surface.  
+- **$200** — This 1969 mission first landed humans on the Moon.  
   → What is Apollo 11?
-- **$400** — This reusable winged NASA spacecraft flew from 1981 until its retirement in 2011.  
+- **$400** — This reusable NASA spacecraft program flew from 1981 to 2011.  
   → What is the Space Shuttle?
-- **$600** — This orbiting observatory, launched in 1990, is named for an American astronomer.  
-  → What is the Hubble Space Telescope?
-- **$800** — The 'Perseverance' rover currently explores this red world.  
-  → What is Mars?
-- **$1000** — This crewed orbital laboratory, abbreviated ISS, has hosted astronauts since 2000.  
-  → What is the International Space Station?
+- **$600** — This space telescope, launched in 1990, was named for an American astronomer.  
+  → What is Hubble?
+- **$800** — This 1970 mission survived an oxygen-tank explosion and the line 'Houston, we've had a problem.'  
+  → What is Apollo 13?
+- **$1000** — Landing via a 'sky crane' in 2012, this NASA rover explores Mars's Gale Crater.  
+  → What is Curiosity?
 
 ### Finish the Lyric
-- **$200** — The Gilligan's Island theme says the castaways set out on 'a three-hour' this.  
+- **$200** — The 'Gilligan's Island' theme says the crew set sail for a 'three-hour' this.  
   → What is tour?
-- **$400** — The Brady Bunch theme calls it 'the story of a lovely' this.  
-  → What is lady?
-- **$600** — The Flintstones theme promises 'we'll have a gay old' this.  
+- **$400** — The 'Fresh Prince' theme says 'In west Philadelphia, born and' this.  
+  → What is raised?
+- **$600** — The 'Flintstones' theme promises 'we'll have a gay old' this.  
   → What is time?
-- **$800** — The Cheers theme longs for a place 'where everybody knows your' this.  
-  → What is name?
-- **$1000** — The Addams Family theme tells listeners to do this twice with their fingers.  
-  → What is snap?
+- **$800** — 'The Brady Bunch' theme calls it 'the story of a lovely' this.  
+  → What is lady?
+- **$1000** — 'The Greatest American Hero' theme opens 'Believe it or not, I'm walking on' this.  
+  → What is air?
 
 ### Real Famous Animals
-- **$200** — Every February 2, this Pennsylvania groundhog "predicts" the weather.  
+- **$200** — This Pennsylvania groundhog 'forecasts' the arrival of spring each February 2.  
   → Who is Punxsutawney Phil?
-- **$400** — "Crocodile Hunter" Steve Irwin was a beloved wildlife expert from this country.  
-  → What is Australia?
-- **$600** — This is Steve Irwin's signature one-word exclamation of excitement.  
-  → What is "Crikey!"?
-- **$800** — In 2006 this Berlin Zoo polar bear cub became a worldwide media sensation.  
-  → Who is Knut?
-- **$1000** — In 2002's "The Crocodile Hunter: Collision Course," Irwin co-starred with this real-life wife.  
-  → Who is Terri Irwin?
+- **$400** — This thoroughbred won the 1973 Triple Crown, taking the Belmont by 31 lengths.  
+  → Who is Secretariat?
+- **$600** — This Soviet dog became the first animal to orbit Earth, aboard Sputnik 2 in 1957.  
+  → Who is Laika?
+- **$800** — This loyal Akita waited years at a Tokyo station for his deceased owner.  
+  → Who is Hachiko?
+- **$1000** — This western lowland gorilla learned modified sign language under Francine Patterson.  
+  → Who is Koko?
 
 ### FINAL — Constellations
-- This mythological hunter constellation is easily spotted by its three-star 'belt.'  
-  → What is Orion?
+- This zodiac constellation, the Scorpion, contains the red supergiant Antares at its heart.  
+  → What is Scorpius?
 
 ---
 
 ## Set 10
 
 ### Origins & Firsts
-- **$200** — White Castle, opened in 1921, is often credited as the first chain selling these small square patties.  
-  → What are hamburgers?
-- **$400** — The McDonald brothers launched their original stand in San Bernardino, in this U.S. state.  
-  → What is California?
-- **$600** — Colonel Sanders first cooked his secret-recipe chicken at a roadside spot in this Bluegrass State.  
+- **$200** — This chain's 1948 'Speedee Service System' pioneered assembly-line fast-food cooking.  
+  → What is McDonald's?
+- **$400** — Colonel Sanders first sold his fried chicken from a service station in Corbin, in this state.  
   → What is Kentucky?
-- **$800** — A standard Subway 'footlong' sandwich measures this many inches.  
-  → What is 12?
-- **$1000** — Before franchising burgers, Ray Kroc sold these five-spindled milkshake machines.  
-  → What are Multimixers?
+- **$600** — This chain opened its first drive-thru-only stand in 1948 in Baldwin Park, California.  
+  → What is In-N-Out?
+- **$800** — Founded in 1958 by the Carney brothers in Wichita, this chain is named for its small original building.  
+  → What is Pizza Hut?
+- **$1000** — This coffee chain opened its first store at Seattle's Pike Place Market in 1971.  
+  → What is Starbucks?
 
 ### Gummy & Chewy
-- **$200** — These translucent, chewy bear-shaped candies come in fruit flavors.  
-  → What are gummy bears?
-- **$400** — These long, twisted red licorice-style ropes are a Hershey's chewy treat.  
-  → What are Twizzlers?
-- **$600** — These individually wrapped, chewy fruit squares are sold in a pink-heavy pack.  
+- **$200** — This German company introduced the original gummy bear in the 1920s.  
+  → What is Haribo?
+- **$400** — These chewy fruit squares launched in the UK in 1960 as 'Opal Fruits.'  
   → What is Starburst?
-- **$800** — This pulled, pastel boardwalk treat is named for the sea despite containing little of it.  
+- **$600** — This Hershey brand of red, twisted licorice-style ropes is a chewy staple.  
+  → What are Twizzlers?
+- **$800** — This pulled, pastel boardwalk candy contains little to none of the sea water in its name.  
   → What is saltwater taffy?
-- **$1000** — Sour gummy worms get their pucker from a coating of this tangy crystalline acid.  
-  → What is citric acid?
+- **$1000** — Many sour candies are dusted with citric acid and this other fruit acid found in green apples.  
+  → What is malic acid?
 
 ### Slogans
-- **$200** — 'I'm Lovin' It,' set to a famous five-note jingle, belongs to this arches chain.  
-  → What is McDonald's?
-- **$400** — 'Eat Fresh' was long the tagline of this footlong-sandwich chain.  
-  → What is Subway?
-- **$600** — 'Think Outside the Bun' urged customers toward this taco-and-burrito chain.  
-  → What is Taco Bell?
-- **$800** — 'Finger Lickin' Good' is the classic line of this Colonel's chicken chain.  
-  → What is KFC?
-- **$1000** — 'Have It Your Way' was for decades the motto of this Whopper-selling chain.  
-  → What is Burger King?
+- **$200** — 'They're gr-r-reat!' is the long-time catchphrase of this tiger-fronted cereal.  
+  → What is Frosted Flakes?
+- **$400** — 'Snap! Crackle! Pop!' are the three elf mascots of this crisped-rice cereal.  
+  → What are Rice Krispies?
+- **$600** — 'The Breakfast of Champions' is the slogan of this athlete-endorsed wheat-flake cereal.  
+  → What is Wheaties?
+- **$800** — 'Follow your nose' is Toucan Sam's motto for this fruity-ring cereal.  
+  → What is Froot Loops?
+- **$1000** — 'Kid tested, mother approved' has long advertised this General Mills cereal.  
+  → What is Kix?
 
 ### Medicine & Science
-- **$200** — Alexander Fleming discovered this mold-derived antibiotic in 1928.  
+- **$200** — Alexander Fleming discovered this antibiotic from Penicillium mold in 1928.  
   → What is penicillin?
-- **$400** — Jonas Salk developed the first effective vaccine against this paralyzing disease.  
+- **$400** — Jonas Salk developed the first widely used vaccine against this paralytic disease.  
   → What is polio?
-- **$600** — This English doctor pioneered smallpox vaccination using cowpox.  
-  → Who is Edward Jenner?
-- **$800** — Marie Curie won Nobel Prizes for her work on this phenomenon, a term she coined.  
+- **$600** — This Austrian friar's pea-plant experiments founded the science of genetics.  
+  → Who is Gregor Mendel?
+- **$800** — Watson and Crick described the double-helix structure of this molecule in 1953.  
+  → What is DNA?
+- **$1000** — Marie Curie coined this term and won Nobel Prizes in two sciences studying it.  
   → What is radioactivity?
-- **$1000** — Wilhelm Roentgen discovered these penetrating imaging rays in 1895.  
-  → What are X-rays?
 
 ### Death Scenes
-- **$200** — This aged Jedi lets Vader strike him down, then vanishes leaving empty robes.  
+- **$200** — In 'Star Wars: A New Hope,' this Jedi lets Vader strike him down and vanishes.  
   → Who is Obi-Wan Kenobi?
-- **$400** — Hitchcock shocked audiences by killing this lead character in an early shower stabbing.  
+- **$400** — In 'Psycho,' this character is killed in the infamous shower scene.  
   → Who is Marion Crane?
-- **$600** — In 'Titanic,' this poor artist freezes in the Atlantic so Rose can survive on a door.  
-  → Who is Jack Dawson?
-- **$800** — Mufasa is trampled to death in a stampede of these horned plains animals.  
+- **$600** — In 'The Godfather,' this hot-headed eldest Corleone son is gunned down at a toll booth.  
+  → Who is Sonny Corleone?
+- **$800** — In 'The Lion King,' Mufasa is trampled to death in a stampede of these animals.  
   → What are wildebeests?
-- **$1000** — In 'Old Yeller,' the boy must tearfully shoot his loyal pet after it contracts this disease.  
+- **$1000** — In 'Old Yeller,' the boy must put down his dog after it contracts this disease.  
   → What is rabies?
 
 ### FINAL — Animated Animal Friends
-- Voiced by Ellen DeGeneres, this forgetful blue tang debuted in a 2003 Pixar film and headlined a 2016 sequel of her own.  
+- Voiced by Ellen DeGeneres, this forgetful blue tang first surfaced in a 2003 Pixar film.  
   → Who is Dory?
 
 ---
@@ -683,67 +683,67 @@
 ## Set 11
 
 ### Name That Show
-- **$200** — 'Who lives in a pineapple under the sea?' opens this Nickelodeon cartoon.  
+- **$200** — 'Who lives in a pineapple under the sea?' opens this Nickelodeon series.  
   → What is SpongeBob SquarePants?
-- **$400** — 'A horse is a horse, of course, of course' introduced this talking-equine comedy.  
-  → What is Mister Ed?
-- **$600** — 'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's show.  
+- **$400** — 'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's program.  
   → What is Sesame Street?
-- **$800** — This 90s ABC 'TGIF' comedy followed Cory Matthews and his teacher Mr. Feeny.  
-  → What is Boy Meets World?
-- **$1000** — 'Believe it or not, I'm walking on air' opened this comedy about a reluctant flying hero.  
-  → What is The Greatest American Hero?
+- **$600** — 'A horse is a horse, of course, of course' introduced this 1960s talking-equine sitcom.  
+  → What is Mister Ed?
+- **$800** — 'Come and listen to a story about a man named Jed' opens this rags-to-riches sitcom.  
+  → What are The Beverly Hillbillies?
+- **$1000** — 'Just sit right back and you'll hear a tale' opens this 1960s castaway sitcom.  
+  → What is Gilligan's Island?
 
 ### Animal Sidekicks
-- **$200** — This mischievous pet monkey accompanies the street rat Aladdin.  
+- **$200** — This mischievous pet monkey accompanies the street rat in 'Aladdin.'  
   → Who is Abu?
-- **$400** — This nervous Jamaican crab serves King Triton and sings 'Under the Sea.'  
+- **$400** — This Jamaican-accented crab serves King Triton in 'The Little Mermaid.'  
   → Who is Sebastian?
-- **$600** — This small, fast-talking red dragon guards the heroine of 'Mulan.'  
+- **$600** — Voiced by Eddie Murphy, this small red dragon guards the heroine of 'Mulan.'  
   → Who is Mushu?
-- **$800** — This curious raccoon is Pocahontas's woodland companion.  
-  → Who is Meeko?
-- **$1000** — In 'Cinderella,' the helpful mice include Jaq and this plump one.  
+- **$800** — In 'Cinderella,' name the plump mouse befriended by Jaq.  
   → Who is Gus?
+- **$1000** — Princess Jasmine's fiercely protective pet tiger bears this name.  
+  → Who is Rajah?
 
 ### Cartoon Menagerie
-- **$200** — This square yellow sea sponge lives in a pineapple under the sea.  
+- **$200** — This yellow sea sponge works as a fry cook at the Krusty Krab.  
   → Who is SpongeBob SquarePants?
-- **$400** — SpongeBob's dim-witted best friend is this pink starfish.  
+- **$400** — This pink starfish is SpongeBob's dim-witted best friend.  
   → Who is Patrick Star?
-- **$600** — On "The Wild Thornberrys," young Eliza has the secret power to do this with animals.  
+- **$600** — On 'The Wild Thornberrys,' young Eliza has the secret power to do this with animals.  
   → What is talk to them?
-- **$800** — This 2004 live-action movie starred a CGI version of the lasagna-loving comic-strip cat.  
-  → What is Garfield?
-- **$1000** — King Julien, the "I Like to Move It" party animal of Madagascar, is this type of primate.  
-  → What is a (ring-tailed) lemur?
+- **$800** — This Hanna-Barbera Great Dane solves mysteries with a teen gang in the Mystery Machine.  
+  → Who is Scooby-Doo?
+- **$1000** — This cat-and-mouse duo headlined a slapstick MGM theatrical-short rivalry from 1940.  
+  → Who are Tom and Jerry?
 
 ### Rules & Terms
-- **$200** — Rolling these two pip-covered cubes determines movement in many games.  
+- **$200** — Rolling these two pip-marked cubes governs movement in many games.  
   → What are dice?
-- **$400** — In Monopoly, landing on the wrong corner can send you here, behind bars.  
+- **$400** — In Monopoly, landing on the wrong corner sends a player to this place.  
   → What is Jail?
-- **$600** — In Trivial Pursuit, correct answers earn these colored plastic 'pie' wedges.  
-  → What are scoring wedges?
-- **$800** — In backgammon, you may bear pieces off only after moving them all into this final quadrant.  
-  → What is the home board?
-- **$1000** — In Scrabble, a tile placed on a dark-red premium square multiplies the word by this factor.  
+- **$600** — In Scrabble, a tile on a dark-red premium square multiplies a word's value by this factor.  
   → What is triple?
+- **$800** — In poker, three of a kind combined with a pair makes this hand.  
+  → What is a full house?
+- **$1000** — In spades or bridge, a player's pledge to take a number of tricks is called this.  
+  → What is a bid?
 
 ### DC Heroes
-- **$200** — The last son of Krypton lands on Earth and grows up as reporter Clark Kent.  
+- **$200** — This last son of Krypton lives on Earth as reporter Clark Kent.  
   → Who is Superman?
-- **$400** — This Amazonian princess wields a golden Lasso of Truth and bullet-blocking bracelets.  
+- **$400** — This Amazonian princess wields a golden Lasso of Truth.  
   → Who is Wonder Woman?
-- **$600** — Forensic scientist Barry Allen races into action as this 'fastest man alive.'  
-  → Who is the Flash?
-- **$800** — Pilot Hal Jordan channels willpower through a glowing ring as this corps member.  
-  → Who is Green Lantern?
-- **$1000** — This trident-wielding monarch rules the undersea kingdom of Atlantis.  
+- **$600** — This trident-bearing monarch commands the seas from Atlantis.  
   → Who is Aquaman?
+- **$800** — This emerald, Robin Hood–styled archer is the millionaire Oliver Queen.  
+  → Who is Green Arrow?
+- **$1000** — Boy Billy Batson shouts a magic word to become this hero, once called Captain Marvel.  
+  → Who is Shazam?
 
 ### FINAL — Closing Themes
-- This sci-fi anthology's narrator and theme invited viewers into 'another dimension... a dimension of imagination.'  
+- Rod Serling's narration invited viewers into 'another dimension' on this 1959 sci-fi anthology.  
   → What is The Twilight Zone?
 
 ---
@@ -751,67 +751,67 @@
 ## Set 12
 
 ### Everyday Objects
-- **$200** — Inspired by plant burrs, this hook-and-loop fastener became a household brand name.  
+- **$200** — Inspired by burrs clinging to his dog, George de Mestral invented this hook-and-loop fastener.  
   → What is Velcro?
-- **$400** — A 3M chemist's weak adhesive accidentally created this repositionable sticky note.  
+- **$400** — A weak 3M adhesive led Art Fry to create this repositionable sticky note.  
   → What is the Post-it?
-- **$600** — Gideon Sundback perfected this interlocking-teeth fastener for clothing and bags.  
+- **$600** — Gideon Sundback perfected this interlocking-teeth clothing fastener around 1913.  
   → What is the zipper?
-- **$800** — Laszlo Biro lent his name in many countries to this smear-resistant writing instrument.  
+- **$800** — Hungarian journalist Laszlo Biro patented this smear-resistant pen in the 1930s.  
   → What is the ballpoint pen?
-- **$1000** — Percy Spencer invented this kitchen appliance after a candy bar melted near his radar set.  
-  → What is the microwave oven?
+- **$1000** — Percy Spencer invented this oven after a radar magnetron melted a candy bar in his pocket.  
+  → What is the microwave?
 
 ### Fillings & Shapes
-- **$200** — Reese's Cups are filled with chocolate and this creamy nut spread.  
+- **$200** — Reese's Cups pair chocolate with this creamy filling.  
   → What is peanut butter?
-- **$400** — A foil-wrapped chocolate teardrop called a 'Kiss' is made by this brand.  
-  → What is Hershey's?
-- **$600** — Whoppers and Maltesers share this airy, toasted-grain center.  
-  → What is malt?
-- **$800** — Each Ferrero Rocher hides a whole one of these round tree nuts in its center.  
+- **$400** — Each Ferrero Rocher hides a whole one of these round tree nuts at its center.  
   → What is a hazelnut?
-- **$1000** — A Cadbury Creme Egg is filled with fondant dyed to mimic this golden part of a real egg.  
+- **$600** — Whoppers and Maltesers share this airy, toasted-grain center.  
+  → What is malted milk?
+- **$800** — A Cadbury Creme Egg's fondant is dyed to mimic this golden part of a real egg.  
   → What is the yolk?
+- **$1000** — Junior Mints and York patties share this cool, dark flavor.  
+  → What is peppermint?
 
 ### Stars & Galaxies
-- **$200** — Our home galaxy bears this milky-looking name.  
+- **$200** — Our solar system resides in this barred-spiral galaxy.  
   → What is the Milky Way?
-- **$400** — This brilliant explosion marks the violent death of a massive star.  
+- **$400** — The violent death of a massive star produces this brilliant explosion.  
   → What is a supernova?
-- **$600** — This collapsed object is so dense that not even light can escape it.  
+- **$600** — A region of spacetime from which not even light can escape is this.  
   → What is a black hole?
-- **$800** — The bright 'North Star' also goes by this proper name.  
-  → What is Polaris?
-- **$1000** — The nearest star beyond the Sun is 'Proxima' followed by this constellation name.  
-  → What is Centauri?
+- **$800** — Betelgeuse is a red one of these aging, enormous stars destined to explode.  
+  → What is a supergiant?
+- **$1000** — On a collision course with the Milky Way, this is the nearest large spiral galaxy (M31).  
+  → What is Andromeda?
 
 ### Weird Laws (Reputed)
-- **$200** — An Alaska statute is often cited for banning waking this hibernating animal to take a photo.  
+- **$200** — A widely cited Alaska law bans waking this hibernating animal to take a photo.  
   → What is a bear?
-- **$400** — An 1897 Indiana bill nearly legally redefined this circle-ratio constant to 3.2.  
+- **$400** — An 1897 Indiana bill nearly set this circle-ratio constant to 3.2 by statute.  
   → What is pi?
-- **$600** — Carmel, California once required a permit to wear these tall shoes on its sloped streets.  
-  → What are high heels?
-- **$800** — Gainesville, Georgia 'requires' that this fried bird be eaten only with one's hands.  
+- **$600** — Old 'blue laws' in many U.S. towns reputedly forbid selling this on Sundays.  
+  → What is alcohol?
+- **$800** — A reputed Gainesville, Georgia ordinance requires this fried bird be eaten only by hand.  
   → What is chicken?
-- **$1000** — A reputed Kansas rule forbids topping cherry pie on Sundays with this cold dairy treat.  
-  → What is ice cream?
+- **$1000** — An old Vermont law reputedly required a wife to have her husband's permission to wear these dental prosthetics.  
+  → What are false teeth?
 
 ### Communication
-- **$200** — Samuel Morse lent his name to this dot-and-dash signaling system.  
+- **$200** — Samuel Morse co-developed this dot-and-dash signaling code.  
   → What is Morse code?
-- **$400** — Gutenberg's 15th-century machine made mass-produced books possible.  
+- **$400** — Johannes Gutenberg's 15th-century movable-type machine is generally called this.  
   → What is the printing press?
-- **$600** — Guglielmo Marconi is credited with the first practical wireless transmission of this signal.  
+- **$600** — Guglielmo Marconi pioneered the long-distance wireless transmission of this.  
   → What is radio?
-- **$800** — Ray Tomlinson sent the first networked message of this '@'-addressed type in 1971.  
-  → What is email?
-- **$1000** — Tim Berners-Lee proposed this hyperlinked information system in 1989.  
+- **$800** — Tim Berners-Lee proposed this hyperlinked information system in 1989.  
   → What is the World Wide Web?
+- **$1000** — Bell's famous first telephone sentence was a summons to this lab assistant.  
+  → Who is Thomas Watson?
 
 ### FINAL — Halloween Haul
-- This brand's chocolate-and-peanut-butter cups regularly top surveys of favorite trick-or-treat candy.  
+- These chocolate-and-peanut-butter cups regularly top surveys of favorite trick-or-treat candy.  
   → What is Reese's?
 
 ---
@@ -819,28 +819,28 @@
 ## Set 13
 
 ### Slogans
-- **$200** — 'Snap, Crackle, Pop' are the three elf mascots of this crispy rice cereal.  
-  → What are Rice Krispies?
-- **$400** — 'Kid tested, mother approved' has long pitched this General Mills cereal.  
-  → What is Kix?
-- **$600** — 'The Breakfast of Champions' is the boast of this athlete-endorsed wheat-flake cereal.  
-  → What is Wheaties?
-- **$800** — 'Follow your nose' guides Toucan Sam to this Kellogg's fruity-ring cereal.  
-  → What is Froot Loops?
-- **$1000** — 'They're magically delicious' describes the marshmallows in this Lucky charm cereal.  
-  → What is Lucky Charms?
+- **$200** — 'I'm Lovin' It,' launched in 2003, is the slogan of this golden-arches chain.  
+  → What is McDonald's?
+- **$400** — 'Eat Fresh' was the long-time motto of this footlong-sandwich chain.  
+  → What is Subway?
+- **$600** — 'Finger Lickin' Good' is the classic line of this fried-chicken chain.  
+  → What is KFC?
+- **$800** — 'Think Outside the Bun' pitched this Tex-Mex fast-food chain.  
+  → What is Taco Bell?
+- **$1000** — 'Quality Is Our Recipe' is the official slogan of this square-patty chain.  
+  → What is Wendy's?
 
 ### Team Nicknames
-- **$200** — This New York baseball club, the 'Bronx Bombers,' has won 27 World Series.  
-  → Who are the Yankees?
-- **$400** — This Green Bay NFL team takes its name from a meatpacking sponsor.  
+- **$200** — This NFL team's name nods to Green Bay's meatpacking heritage.  
   → Who are the Packers?
-- **$600** — This Boston NBA team sports a leprechaun logo and 17 banners.  
+- **$400** — This Boston NBA franchise, with a leprechaun logo, has won 17 titles.  
   → Who are the Celtics?
-- **$800** — Fans of this 'Steel City' NFL team wave Terrible Towels.  
+- **$600** — This Pittsburgh NFL team is named for the city's dominant industry.  
   → Who are the Steelers?
-- **$1000** — This Pittsburgh NHL club, 'the Pens,' has won multiple Stanley Cups.  
-  → Who are the Penguins?
+- **$800** — This New York MLB club, the 'Bronx Bombers,' owns 27 championships.  
+  → Who are the Yankees?
+- **$1000** — The NBA Lakers kept their watery name after moving from this lake-dotted state.  
+  → What is Minnesota?
 
 ### Modern Board Games
 - **$200** — In this island game, players gather brick, wood, sheep, wheat and ore to build settlements.  
@@ -849,37 +849,37 @@
   → What is Pandemic?
 - **$600** — In this game, players collect colored cards to claim cross-country rail routes.  
   → What is Ticket to Ride?
-- **$800** — In this tile-laying game, you place 'meeples' on a growing medieval French landscape.  
+- **$800** — This 2000 tile-laying game about a fortified French town won the Spiel des Jahres.  
   → What is Carcassonne?
-- **$1000** — In this hidden-role party game, villagers try to unmask the secret lycanthropes among them.  
-  → What is Werewolf?
+- **$1000** — Germany's top board-game prize, 'Spiel des Jahres,' translates to 'game of the' this.  
+  → What is year?
 
 ### Name the Cereal
-- **$200** — These ring-shaped oat pieces in a yellow box are pitched as heart-healthy.  
-  → What are Cheerios?
-- **$400** — These frosted, shredded-wheat pillows come in a 'bite size' version.  
+- **$200** — These frosted, shredded-wheat pillows come in a 'bite size' version.  
   → What are Frosted Mini-Wheats?
-- **$600** — These sugar-dusted square pieces are hawked by mischievous cartoon bakers.  
+- **$400** — These sugar-dusted square pieces are hawked by mischievous cartoon bakers.  
   → What is Cinnamon Toast Crunch?
-- **$800** — These pieces are shaped like the 26 characters of the alphabet.  
-  → What are Alpha-Bits?
-- **$1000** — These fruity pebble-shaped bits are tied to a Stone Age cartoon family.  
-  → What are Fruity Pebbles?
+- **$600** — This General Mills mix of toasted oats and marshmallows debuted in 1964.  
+  → What is Lucky Charms?
+- **$800** — This chocolate cereal turns milk brown and is fronted by a friendly vampire count.  
+  → What is Count Chocula?
+- **$1000** — This Kellogg's cereal of glazed, puffed corn was marketed for decades as 'Sugar Pops.'  
+  → What are Corn Pops?
 
 ### The Sun & Moon
-- **$200** — This blazing star sits at the center of our solar system.  
-  → What is the Sun?
-- **$400** — This is Earth's one and only natural satellite.  
-  → What is the Moon?
-- **$600** — A solar one of these happens when our satellite passes directly in front of the Sun.  
-  → What is an eclipse?
-- **$800** — The Sun is composed mostly of this lightest chemical element.  
-  → What is hydrogen?
-- **$1000** — The Moon's gravity is the main driver of these twice-daily ocean rises and falls.  
-  → What are tides?
+- **$200** — The Sun's visible, light-emitting surface layer goes by this name.  
+  → What is the photosphere?
+- **$400** — The Moon always shows Earth one face because of this 1:1 spin-orbit phenomenon.  
+  → What is tidal locking?
+- **$600** — During a total solar eclipse, the Sun's faint outer atmosphere appears as this pearly halo.  
+  → What is the corona?
+- **$800** — Sun-like stars fuse hydrogen into helium mainly through this dominant reaction sequence.  
+  → What is the proton-proton chain?
+- **$1000** — This roughly 18-year, 11-day period, after which eclipse geometry nearly repeats, bears this name.  
+  → What is the Saros cycle?
 
 ### FINAL — Closing Words
-- The 1939 classic 'The Wizard of Oz' ends with Dorothy clicking her heels and repeating 'there's no place like' this.  
+- The 1939 film 'The Wizard of Oz' ends with Dorothy repeating 'there's no place like' this.  
   → What is home?
 
 ---
@@ -889,65 +889,65 @@
 ### Disney Afternoon
 - **$200** — Scrooge McDuck's grandnephews are Huey, Dewey and this third triplet.  
   → Who is Louie?
-- **$400** — Chip 'n Dale headed a squad of crime-solving rodents in this 1989 detective series.  
+- **$400** — Chip 'n Dale led a squad of pint-sized detectives in this 1989 series.  
   → What are the Rescue Rangers?
-- **$600** — In TaleSpin, this easygoing bear pilot flew the cargo plane known as the Sea Duck.  
+- **$600** — In 'TaleSpin,' this easygoing bear pilot flies a cargo plane called the Sea Duck.  
   → Who is Baloo?
-- **$800** — Darkwing Duck's heroic catchphrase ended with the line 'Let's get...' this adjective.  
+- **$800** — Darkwing Duck's heroic catchphrase ends with the line 'Let's get' this.  
   → What is dangerous?
-- **$1000** — In Goof Troop, this clumsy Disney everyman raised his son Max.  
-  → Who is Goofy?
+- **$1000** — 'DuckTales' (1987) drew on comics by this Disney 'Duck Man' artist, surname Barks.  
+  → Who is Carl Barks?
 
 ### Drama & Cartoon Themes
-- **$200** — This composer wrote the bouncy fanfare for 'The Simpsons,' first name Danny.  
-  → Who is Elfman?
-- **$400** — The eerie 'X-Files' theme is famous for being this kind of music, with no words.  
+- **$200** — Danny Elfman wrote the bouncy 1989 main theme for this animated sitcom.  
+  → What is The Simpsons?
+- **$400** — Mark Snow's eerie, lyric-free 'X-Files' theme is this kind of piece.  
   → What is instrumental?
-- **$600** — The opening of 'SpongeBob SquarePants' begins by asking, 'Are you ready,' these?  
-  → What are kids?
-- **$800** — The cello-driven 'Game of Thrones' main title was composed by Ramin, last name this.  
-  → Who is Djawadi?
-- **$1000** — The Mary Tyler Moore theme asks if she's 'gonna make it after' this word.  
-  → What is all?
+- **$600** — Ramin Djawadi's cello-driven main title scores this HBO fantasy epic.  
+  → What is Game of Thrones?
+- **$800** — Henry Mancini wrote this jazzy 1958 detective theme before scoring 'The Pink Panther.'  
+  → What is Peter Gunn?
+- **$1000** — The early-electronic 'Doctor Who' theme was realized at the BBC's '___ Workshop' bearing this name.  
+  → What is Radiophonic?
 
 ### Nicknames & Mottos
-- **$200** — This southeastern state is nicknamed 'The Sunshine State.'  
-  → What is Florida?
-- **$400** — This large state is 'The Lone Star State.'  
-  → What is Texas?
-- **$600** — This state's skeptical nickname is 'The Show-Me State.'  
+- **$200** — This Midwestern state is the skeptical 'Show-Me State.'  
   → What is Missouri?
-- **$800** — This northern state is the 'Land of 10,000 Lakes.'  
+- **$400** — With the motto 'Eureka,' this 'Golden State' joined the Union in 1850.  
+  → What is California?
+- **$600** — This northern state is the 'Land of 10,000 Lakes.'  
   → What is Minnesota?
-- **$1000** — This island state is 'The Aloha State.'  
-  → What is Hawaii?
+- **$800** — This is the only state nicknamed the 'Beehive State.'  
+  → What is Utah?
+- **$1000** — This 'Tar Heel State' takes its nickname from its Civil War soldiers.  
+  → What is North Carolina?
 
 ### Their Evil Plans
-- **$200** — In 'Goldfinger,' the villain schemes to contaminate the U.S. gold reserve at this Kentucky depository.  
+- **$200** — In 'Goldfinger,' the villain plots to irradiate the gold inside this U.S. depository.  
   → What is Fort Knox?
-- **$400** — In 'Despicable Me,' Gru's grand scheme is to steal this entire natural satellite.  
-  → What is the Moon?
-- **$600** — In 'Die Hard,' Hans Gruber's real goal is robbing the vault inside this L.A. high-rise.  
+- **$400** — In 'Die Hard,' Hans Gruber's true aim is robbing bearer bonds from this L.A. tower.  
   → What is Nakatomi Plaza?
-- **$800** — Dr. Evil unfreezes and demands a ransom of this comically modest 'one ... dollars.'  
-  → What is one million dollars?
-- **$1000** — In 'Avengers: Infinity War,' Thanos snaps his fingers to erase this fraction of all living things.  
+- **$600** — In 'Avengers: Infinity War,' Thanos snaps to erase this fraction of all life.  
   → What is half?
+- **$800** — In 'Despicable Me,' Gru's grand scheme is to steal this entire celestial body.  
+  → What is the Moon?
+- **$1000** — In 'The Dark Knight,' this villain's real plan is to corrupt Gotham's hero Harvey Dent.  
+  → Who is the Joker?
 
 ### Geography
-- **$200** — This northern state is by far the largest in the U.S. by land area.  
+- **$200** — This northern territory is the largest U.S. state by area.  
   → What is Alaska?
-- **$400** — This New England state is the smallest in the country by area.  
-  → What is Rhode Island?
-- **$600** — This New England state is the only one bordering just a single other state.  
-  → What is Maine?
-- **$800** — Tennessee and this 'Show-Me' state each touch eight neighboring states.  
-  → What is Missouri?
-- **$1000** — Four states meet at the single point known by this geographic name.  
+- **$400** — Four states meet at a single point in the American Southwest known by this name.  
   → What is the Four Corners?
+- **$600** — Flowing from Montana, this is the longest river in the United States.  
+  → What is the Missouri River?
+- **$800** — This is the only Great Lake lying entirely within the United States.  
+  → What is Lake Michigan?
+- **$1000** — At about 20,310 feet, this Alaskan peak is the highest in North America.  
+  → What is Denali?
 
 ### FINAL — Cartoon Sign-Offs
-- This stuttering Looney Tunes character closed many shows with 'Th-th-th-that's all, folks!'  
+- This stuttering Looney Tunes character closed many shorts with 'Th-th-that's all, folks!'  
   → Who is Porky Pig?
 
 ---
@@ -955,67 +955,67 @@
 ## Set 15
 
 ### Marvel Heroes
-- **$200** — Genius billionaire Tony Stark fights crime in a high-tech suit of armor as this hero.  
+- **$200** — This armored hero is genius industrialist Tony Stark.  
   → Who is Iron Man?
-- **$400** — Bitten by a radioactive arachnid, Peter Parker swings through the city as this hero.  
+- **$400** — This web-slinging hero is photographer Peter Parker.  
   → Who is Spider-Man?
-- **$600** — This Asgardian god of thunder wields the enchanted hammer Mjolnir.  
+- **$600** — This star-spangled hero, frozen for decades, is the former scrawny recruit Steve Rogers.  
+  → Who is Captain America?
+- **$800** — This Sorcerer Supreme is former neurosurgeon Stephen Strange.  
+  → Who is Doctor Strange?
+- **$1000** — This Norse god of thunder first appeared in 'Journey into Mystery' #83 in 1962.  
   → Who is Thor?
-- **$800** — When Bruce Banner gets angry, he transforms into this enormous green powerhouse.  
-  → Who is the Hulk?
-- **$1000** — Blind attorney Matt Murdock protects Hell's Kitchen as this horned vigilante.  
-  → Who is Daredevil?
 
 ### Cereal History
-- **$200** — The Kellogg brothers created corn flakes in this Michigan 'Cereal City.'  
+- **$200** — The Kellogg brothers developed corn flakes in this Michigan 'Cereal City.'  
   → What is Battle Creek?
 - **$400** — This 'General' company, a Kellogg's rival, makes Cheerios and Lucky Charms.  
   → What is General Mills?
-- **$600** — A famously misleading Post cereal's name promises grapes and these tree seeds, yet contains neither.  
-  → What are nuts?
-- **$800** — Early breakfast cereals were promoted as health food by this Seventh-day religious movement.  
-  → Who are the Adventists?
-- **$1000** — Crunchy granola surged in popularity during this hippie counterculture decade.  
-  → What are the 1960s?
+- **$600** — Despite its name, this Post cereal of crunchy nuggets contains neither grapes nor nuts.  
+  → What is Grape-Nuts?
+- **$800** — Breakfast cereal was first promoted as health food at a sanitarium run by this Kellogg brother, a physician.  
+  → Who is John Harvey Kellogg?
+- **$1000** — James Caleb Jackson's 1863 'Granula' is considered the first manufactured one of these.  
+  → What is breakfast cereal?
 
 ### Classic Games
-- **$200** — In this real-estate game, players buy properties like Boardwalk and Park Place.  
+- **$200** — In this real-estate game, players buy properties such as Boardwalk and Park Place.  
   → What is Monopoly?
-- **$400** — In this game, players form words from lettered tiles on a 15-by-15 grid.  
+- **$400** — In this game, players score points forming words from lettered tiles.  
   → What is Scrabble?
-- **$600** — In this murder-mystery game, suspects include Colonel Mustard and Professor Plum.  
+- **$600** — In this whodunit, players deduce the culprit, the weapon and the room.  
   → What is Clue?
-- **$800** — This ancient two-player game of kings and pawns ends in checkmate.  
-  → What is chess?
-- **$1000** — In this grid game, you call out coordinates hoping to hear 'you sank my' fleet.  
-  → What is Battleship?
+- **$800** — This ancient Asian strategy game of territory uses black and white stones on a gridded board.  
+  → What is Go?
+- **$1000** — Boards for this ancient Egyptian game were found in Tutankhamun's tomb.  
+  → What is Senet?
 
 ### Transportation
-- **$200** — Henry Ford's assembly line cranked out millions of this affordable 'Model.'  
+- **$200** — Henry Ford's assembly line mass-produced this affordable early 'Model.'  
   → What is the Model T?
-- **$400** — Karl Benz patented an early gasoline-powered version of this four-wheeled vehicle in 1886.  
+- **$400** — Karl Benz patented an early gasoline-powered version of this vehicle in 1886.  
   → What is the automobile?
-- **$600** — This Scottish engineer, namesake of a power unit, vastly improved the steam engine.  
+- **$600** — This Scottish engineer's improved steam engine inspired a unit of power named for him.  
   → Who is James Watt?
-- **$800** — Rudolf, whose surname labels a compression-ignition engine and a fuel, pioneered it in the 1890s.  
-  → Who is Diesel?
-- **$1000** — Elisha Otis's safety brake made it safe for skyscrapers to lift people in this vertical car.  
-  → What is the elevator?
+- **$800** — The Wright brothers achieved the first powered flight in 1903 at this North Carolina site.  
+  → What is Kitty Hawk?
+- **$1000** — This British-French supersonic airliner, retired in 2003, cruised at twice the speed of sound.  
+  → What is the Concorde?
 
 ### Thrillers & Horror
-- **$200** — This cannibal psychiatrist helped catch Buffalo Bill from behind bars.  
+- **$200** — This cannibal psychiatrist assists the FBI from behind bars.  
   → Who is Hannibal Lecter?
-- **$400** — This burned dream-stalker wore a bladed glove and haunted Elm Street.  
+- **$400** — This burned, bladed-glove killer stalks teenagers in their dreams on Elm Street.  
   → Who is Freddy Krueger?
-- **$600** — This motel owner, disturbingly devoted to his mother, ran the Bates property.  
+- **$600** — This hockey-masked killer haunts Camp Crystal Lake.  
+  → Who is Jason Voorhees?
+- **$800** — This 'Psycho' motel owner is disturbingly devoted to his late mother.  
   → Who is Norman Bates?
-- **$800** — This 'No Country for Old Men' hitman killed with a captive-bolt cattle gun.  
+- **$1000** — In 'No Country for Old Men,' this hitman kills using a captive-bolt cattle gun.  
   → Who is Anton Chigurh?
-- **$1000** — In 'Se7en,' this killer staged murders around the seven deadly sins.  
-  → Who is John Doe?
 
 ### FINAL — Olympic Lore
-- These five interlocking colored loops symbolize the union of the world's continents at the Games.  
+- These five interlocking colored loops represent the union of the world's inhabited continents.  
   → What are the Olympic rings?
 
 ---

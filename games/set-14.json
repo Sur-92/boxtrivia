@@ -4,157 +4,57 @@
     {
       "name": "Disney Afternoon",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Scrooge McDuck's grandnephews are Huey, Dewey and this third triplet.",
-          "response": "Who is Louie?"
-        },
-        {
-          "value": 400,
-          "clue": "Chip 'n Dale headed a squad of crime-solving rodents in this 1989 detective series.",
-          "response": "What are the Rescue Rangers?"
-        },
-        {
-          "value": 600,
-          "clue": "In TaleSpin, this easygoing bear pilot flew the cargo plane known as the Sea Duck.",
-          "response": "Who is Baloo?"
-        },
-        {
-          "value": 800,
-          "clue": "Darkwing Duck's heroic catchphrase ended with the line 'Let's get...' this adjective.",
-          "response": "What is dangerous?"
-        },
-        {
-          "value": 1000,
-          "clue": "In Goof Troop, this clumsy Disney everyman raised his son Max.",
-          "response": "Who is Goofy?"
-        }
+        { "value": 200, "clue": "Scrooge McDuck's grandnephews are Huey, Dewey and this third triplet.", "response": "Who is Louie?" },
+        { "value": 400, "clue": "Chip 'n Dale led a squad of pint-sized detectives in this 1989 series.", "response": "What are the Rescue Rangers?" },
+        { "value": 600, "clue": "In 'TaleSpin,' this easygoing bear pilot flies a cargo plane called the Sea Duck.", "response": "Who is Baloo?" },
+        { "value": 800, "clue": "Darkwing Duck's heroic catchphrase ends with the line 'Let's get' this.", "response": "What is dangerous?" },
+        { "value": 1000, "clue": "'DuckTales' (1987) drew on comics by this Disney 'Duck Man' artist, surname Barks.", "response": "Who is Carl Barks?" }
       ]
     },
     {
       "name": "Drama & Cartoon Themes",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This composer wrote the bouncy fanfare for 'The Simpsons,' first name Danny.",
-          "response": "Who is Elfman?"
-        },
-        {
-          "value": 400,
-          "clue": "The eerie 'X-Files' theme is famous for being this kind of music, with no words.",
-          "response": "What is instrumental?"
-        },
-        {
-          "value": 600,
-          "clue": "The opening of 'SpongeBob SquarePants' begins by asking, 'Are you ready,' these?",
-          "response": "What are kids?"
-        },
-        {
-          "value": 800,
-          "clue": "The cello-driven 'Game of Thrones' main title was composed by Ramin, last name this.",
-          "response": "Who is Djawadi?"
-        },
-        {
-          "value": 1000,
-          "clue": "The Mary Tyler Moore theme asks if she's 'gonna make it after' this word.",
-          "response": "What is all?"
-        }
+        { "value": 200, "clue": "Danny Elfman wrote the bouncy 1989 main theme for this animated sitcom.", "response": "What is The Simpsons?" },
+        { "value": 400, "clue": "Mark Snow's eerie, lyric-free 'X-Files' theme is this kind of piece.", "response": "What is instrumental?" },
+        { "value": 600, "clue": "Ramin Djawadi's cello-driven main title scores this HBO fantasy epic.", "response": "What is Game of Thrones?" },
+        { "value": 800, "clue": "Henry Mancini wrote this jazzy 1958 detective theme before scoring 'The Pink Panther.'", "response": "What is Peter Gunn?" },
+        { "value": 1000, "clue": "The early-electronic 'Doctor Who' theme was realized at the BBC's '___ Workshop' bearing this name.", "response": "What is Radiophonic?" }
       ]
     },
     {
       "name": "Nicknames & Mottos",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This southeastern state is nicknamed 'The Sunshine State.'",
-          "response": "What is Florida?"
-        },
-        {
-          "value": 400,
-          "clue": "This large state is 'The Lone Star State.'",
-          "response": "What is Texas?"
-        },
-        {
-          "value": 600,
-          "clue": "This state's skeptical nickname is 'The Show-Me State.'",
-          "response": "What is Missouri?"
-        },
-        {
-          "value": 800,
-          "clue": "This northern state is the 'Land of 10,000 Lakes.'",
-          "response": "What is Minnesota?"
-        },
-        {
-          "value": 1000,
-          "clue": "This island state is 'The Aloha State.'",
-          "response": "What is Hawaii?"
-        }
+        { "value": 200, "clue": "This Midwestern state is the skeptical 'Show-Me State.'", "response": "What is Missouri?" },
+        { "value": 400, "clue": "With the motto 'Eureka,' this 'Golden State' joined the Union in 1850.", "response": "What is California?" },
+        { "value": 600, "clue": "This northern state is the 'Land of 10,000 Lakes.'", "response": "What is Minnesota?" },
+        { "value": 800, "clue": "This is the only state nicknamed the 'Beehive State.'", "response": "What is Utah?" },
+        { "value": 1000, "clue": "This 'Tar Heel State' takes its nickname from its Civil War soldiers.", "response": "What is North Carolina?" }
       ]
     },
     {
       "name": "Their Evil Plans",
       "clues": [
-        {
-          "value": 200,
-          "clue": "In 'Goldfinger,' the villain schemes to contaminate the U.S. gold reserve at this Kentucky depository.",
-          "response": "What is Fort Knox?"
-        },
-        {
-          "value": 400,
-          "clue": "In 'Despicable Me,' Gru's grand scheme is to steal this entire natural satellite.",
-          "response": "What is the Moon?"
-        },
-        {
-          "value": 600,
-          "clue": "In 'Die Hard,' Hans Gruber's real goal is robbing the vault inside this L.A. high-rise.",
-          "response": "What is Nakatomi Plaza?"
-        },
-        {
-          "value": 800,
-          "clue": "Dr. Evil unfreezes and demands a ransom of this comically modest 'one ... dollars.'",
-          "response": "What is one million dollars?"
-        },
-        {
-          "value": 1000,
-          "clue": "In 'Avengers: Infinity War,' Thanos snaps his fingers to erase this fraction of all living things.",
-          "response": "What is half?"
-        }
+        { "value": 200, "clue": "In 'Goldfinger,' the villain plots to irradiate the gold inside this U.S. depository.", "response": "What is Fort Knox?" },
+        { "value": 400, "clue": "In 'Die Hard,' Hans Gruber's true aim is robbing bearer bonds from this L.A. tower.", "response": "What is Nakatomi Plaza?" },
+        { "value": 600, "clue": "In 'Avengers: Infinity War,' Thanos snaps to erase this fraction of all life.", "response": "What is half?" },
+        { "value": 800, "clue": "In 'Despicable Me,' Gru's grand scheme is to steal this entire celestial body.", "response": "What is the Moon?" },
+        { "value": 1000, "clue": "In 'The Dark Knight,' this villain's real plan is to corrupt Gotham's hero Harvey Dent.", "response": "Who is the Joker?" }
       ]
     },
     {
       "name": "Geography",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This northern state is by far the largest in the U.S. by land area.",
-          "response": "What is Alaska?"
-        },
-        {
-          "value": 400,
-          "clue": "This New England state is the smallest in the country by area.",
-          "response": "What is Rhode Island?"
-        },
-        {
-          "value": 600,
-          "clue": "This New England state is the only one bordering just a single other state.",
-          "response": "What is Maine?"
-        },
-        {
-          "value": 800,
-          "clue": "Tennessee and this 'Show-Me' state each touch eight neighboring states.",
-          "response": "What is Missouri?"
-        },
-        {
-          "value": 1000,
-          "clue": "Four states meet at the single point known by this geographic name.",
-          "response": "What is the Four Corners?"
-        }
+        { "value": 200, "clue": "This northern territory is the largest U.S. state by area.", "response": "What is Alaska?" },
+        { "value": 400, "clue": "Four states meet at a single point in the American Southwest known by this name.", "response": "What is the Four Corners?" },
+        { "value": 600, "clue": "Flowing from Montana, this is the longest river in the United States.", "response": "What is the Missouri River?" },
+        { "value": 800, "clue": "This is the only Great Lake lying entirely within the United States.", "response": "What is Lake Michigan?" },
+        { "value": 1000, "clue": "At about 20,310 feet, this Alaskan peak is the highest in North America.", "response": "What is Denali?" }
       ]
     }
   ],
   "final": {
     "category": "Cartoon Sign-Offs",
-    "clue": "This stuttering Looney Tunes character closed many shows with 'Th-th-th-that's all, folks!'",
+    "clue": "This stuttering Looney Tunes character closed many shorts with 'Th-th-that's all, folks!'",
     "response": "Who is Porky Pig?"
   }
 }

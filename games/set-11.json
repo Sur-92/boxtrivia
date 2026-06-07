@@ -4,157 +4,57 @@
     {
       "name": "Name That Show",
       "clues": [
-        {
-          "value": 200,
-          "clue": "'Who lives in a pineapple under the sea?' opens this Nickelodeon cartoon.",
-          "response": "What is SpongeBob SquarePants?"
-        },
-        {
-          "value": 400,
-          "clue": "'A horse is a horse, of course, of course' introduced this talking-equine comedy.",
-          "response": "What is Mister Ed?"
-        },
-        {
-          "value": 600,
-          "clue": "'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's show.",
-          "response": "What is Sesame Street?"
-        },
-        {
-          "value": 800,
-          "clue": "This 90s ABC 'TGIF' comedy followed Cory Matthews and his teacher Mr. Feeny.",
-          "response": "What is Boy Meets World?"
-        },
-        {
-          "value": 1000,
-          "clue": "'Believe it or not, I'm walking on air' opened this comedy about a reluctant flying hero.",
-          "response": "What is The Greatest American Hero?"
-        }
+        { "value": 200, "clue": "'Who lives in a pineapple under the sea?' opens this Nickelodeon series.", "response": "What is SpongeBob SquarePants?" },
+        { "value": 400, "clue": "'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's program.", "response": "What is Sesame Street?" },
+        { "value": 600, "clue": "'A horse is a horse, of course, of course' introduced this 1960s talking-equine sitcom.", "response": "What is Mister Ed?" },
+        { "value": 800, "clue": "'Come and listen to a story about a man named Jed' opens this rags-to-riches sitcom.", "response": "What are The Beverly Hillbillies?" },
+        { "value": 1000, "clue": "'Just sit right back and you'll hear a tale' opens this 1960s castaway sitcom.", "response": "What is Gilligan's Island?" }
       ]
     },
     {
       "name": "Animal Sidekicks",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This mischievous pet monkey accompanies the street rat Aladdin.",
-          "response": "Who is Abu?"
-        },
-        {
-          "value": 400,
-          "clue": "This nervous Jamaican crab serves King Triton and sings 'Under the Sea.'",
-          "response": "Who is Sebastian?"
-        },
-        {
-          "value": 600,
-          "clue": "This small, fast-talking red dragon guards the heroine of 'Mulan.'",
-          "response": "Who is Mushu?"
-        },
-        {
-          "value": 800,
-          "clue": "This curious raccoon is Pocahontas's woodland companion.",
-          "response": "Who is Meeko?"
-        },
-        {
-          "value": 1000,
-          "clue": "In 'Cinderella,' the helpful mice include Jaq and this plump one.",
-          "response": "Who is Gus?"
-        }
+        { "value": 200, "clue": "This mischievous pet monkey accompanies the street rat in 'Aladdin.'", "response": "Who is Abu?" },
+        { "value": 400, "clue": "This Jamaican-accented crab serves King Triton in 'The Little Mermaid.'", "response": "Who is Sebastian?" },
+        { "value": 600, "clue": "Voiced by Eddie Murphy, this small red dragon guards the heroine of 'Mulan.'", "response": "Who is Mushu?" },
+        { "value": 800, "clue": "In 'Cinderella,' name the plump mouse befriended by Jaq.", "response": "Who is Gus?" },
+        { "value": 1000, "clue": "Princess Jasmine's fiercely protective pet tiger bears this name.", "response": "Who is Rajah?" }
       ]
     },
     {
       "name": "Cartoon Menagerie",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This square yellow sea sponge lives in a pineapple under the sea.",
-          "response": "Who is SpongeBob SquarePants?"
-        },
-        {
-          "value": 400,
-          "clue": "SpongeBob's dim-witted best friend is this pink starfish.",
-          "response": "Who is Patrick Star?"
-        },
-        {
-          "value": 600,
-          "clue": "On \"The Wild Thornberrys,\" young Eliza has the secret power to do this with animals.",
-          "response": "What is talk to them?"
-        },
-        {
-          "value": 800,
-          "clue": "This 2004 live-action movie starred a CGI version of the lasagna-loving comic-strip cat.",
-          "response": "What is Garfield?"
-        },
-        {
-          "value": 1000,
-          "clue": "King Julien, the \"I Like to Move It\" party animal of Madagascar, is this type of primate.",
-          "response": "What is a (ring-tailed) lemur?"
-        }
+        { "value": 200, "clue": "This yellow sea sponge works as a fry cook at the Krusty Krab.", "response": "Who is SpongeBob SquarePants?" },
+        { "value": 400, "clue": "This pink starfish is SpongeBob's dim-witted best friend.", "response": "Who is Patrick Star?" },
+        { "value": 600, "clue": "On 'The Wild Thornberrys,' young Eliza has the secret power to do this with animals.", "response": "What is talk to them?" },
+        { "value": 800, "clue": "This Hanna-Barbera Great Dane solves mysteries with a teen gang in the Mystery Machine.", "response": "Who is Scooby-Doo?" },
+        { "value": 1000, "clue": "This cat-and-mouse duo headlined a slapstick MGM theatrical-short rivalry from 1940.", "response": "Who are Tom and Jerry?" }
       ]
     },
     {
       "name": "Rules & Terms",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Rolling these two pip-covered cubes determines movement in many games.",
-          "response": "What are dice?"
-        },
-        {
-          "value": 400,
-          "clue": "In Monopoly, landing on the wrong corner can send you here, behind bars.",
-          "response": "What is Jail?"
-        },
-        {
-          "value": 600,
-          "clue": "In Trivial Pursuit, correct answers earn these colored plastic 'pie' wedges.",
-          "response": "What are scoring wedges?"
-        },
-        {
-          "value": 800,
-          "clue": "In backgammon, you may bear pieces off only after moving them all into this final quadrant.",
-          "response": "What is the home board?"
-        },
-        {
-          "value": 1000,
-          "clue": "In Scrabble, a tile placed on a dark-red premium square multiplies the word by this factor.",
-          "response": "What is triple?"
-        }
+        { "value": 200, "clue": "Rolling these two pip-marked cubes governs movement in many games.", "response": "What are dice?" },
+        { "value": 400, "clue": "In Monopoly, landing on the wrong corner sends a player to this place.", "response": "What is Jail?" },
+        { "value": 600, "clue": "In Scrabble, a tile on a dark-red premium square multiplies a word's value by this factor.", "response": "What is triple?" },
+        { "value": 800, "clue": "In poker, three of a kind combined with a pair makes this hand.", "response": "What is a full house?" },
+        { "value": 1000, "clue": "In spades or bridge, a player's pledge to take a number of tricks is called this.", "response": "What is a bid?" }
       ]
     },
     {
       "name": "DC Heroes",
       "clues": [
-        {
-          "value": 200,
-          "clue": "The last son of Krypton lands on Earth and grows up as reporter Clark Kent.",
-          "response": "Who is Superman?"
-        },
-        {
-          "value": 400,
-          "clue": "This Amazonian princess wields a golden Lasso of Truth and bullet-blocking bracelets.",
-          "response": "Who is Wonder Woman?"
-        },
-        {
-          "value": 600,
-          "clue": "Forensic scientist Barry Allen races into action as this 'fastest man alive.'",
-          "response": "Who is the Flash?"
-        },
-        {
-          "value": 800,
-          "clue": "Pilot Hal Jordan channels willpower through a glowing ring as this corps member.",
-          "response": "Who is Green Lantern?"
-        },
-        {
-          "value": 1000,
-          "clue": "This trident-wielding monarch rules the undersea kingdom of Atlantis.",
-          "response": "Who is Aquaman?"
-        }
+        { "value": 200, "clue": "This last son of Krypton lives on Earth as reporter Clark Kent.", "response": "Who is Superman?" },
+        { "value": 400, "clue": "This Amazonian princess wields a golden Lasso of Truth.", "response": "Who is Wonder Woman?" },
+        { "value": 600, "clue": "This trident-bearing monarch commands the seas from Atlantis.", "response": "Who is Aquaman?" },
+        { "value": 800, "clue": "This emerald, Robin Hood–styled archer is the millionaire Oliver Queen.", "response": "Who is Green Arrow?" },
+        { "value": 1000, "clue": "Boy Billy Batson shouts a magic word to become this hero, once called Captain Marvel.", "response": "Who is Shazam?" }
       ]
     }
   ],
   "final": {
     "category": "Closing Themes",
-    "clue": "This sci-fi anthology's narrator and theme invited viewers into 'another dimension... a dimension of imagination.'",
+    "clue": "Rod Serling's narration invited viewers into 'another dimension' on this 1959 sci-fi anthology.",
     "response": "What is The Twilight Zone?"
   }
 }

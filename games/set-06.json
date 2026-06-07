@@ -4,157 +4,57 @@
     {
       "name": "Pixar Pals",
       "clues": [
-        {
-          "value": 200,
-          "clue": "In 'Toy Story,' the cowboy Woody's chief rival turned best friend is this space ranger.",
-          "response": "Who is Buzz Lightyear?"
-        },
-        {
-          "value": 400,
-          "clue": "In 'Finding Nemo,' this forgetful blue tang helps Marlin search for his son.",
-          "response": "Who is Dory?"
-        },
-        {
-          "value": 600,
-          "clue": "In 'Monsters, Inc.,' this short, one-eyed green monster is Sulley's wisecracking partner.",
-          "response": "Who is Mike Wazowski?"
-        },
-        {
-          "value": 800,
-          "clue": "In 'Up,' this golden retriever wears a collar that lets him speak aloud.",
-          "response": "Who is Dug?"
-        },
-        {
-          "value": 1000,
-          "clue": "In 'Ratatouille,' the rat Remy secretly steers this clumsy kitchen garbage boy by his hair.",
-          "response": "Who is Linguini?"
-        }
+        { "value": 200, "clue": "In 'Toy Story,' name the space-ranger action figure who becomes Woody's friend.", "response": "Who is Buzz Lightyear?" },
+        { "value": 400, "clue": "In 'Monsters, Inc.,' this short, one-eyed green monster is Sulley's coach and best friend.", "response": "Who is Mike Wazowski?" },
+        { "value": 600, "clue": "In 'Up,' name the friendly dog whose special collar voices his thoughts aloud.", "response": "Who is Dug?" },
+        { "value": 800, "clue": "Voiced by Phyllis Smith, this blue, bespectacled emotion appears in 'Inside Out.'", "response": "Who is Sadness?" },
+        { "value": 1000, "clue": "This Pixar director helmed 'Toy Story' (1995) and later led the studio creatively.", "response": "Who is John Lasseter?" }
       ]
     },
     {
       "name": "Nicktoons",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This calm fourth-grader with a football-shaped head lived in a big city boarding house.",
-          "response": "Who is Arnold?"
-        },
-        {
-          "value": 400,
-          "clue": "In a 1991 Klasky-Csupo series, this screwdriver-wielding baby in a blue shirt led the diaper crew.",
-          "response": "Who is Tommy Pickles?"
-        },
-        {
-          "value": 600,
-          "clue": "This journal-keeping cartoon kid crushed on Patti Mayonnaise and had an alter ego, Quailman.",
-          "response": "Who is Doug Funnie?"
-        },
-        {
-          "value": 800,
-          "clue": "Two dam-building brothers named Norbert and Daggett were this buck-toothed rodent.",
-          "response": "What are beavers?"
-        },
-        {
-          "value": 1000,
-          "clue": "This 1998 Nicktoon starred conjoined feline-and-canine title characters sharing one body.",
-          "response": "What is CatDog?"
-        }
+        { "value": 200, "clue": "This 1991 Klasky-Csupo series followed a band of babies led by Tommy Pickles.", "response": "What is Rugrats?" },
+        { "value": 400, "clue": "This football-headed boy lived in his grandparents' Sunset Arms boarding house.", "response": "Who is Arnold?" },
+        { "value": 600, "clue": "'SpongeBob SquarePants' was created by this marine-biologist-turned-animator.", "response": "Who is Stephen Hillenburg?" },
+        { "value": 800, "clue": "This 1998 Nicktoon starred a conjoined cat and dog sharing a single body.", "response": "What is CatDog?" },
+        { "value": 1000, "clue": "'The Ren & Stimpy Show' was created by this controversial Canadian animator.", "response": "Who is John Kricfalusi?" }
       ]
     },
     {
       "name": "Name the Capital",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This live-music city is the capital of Texas.",
-          "response": "What is Austin?"
-        },
-        {
-          "value": 400,
-          "clue": "This city on the American River is California's capital.",
-          "response": "What is Sacramento?"
-        },
-        {
-          "value": 600,
-          "clue": "This upstate city, not the largest one, is the capital of New York.",
-          "response": "What is Albany?"
-        },
-        {
-          "value": 800,
-          "clue": "This Panhandle city is the capital of Florida.",
-          "response": "What is Tallahassee?"
-        },
-        {
-          "value": 1000,
-          "clue": "This city, sharing a witch-trial name, is the capital of Oregon.",
-          "response": "What is Salem?"
-        }
+        { "value": 200, "clue": "This Texas capital is famous for its music scene and 'Keep It Weird' slogan.", "response": "What is Austin?" },
+        { "value": 400, "clue": "Washington State's capital sits on Puget Sound, far smaller than nearby Seattle.", "response": "What is Olympia?" },
+        { "value": 600, "clue": "This Connecticut capital, a major insurance hub, lies on the Connecticut River.", "response": "What is Hartford?" },
+        { "value": 800, "clue": "Vermont's capital is the least-populous state capital in the U.S.", "response": "What is Montpelier?" },
+        { "value": 1000, "clue": "Maine's capital sits on the Kennebec River and shares a name with a Roman empress.", "response": "What is Augusta?" }
       ]
     },
     {
       "name": "Superhero Foes",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This green-haired clown prince of crime is Batman's archenemy.",
-          "response": "Who is the Joker?"
-        },
-        {
-          "value": 400,
-          "clue": "This Spider-Man foe is a scientist fused with four mechanical tentacle arms.",
-          "response": "Who is Doctor Octopus?"
-        },
-        {
-          "value": 600,
-          "clue": "This bald billionaire businessman is Superman's brilliant nemesis.",
-          "response": "Who is Lex Luthor?"
-        },
-        {
-          "value": 800,
-          "clue": "This trickster god, Thor's adopted brother, led the Chitauri attack on New York.",
-          "response": "Who is Loki?"
-        },
-        {
-          "value": 1000,
-          "clue": "The mad titan Thanos sought to gather all six of these reality-warping gems.",
-          "response": "What are the Infinity Stones?"
-        }
+        { "value": 200, "clue": "This Spider-Man foe is scientist Otto Octavius, fused to four mechanical arms.", "response": "Who is Doctor Octopus?" },
+        { "value": 400, "clue": "This umbrella-wielding Batman villain is the portly Oswald Cobblepot.", "response": "Who is the Penguin?" },
+        { "value": 600, "clue": "This masked monarch of Latveria is the Fantastic Four's archenemy.", "response": "Who is Doctor Doom?" },
+        { "value": 800, "clue": "This Holocaust survivor and X-Men antagonist controls magnetism.", "response": "Who is Magneto?" },
+        { "value": 1000, "clue": "This towering crime boss, the rotund Wilson Fisk, menaces Daredevil and Spider-Man.", "response": "Who is the Kingpin?" }
       ]
     },
     {
       "name": "How to Win",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Chess is won by trapping the enemy king in this inescapable position.",
-          "response": "What is checkmate?"
-        },
-        {
-          "value": 400,
-          "clue": "In Monopoly, you win once every rival has gone this, out of money.",
-          "response": "What is bankrupt?"
-        },
-        {
-          "value": 600,
-          "clue": "In Scrabble, playing all seven of your tiles at once earns this 50-point bonus.",
-          "response": "What is a bingo?"
-        },
-        {
-          "value": 800,
-          "clue": "Rolling five dice that all show the same number scores this game's namesake 50 points.",
-          "response": "What is a Yahtzee?"
-        },
-        {
-          "value": 1000,
-          "clue": "In Risk, victory means your armies occupy every one of these regions on the map.",
-          "response": "What are territories?"
-        }
+        { "value": 200, "clue": "In chess, this term describes a king under inescapable attack, ending the game.", "response": "What is checkmate?" },
+        { "value": 400, "clue": "In Scrabble, playing all seven of your tiles at once earns this 50-point bonus.", "response": "What is a bingo?" },
+        { "value": 600, "clue": "In Monopoly, this corner square lets a player merely pass through with no penalty.", "response": "What is Just Visiting?" },
+        { "value": 800, "clue": "In contract bridge, winning all thirteen tricks is called this.", "response": "What is a grand slam?" },
+        { "value": 1000, "clue": "In Risk, holding an entire one of these landmasses grants bonus armies each turn.", "response": "What is a continent?" }
       ]
     }
   ],
   "final": {
     "category": "Pizza Delivery",
-    "clue": "This chain once promised '30 minutes or it's free' and uses a red-and-blue domino tile logo.",
+    "clue": "Founded in 1960 in Ypsilanti, Michigan, this chain once promised delivery in '30 minutes or it's free.'",
     "response": "What is Domino's?"
   }
 }

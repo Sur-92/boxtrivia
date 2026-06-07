@@ -4,157 +4,57 @@
     {
       "name": "Disney Villains",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This envious lion brother murders Mufasa to seize Pride Rock.",
-          "response": "Who is Scar?"
-        },
-        {
-          "value": 400,
-          "clue": "This sea witch tricks Ariel out of her voice in exchange for legs.",
-          "response": "Who is Ursula?"
-        },
-        {
-          "value": 600,
-          "clue": "This fashion-obsessed fiend wanted to skin Dalmatian puppies for a coat.",
-          "response": "Who is Cruella de Vil?"
-        },
-        {
-          "value": 800,
-          "clue": "This royal vizier in Agrabah carried a snake-headed staff and a parrot named Iago.",
-          "response": "Who is Jafar?"
-        },
-        {
-          "value": 1000,
-          "clue": "This self-styled 'Mistress of All Evil' cursed Princess Aurora to prick her finger.",
-          "response": "Who is Maleficent?"
-        }
+        { "value": 200, "clue": "Largely animated by Marc Davis, this 1959 villainess transforms into a dragon for the climax.", "response": "Who is Maleficent?" },
+        { "value": 400, "clue": "Voiced by Pat Carroll, this 1989 antagonist was visually modeled on the drag performer Divine.", "response": "Who is Ursula?" },
+        { "value": 600, "clue": "This 1996 Disney judge sings the guilt-and-lust confession 'Hellfire.'", "response": "Who is Claude Frollo?" },
+        { "value": 800, "clue": "This 'Shadow Man' of 2009's bayou bargains with sinister voodoo spirits he calls his 'friends.'", "response": "Who is Doctor Facilier?" },
+        { "value": 1000, "clue": "Voiced by Vincent Price, this rat criminal mastermind plots against the Crown in a 1986 film.", "response": "Who is Professor Ratigan?" }
       ]
     },
     {
       "name": "Viral & Web Beasts",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This yellow electric mouse is the franchise mascot of Pokémon.",
-          "response": "Who is Pikachu?"
-        },
-        {
-          "value": 400,
-          "clue": "A 2003 Weebl flash cartoon endlessly chants this woodland animal's name (with \"mushroom mushroom\").",
-          "response": "What is a badger?"
-        },
-        {
-          "value": 600,
-          "clue": "Released in North America in 2002, this GameCube life-sim is full of talking animal villagers.",
-          "response": "What is Animal Crossing?"
-        },
-        {
-          "value": 800,
-          "clue": "This 2007 site captioned cat photos with misspelled gems like \"I Can Has Cheezburger?\"",
-          "response": "What is I Can Has Cheezburger? (lolcats)"
-        },
-        {
-          "value": 1000,
-          "clue": "This 2007 viral video paired a piano-\"playing\" feline with the phrase \"play him off.\"",
-          "response": "Who is Keyboard Cat?"
-        }
+        { "value": 200, "clue": "This 2011 meme animation pairs a feline with a Pop-Tart torso and a rainbow trail.", "response": "What is Nyan Cat?" },
+        { "value": 400, "clue": "A 2007 humor site popularized this genre of feline photos captioned in deliberately broken English.", "response": "What are lolcats?" },
+        { "value": 600, "clue": "The 2013 'Doge' meme, later a cryptocurrency mascot, features this Japanese dog breed.", "response": "What is a Shiba Inu?" },
+        { "value": 800, "clue": "This perpetually frowning internet-celebrity feline's real name was Tardar Sauce.", "response": "Who is Grumpy Cat?" },
+        { "value": 1000, "clue": "Filmed in 1984 but uploaded in 2007 to 'play off' people, this piano-pawing tabby became an early viral hit.", "response": "Who is Keyboard Cat?" }
       ]
     },
     {
       "name": "WB & Animaniacs",
       "clues": [
-        {
-          "value": 200,
-          "clue": "The zany Warner siblings were Yakko, Wakko and this little sister.",
-          "response": "Who is Dot?"
-        },
-        {
-          "value": 400,
-          "clue": "These two lab mice, one a genius and one insane, schemed nightly to take over the world.",
-          "response": "Who are Pinky and the Brain?"
-        },
-        {
-          "value": 600,
-          "clue": "This 1992 animated series starred the Dark Knight of Gotham and his butler Alfred.",
-          "response": "Who is Batman?"
-        },
-        {
-          "value": 800,
-          "clue": "This clawed, gruff X-Men hero has a healing factor and an adamantium skeleton.",
-          "response": "Who is Wolverine?"
-        },
-        {
-          "value": 1000,
-          "clue": "Tiny Toon Adventures and Animaniacs were both produced by this blockbuster filmmaker, Steven.",
-          "response": "Who is Steven Spielberg?"
-        }
+        { "value": 200, "clue": "These two genetically altered lab mice headlined their own 1995 spinoff after an Animaniacs segment.", "response": "Who are Pinky and the Brain?" },
+        { "value": 400, "clue": "The zany Warner siblings were said to be locked in the water tower on this Burbank studio's lot.", "response": "What is Warner Bros.?" },
+        { "value": 600, "clue": "Bruce Timm and Eric Radomski's 1992 series reinvented Gotham's Dark Knight for animation.", "response": "Who is Batman?" },
+        { "value": 800, "clue": "Harley Quinn was co-created for that 1992 series by writer Paul Dini and this animator-producer.", "response": "Who is Bruce Timm?" },
+        { "value": 1000, "clue": "Steven Spielberg's Amblin produced Tiny Toon Adventures and this 1993 variety-cartoon successor.", "response": "What is Animaniacs?" }
       ]
     },
     {
       "name": "Cartoon Network",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Three sugar-and-spice sisters battled the simian villain Mojo Jojo.",
-          "response": "Who are the Powerpuff Girls?"
-        },
-        {
-          "value": 400,
-          "clue": "This lab-coated boy genius hid a secret laboratory from his sister Dee Dee.",
-          "response": "Who is Dexter?"
-        },
-        {
-          "value": 600,
-          "clue": "This buff, pompadour-sporting ladies' man in shades constantly struck out with women.",
-          "response": "Who is Johnny Bravo?"
-        },
-        {
-          "value": 800,
-          "clue": "Ed, Edd n Eddy ran scams to buy these spherical, jaw-straining candies.",
-          "response": "What are jawbreakers?"
-        },
-        {
-          "value": 1000,
-          "clue": "This cowardly pink dog protected elderly owners Muriel and Eustace from the paranormal.",
-          "response": "Who is Courage?"
-        }
+        { "value": 200, "clue": "Genndy Tartakovsky's 1996 series followed a boy genius hiding a lab from his sister Dee Dee.", "response": "Who is Dexter?" },
+        { "value": 400, "clue": "Craig McCracken created this 1998 trio of sisters powered by 'Chemical X.'", "response": "Who are the Powerpuff Girls?" },
+        { "value": 600, "clue": "McCracken's 2004 series centered on a foster home for abandoned imaginary companions.", "response": "What is Foster's Home for Imaginary Friends?" },
+        { "value": 800, "clue": "The network's adult-oriented late-night programming block launched in 2001 under this name.", "response": "What is Adult Swim?" },
+        { "value": 1000, "clue": "Pendleton Ward's 2010 series sent Finn and Jake adventuring across the Land of Ooo.", "response": "What is Adventure Time?" }
       ]
     },
     {
       "name": "Theme Trivia",
       "clues": [
-        {
-          "value": 200,
-          "clue": "The duo who recorded the 'Friends' theme were this two-piece pop band.",
-          "response": "Who are The Rembrandts?"
-        },
-        {
-          "value": 400,
-          "clue": "The actor who sings the 'Fresh Prince' rap theme also stars in the show.",
-          "response": "Who is Will Smith?"
-        },
-        {
-          "value": 600,
-          "clue": "The Jeffersons and All in the Family were both created by this producer, first name Norman.",
-          "response": "Who is Lear?"
-        },
-        {
-          "value": 800,
-          "clue": "Modern streaming shows added a 'skip' button mainly to bypass these recurring opening songs.",
-          "response": "What are theme songs?"
-        },
-        {
-          "value": 1000,
-          "clue": "The brief, wordless 'Office' (U.S.) theme is played mainly on this keyboard instrument.",
-          "response": "What is a piano?"
-        }
+        { "value": 200, "clue": "The duo who recorded the 'Friends' theme 'I'll Be There for You' went by this name.", "response": "Who are The Rembrandts?" },
+        { "value": 400, "clue": "The 'Fresh Prince' rap theme was performed by this star, partnered on records with DJ Jazzy Jeff.", "response": "Who is Will Smith?" },
+        { "value": 600, "clue": "The 'Game of Thrones' main title was composed by Ramin, whose surname is this.", "response": "What is Djawadi?" },
+        { "value": 800, "clue": "This film-score composer, known for Tim Burton movies, wrote 'The Simpsons' main theme.", "response": "Who is Danny Elfman?" },
+        { "value": 1000, "clue": "Lalo Schifrin wrote this 1966 spy series' theme in an unusual 5/4 time signature.", "response": "What is Mission: Impossible?" }
       ]
     }
   ],
   "final": {
     "category": "Inside the Box",
-    "clue": "For decades, cereal boxes hid these small plastic surprises that kids would dig through the flakes to find.",
-    "response": "What are toys?"
+    "clue": "In 1909 this company sparked the in-box-premium craze by offering a children's 'Funny Jungleland' picture book.",
+    "response": "What is Kellogg's?"
   }
 }

@@ -4,157 +4,57 @@
     {
       "name": "Menu Items",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This McDonald's breakfast sandwich stacks egg, cheese and Canadian bacon on a muffin.",
-          "response": "What is the Egg McMuffin?"
-        },
-        {
-          "value": 400,
-          "clue": "'Two all-beef patties, special sauce, lettuce, cheese' describes this towering McDonald's burger.",
-          "response": "What is the Big Mac?"
-        },
-        {
-          "value": 600,
-          "clue": "This thick Wendy's dessert comes in chocolate or vanilla and resists a straw.",
-          "response": "What is a Frosty?"
-        },
-        {
-          "value": 800,
-          "clue": "Taco Bell's hexagonal grilled item is the 'Crunchwrap' followed by this word.",
-          "response": "What is Supreme?"
-        },
-        {
-          "value": 1000,
-          "clue": "Arby's built its reputation on thin-sliced piles of this seasoned beef.",
-          "response": "What is roast beef?"
-        }
+        { "value": 200, "clue": "Created in 1967 by franchisee Jim Delligatti, this double-decker sandwich has a 'special sauce.'", "response": "What is the Big Mac?" },
+        { "value": 400, "clue": "Introduced by Wendy's in 1969, this dairy dessert is famously too thick to drink through a straw.", "response": "What is the Frosty?" },
+        { "value": 600, "clue": "McDonald's Filet-O-Fish was created in 1962 to serve Catholic customers during this meatless season.", "response": "What is Lent?" },
+        { "value": 800, "clue": "This grilled, hexagonal Taco Bell item folds a tostada and fillings into a tortilla pocket.", "response": "What is the Crunchwrap Supreme?" },
+        { "value": 1000, "clue": "Debuting nationally in 2010, this KFC sandwich uses two fried chicken filets in place of a bun.", "response": "What is the Double Down?" }
       ]
     },
     {
       "name": "Capital Clues",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Arizona's capital shares its name with a mythical bird reborn from ashes.",
-          "response": "What is Phoenix?"
-        },
-        {
-          "value": 400,
-          "clue": "Wisconsin's capital is named for the fourth U.S. president.",
-          "response": "What is Madison?"
-        },
-        {
-          "value": 600,
-          "clue": "Minnesota's capital, named for an apostle, is the twin city to Minneapolis.",
-          "response": "What is Saint Paul?"
-        },
-        {
-          "value": 800,
-          "clue": "Indiana's capital tacks the Greek word for 'city' onto the state's name.",
-          "response": "What is Indianapolis?"
-        },
-        {
-          "value": 1000,
-          "clue": "Colorado's 'Mile-High' capital sits at roughly 5,280 feet of elevation.",
-          "response": "What is Denver?"
-        }
+        { "value": 200, "clue": "Named for a mythic firebird, this is the most populous U.S. state capital.", "response": "What is Phoenix?" },
+        { "value": 400, "clue": "This capital honoring the fourth U.S. president lies in a state named for a different leader.", "response": "What is Madison?" },
+        { "value": 600, "clue": "Kentucky's capital is this small city, not the larger Louisville or Lexington.", "response": "What is Frankfort?" },
+        { "value": 800, "clue": "Nevada's capital is named for a famed 19th-century frontiersman and scout.", "response": "What is Carson City?" },
+        { "value": 1000, "clue": "South Dakota's capital, pronounced 'peer,' is spelled this distinctive way.", "response": "What is Pierre?" }
       ]
     },
     {
       "name": "Themes & Networks",
       "clues": [
-        {
-          "value": 200,
-          "clue": "These half-shell heroes were 'teenage,' 'mutant' and 'ninja.'",
-          "response": "What are Turtles?"
-        },
-        {
-          "value": 400,
-          "clue": "The 'One Saturday Morning' block aired on this alphabet broadcast network.",
-          "response": "What is ABC?"
-        },
-        {
-          "value": 600,
-          "clue": "This bumbling cyborg detective relied on niece Penny and a dog named Brain to crack cases.",
-          "response": "Who is Inspector Gadget?"
-        },
-        {
-          "value": 800,
-          "clue": "Captain Planet's powers came from rings of Earth, Fire, Wind, Water and this fifth element.",
-          "response": "What is Heart?"
-        },
-        {
-          "value": 1000,
-          "clue": "This 1990 eco-hero was summoned when five Planeteers combined their rings.",
-          "response": "Who is Captain Planet?"
-        }
+        { "value": 200, "clue": "The 'One Saturday Morning' block debuted in 1997 on this broadcast network.", "response": "What is ABC?" },
+        { "value": 400, "clue": "The 1987 'Teenage Mutant Ninja Turtles' cartoon adapted comics by Kevin Eastman and this co-creator.", "response": "Who is Peter Laird?" },
+        { "value": 600, "clue": "'X-Men: The Animated Series' premiered on the Fox Kids block in this year.", "response": "What is 1992?" },
+        { "value": 800, "clue": "'Captain Planet' was conceived by this media mogul who founded CNN and TBS.", "response": "Who is Ted Turner?" },
+        { "value": 1000, "clue": "'Inspector Gadget' and 'The Real Ghostbusters' came from this French-founded studio known by a three-letter acronym.", "response": "What is DiC?" }
       ]
     },
     {
       "name": "Mascots & Slogans",
       "clues": [
-        {
-          "value": 200,
-          "clue": "'Melts in your mouth, not in your hands' is the long-time line for these candy-shelled chocolates.",
-          "response": "What are M&M's?"
-        },
-        {
-          "value": 400,
-          "clue": "Among the M&M's spokescandies, this nervous-voiced color often plays the dim one.",
-          "response": "Who is Yellow?"
-        },
-        {
-          "value": 600,
-          "clue": "'Sometimes you feel like a nut' pairs Almond Joy with this nut-free coconut cousin.",
-          "response": "What is Mounds?"
-        },
-        {
-          "value": 800,
-          "clue": "Skittles invites fans to 'taste the' this colorful arc.",
-          "response": "What is the rainbow?"
-        },
-        {
-          "value": 1000,
-          "clue": "PEZ candy is dispensed from collectible toppers shaped like these cartoon noggins.",
-          "response": "What are heads?"
-        }
+        { "value": 200, "clue": "The late-90s Taco Bell Chihuahua delivered its 'Yo quiero' catchphrase in this language.", "response": "What is Spanish?" },
+        { "value": 400, "clue": "Wendy's freckled mascot is named for the founder's daughter, whose actual first name is this.", "response": "What is Melinda?" },
+        { "value": 600, "clue": "The McDonald's Hamburglar is known for muttering this nonsense exclamation.", "response": "What is 'Robble robble'?" },
+        { "value": 800, "clue": "KFC's founder received his honorary 'Colonel' commission from the commonwealth of this state.", "response": "What is Kentucky?" },
+        { "value": 1000, "clue": "The 1984 'Where's the beef?' Wendy's ad starred this elderly actress, surname Peller.", "response": "Who is Clara Peller?" }
       ]
     },
     {
       "name": "Burger Chains",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This chain with golden arches was built into a giant by Ray Kroc from a brothers' stand.",
-          "response": "What is McDonald's?"
-        },
-        {
-          "value": 400,
-          "clue": "This flame-grilled chain bills itself the 'Home of the Whopper.'",
-          "response": "What is Burger King?"
-        },
-        {
-          "value": 600,
-          "clue": "This square-patty chain was named for founder Dave Thomas's red-haired daughter.",
-          "response": "What is Wendy's?"
-        },
-        {
-          "value": 800,
-          "clue": "This West Coast chain is famous for a secret menu and 'animal style' orders.",
-          "response": "What is In-N-Out?"
-        },
-        {
-          "value": 1000,
-          "clue": "This Wisconsin-born chain is known for 'ButterBurgers' and frozen custard.",
-          "response": "What is Culver's?"
-        }
+        { "value": 200, "clue": "Founded in 1940 in San Bernardino, this chain was transformed after Ray Kroc joined in 1955.", "response": "What is McDonald's?" },
+        { "value": 400, "clue": "Founded in 1954 in Miami, this chain trademarked the 'Whopper' three years later.", "response": "What is Burger King?" },
+        { "value": 600, "clue": "Dave Thomas launched this square-patty chain in Columbus, Ohio in 1969.", "response": "What is Wendy's?" },
+        { "value": 800, "clue": "Harry and Esther Snyder opened this chain, California's first drive-thru, in 1948.", "response": "What is In-N-Out?" },
+        { "value": 1000, "clue": "Founded in 1921 in Wichita, Kansas, this chain is often called America's first hamburger chain.", "response": "What is White Castle?" }
       ]
     }
   ],
   "final": {
     "category": "Game Night Math",
-    "clue": "Add up the pips on every face of one standard six-sided die and you get this total.",
-    "response": "What is 21?"
+    "clue": "On a standard six-sided die, every pair of opposite faces always adds up to this number.",
+    "response": "What is 7?"
   }
 }

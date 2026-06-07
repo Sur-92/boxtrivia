@@ -4,157 +4,57 @@
     {
       "name": "Sci-Fi & Fantasy",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This black-helmeted Sith Lord turned out to be Luke Skywalker's father.",
-          "response": "Who is Darth Vader?"
-        },
-        {
-          "value": 400,
-          "clue": "This dark lord of Mordor forged the One Ring to rule Middle-earth.",
-          "response": "Who is Sauron?"
-        },
-        {
-          "value": 600,
-          "clue": "This relentless suited program hunted Neo through the simulated world of the Matrix.",
-          "response": "Who is Agent Smith?"
-        },
-        {
-          "value": 800,
-          "clue": "This dark wizard, 'He-Who-Must-Not-Be-Named,' sought immortality via Horcruxes.",
-          "response": "Who is Voldemort?"
-        },
-        {
-          "value": 1000,
-          "clue": "This shape-shifting, liquid-metal assassin model was sent to kill John Connor.",
-          "response": "What is the T-1000?"
-        }
+        { "value": 200, "clue": "This armored Sith Lord, once Anakin Skywalker, breathes through a life-support mask.", "response": "Who is Darth Vader?" },
+        { "value": 400, "clue": "This dark lord of Mordor is bound to the One Ring he forged.", "response": "Who is Sauron?" },
+        { "value": 600, "clue": "In 'Dune,' this grotesque, floating Baron schemes against House Atreides.", "response": "Who is Baron Harkonnen?" },
+        { "value": 800, "clue": "In 'The Matrix,' this relentless suited program hunts Neo.", "response": "Who is Agent Smith?" },
+        { "value": 1000, "clue": "In 'Blade Runner,' this replicant leader delivers the 'tears in rain' monologue.", "response": "Who is Roy Batty?" }
       ]
     },
     {
       "name": "Game Pieces",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Classic Monopoly tokens include a top hat, a thimble and this Scottie figure.",
-          "response": "What is the dog?"
-        },
-        {
-          "value": 400,
-          "clue": "Chess sets include pawns, rooks, bishops, knights, a queen and this most important royal.",
-          "response": "What is the king?"
-        },
-        {
-          "value": 600,
-          "clue": "Connect Four players take turns dropping these colored plastic discs into a grid.",
-          "response": "What are checkers?"
-        },
-        {
-          "value": 800,
-          "clue": "In Operation, you extract plastic ailments using these metal pincers.",
-          "response": "What are tweezers?"
-        },
-        {
-          "value": 1000,
-          "clue": "In Sorry!, players slide these colored plastic playing pieces around the track.",
-          "response": "What are pawns?"
-        }
+        { "value": 200, "clue": "Each side in standard chess begins with this many pawns.", "response": "What is eight?" },
+        { "value": 400, "clue": "Classic Monopoly tokens include the top hat, thimble and this Scottie figure.", "response": "What is the dog?" },
+        { "value": 600, "clue": "A standard playing-card deck is divided into this many suits.", "response": "What is four?" },
+        { "value": 800, "clue": "In backgammon, each player controls this many checkers.", "response": "What is fifteen?" },
+        { "value": 1000, "clue": "A standard double-six domino set contains this many tiles.", "response": "What is 28?" }
       ]
     },
     {
       "name": "Space Missions",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This 1969 NASA mission first landed humans on the lunar surface.",
-          "response": "What is Apollo 11?"
-        },
-        {
-          "value": 400,
-          "clue": "This reusable winged NASA spacecraft flew from 1981 until its retirement in 2011.",
-          "response": "What is the Space Shuttle?"
-        },
-        {
-          "value": 600,
-          "clue": "This orbiting observatory, launched in 1990, is named for an American astronomer.",
-          "response": "What is the Hubble Space Telescope?"
-        },
-        {
-          "value": 800,
-          "clue": "The 'Perseverance' rover currently explores this red world.",
-          "response": "What is Mars?"
-        },
-        {
-          "value": 1000,
-          "clue": "This crewed orbital laboratory, abbreviated ISS, has hosted astronauts since 2000.",
-          "response": "What is the International Space Station?"
-        }
+        { "value": 200, "clue": "This 1969 mission first landed humans on the Moon.", "response": "What is Apollo 11?" },
+        { "value": 400, "clue": "This reusable NASA spacecraft program flew from 1981 to 2011.", "response": "What is the Space Shuttle?" },
+        { "value": 600, "clue": "This space telescope, launched in 1990, was named for an American astronomer.", "response": "What is Hubble?" },
+        { "value": 800, "clue": "This 1970 mission survived an oxygen-tank explosion and the line 'Houston, we've had a problem.'", "response": "What is Apollo 13?" },
+        { "value": 1000, "clue": "Landing via a 'sky crane' in 2012, this NASA rover explores Mars's Gale Crater.", "response": "What is Curiosity?" }
       ]
     },
     {
       "name": "Finish the Lyric",
       "clues": [
-        {
-          "value": 200,
-          "clue": "The Gilligan's Island theme says the castaways set out on 'a three-hour' this.",
-          "response": "What is tour?"
-        },
-        {
-          "value": 400,
-          "clue": "The Brady Bunch theme calls it 'the story of a lovely' this.",
-          "response": "What is lady?"
-        },
-        {
-          "value": 600,
-          "clue": "The Flintstones theme promises 'we'll have a gay old' this.",
-          "response": "What is time?"
-        },
-        {
-          "value": 800,
-          "clue": "The Cheers theme longs for a place 'where everybody knows your' this.",
-          "response": "What is name?"
-        },
-        {
-          "value": 1000,
-          "clue": "The Addams Family theme tells listeners to do this twice with their fingers.",
-          "response": "What is snap?"
-        }
+        { "value": 200, "clue": "The 'Gilligan's Island' theme says the crew set sail for a 'three-hour' this.", "response": "What is tour?" },
+        { "value": 400, "clue": "The 'Fresh Prince' theme says 'In west Philadelphia, born and' this.", "response": "What is raised?" },
+        { "value": 600, "clue": "The 'Flintstones' theme promises 'we'll have a gay old' this.", "response": "What is time?" },
+        { "value": 800, "clue": "'The Brady Bunch' theme calls it 'the story of a lovely' this.", "response": "What is lady?" },
+        { "value": 1000, "clue": "'The Greatest American Hero' theme opens 'Believe it or not, I'm walking on' this.", "response": "What is air?" }
       ]
     },
     {
       "name": "Real Famous Animals",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Every February 2, this Pennsylvania groundhog \"predicts\" the weather.",
-          "response": "Who is Punxsutawney Phil?"
-        },
-        {
-          "value": 400,
-          "clue": "\"Crocodile Hunter\" Steve Irwin was a beloved wildlife expert from this country.",
-          "response": "What is Australia?"
-        },
-        {
-          "value": 600,
-          "clue": "This is Steve Irwin's signature one-word exclamation of excitement.",
-          "response": "What is \"Crikey!\"?"
-        },
-        {
-          "value": 800,
-          "clue": "In 2006 this Berlin Zoo polar bear cub became a worldwide media sensation.",
-          "response": "Who is Knut?"
-        },
-        {
-          "value": 1000,
-          "clue": "In 2002's \"The Crocodile Hunter: Collision Course,\" Irwin co-starred with this real-life wife.",
-          "response": "Who is Terri Irwin?"
-        }
+        { "value": 200, "clue": "This Pennsylvania groundhog 'forecasts' the arrival of spring each February 2.", "response": "Who is Punxsutawney Phil?" },
+        { "value": 400, "clue": "This thoroughbred won the 1973 Triple Crown, taking the Belmont by 31 lengths.", "response": "Who is Secretariat?" },
+        { "value": 600, "clue": "This Soviet dog became the first animal to orbit Earth, aboard Sputnik 2 in 1957.", "response": "Who is Laika?" },
+        { "value": 800, "clue": "This loyal Akita waited years at a Tokyo station for his deceased owner.", "response": "Who is Hachiko?" },
+        { "value": 1000, "clue": "This western lowland gorilla learned modified sign language under Francine Patterson.", "response": "Who is Koko?" }
       ]
     }
   ],
   "final": {
     "category": "Constellations",
-    "clue": "This mythological hunter constellation is easily spotted by its three-star 'belt.'",
-    "response": "What is Orion?"
+    "clue": "This zodiac constellation, the Scorpion, contains the red supergiant Antares at its heart.",
+    "response": "What is Scorpius?"
   }
 }

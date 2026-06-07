@@ -4,157 +4,57 @@
     {
       "name": "Everyday Objects",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Inspired by plant burrs, this hook-and-loop fastener became a household brand name.",
-          "response": "What is Velcro?"
-        },
-        {
-          "value": 400,
-          "clue": "A 3M chemist's weak adhesive accidentally created this repositionable sticky note.",
-          "response": "What is the Post-it?"
-        },
-        {
-          "value": 600,
-          "clue": "Gideon Sundback perfected this interlocking-teeth fastener for clothing and bags.",
-          "response": "What is the zipper?"
-        },
-        {
-          "value": 800,
-          "clue": "Laszlo Biro lent his name in many countries to this smear-resistant writing instrument.",
-          "response": "What is the ballpoint pen?"
-        },
-        {
-          "value": 1000,
-          "clue": "Percy Spencer invented this kitchen appliance after a candy bar melted near his radar set.",
-          "response": "What is the microwave oven?"
-        }
+        { "value": 200, "clue": "Inspired by burrs clinging to his dog, George de Mestral invented this hook-and-loop fastener.", "response": "What is Velcro?" },
+        { "value": 400, "clue": "A weak 3M adhesive led Art Fry to create this repositionable sticky note.", "response": "What is the Post-it?" },
+        { "value": 600, "clue": "Gideon Sundback perfected this interlocking-teeth clothing fastener around 1913.", "response": "What is the zipper?" },
+        { "value": 800, "clue": "Hungarian journalist Laszlo Biro patented this smear-resistant pen in the 1930s.", "response": "What is the ballpoint pen?" },
+        { "value": 1000, "clue": "Percy Spencer invented this oven after a radar magnetron melted a candy bar in his pocket.", "response": "What is the microwave?" }
       ]
     },
     {
       "name": "Fillings & Shapes",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Reese's Cups are filled with chocolate and this creamy nut spread.",
-          "response": "What is peanut butter?"
-        },
-        {
-          "value": 400,
-          "clue": "A foil-wrapped chocolate teardrop called a 'Kiss' is made by this brand.",
-          "response": "What is Hershey's?"
-        },
-        {
-          "value": 600,
-          "clue": "Whoppers and Maltesers share this airy, toasted-grain center.",
-          "response": "What is malt?"
-        },
-        {
-          "value": 800,
-          "clue": "Each Ferrero Rocher hides a whole one of these round tree nuts in its center.",
-          "response": "What is a hazelnut?"
-        },
-        {
-          "value": 1000,
-          "clue": "A Cadbury Creme Egg is filled with fondant dyed to mimic this golden part of a real egg.",
-          "response": "What is the yolk?"
-        }
+        { "value": 200, "clue": "Reese's Cups pair chocolate with this creamy filling.", "response": "What is peanut butter?" },
+        { "value": 400, "clue": "Each Ferrero Rocher hides a whole one of these round tree nuts at its center.", "response": "What is a hazelnut?" },
+        { "value": 600, "clue": "Whoppers and Maltesers share this airy, toasted-grain center.", "response": "What is malted milk?" },
+        { "value": 800, "clue": "A Cadbury Creme Egg's fondant is dyed to mimic this golden part of a real egg.", "response": "What is the yolk?" },
+        { "value": 1000, "clue": "Junior Mints and York patties share this cool, dark flavor.", "response": "What is peppermint?" }
       ]
     },
     {
       "name": "Stars & Galaxies",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Our home galaxy bears this milky-looking name.",
-          "response": "What is the Milky Way?"
-        },
-        {
-          "value": 400,
-          "clue": "This brilliant explosion marks the violent death of a massive star.",
-          "response": "What is a supernova?"
-        },
-        {
-          "value": 600,
-          "clue": "This collapsed object is so dense that not even light can escape it.",
-          "response": "What is a black hole?"
-        },
-        {
-          "value": 800,
-          "clue": "The bright 'North Star' also goes by this proper name.",
-          "response": "What is Polaris?"
-        },
-        {
-          "value": 1000,
-          "clue": "The nearest star beyond the Sun is 'Proxima' followed by this constellation name.",
-          "response": "What is Centauri?"
-        }
+        { "value": 200, "clue": "Our solar system resides in this barred-spiral galaxy.", "response": "What is the Milky Way?" },
+        { "value": 400, "clue": "The violent death of a massive star produces this brilliant explosion.", "response": "What is a supernova?" },
+        { "value": 600, "clue": "A region of spacetime from which not even light can escape is this.", "response": "What is a black hole?" },
+        { "value": 800, "clue": "Betelgeuse is a red one of these aging, enormous stars destined to explode.", "response": "What is a supergiant?" },
+        { "value": 1000, "clue": "On a collision course with the Milky Way, this is the nearest large spiral galaxy (M31).", "response": "What is Andromeda?" }
       ]
     },
     {
       "name": "Weird Laws (Reputed)",
       "clues": [
-        {
-          "value": 200,
-          "clue": "An Alaska statute is often cited for banning waking this hibernating animal to take a photo.",
-          "response": "What is a bear?"
-        },
-        {
-          "value": 400,
-          "clue": "An 1897 Indiana bill nearly legally redefined this circle-ratio constant to 3.2.",
-          "response": "What is pi?"
-        },
-        {
-          "value": 600,
-          "clue": "Carmel, California once required a permit to wear these tall shoes on its sloped streets.",
-          "response": "What are high heels?"
-        },
-        {
-          "value": 800,
-          "clue": "Gainesville, Georgia 'requires' that this fried bird be eaten only with one's hands.",
-          "response": "What is chicken?"
-        },
-        {
-          "value": 1000,
-          "clue": "A reputed Kansas rule forbids topping cherry pie on Sundays with this cold dairy treat.",
-          "response": "What is ice cream?"
-        }
+        { "value": 200, "clue": "A widely cited Alaska law bans waking this hibernating animal to take a photo.", "response": "What is a bear?" },
+        { "value": 400, "clue": "An 1897 Indiana bill nearly set this circle-ratio constant to 3.2 by statute.", "response": "What is pi?" },
+        { "value": 600, "clue": "Old 'blue laws' in many U.S. towns reputedly forbid selling this on Sundays.", "response": "What is alcohol?" },
+        { "value": 800, "clue": "A reputed Gainesville, Georgia ordinance requires this fried bird be eaten only by hand.", "response": "What is chicken?" },
+        { "value": 1000, "clue": "An old Vermont law reputedly required a wife to have her husband's permission to wear these dental prosthetics.", "response": "What are false teeth?" }
       ]
     },
     {
       "name": "Communication",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Samuel Morse lent his name to this dot-and-dash signaling system.",
-          "response": "What is Morse code?"
-        },
-        {
-          "value": 400,
-          "clue": "Gutenberg's 15th-century machine made mass-produced books possible.",
-          "response": "What is the printing press?"
-        },
-        {
-          "value": 600,
-          "clue": "Guglielmo Marconi is credited with the first practical wireless transmission of this signal.",
-          "response": "What is radio?"
-        },
-        {
-          "value": 800,
-          "clue": "Ray Tomlinson sent the first networked message of this '@'-addressed type in 1971.",
-          "response": "What is email?"
-        },
-        {
-          "value": 1000,
-          "clue": "Tim Berners-Lee proposed this hyperlinked information system in 1989.",
-          "response": "What is the World Wide Web?"
-        }
+        { "value": 200, "clue": "Samuel Morse co-developed this dot-and-dash signaling code.", "response": "What is Morse code?" },
+        { "value": 400, "clue": "Johannes Gutenberg's 15th-century movable-type machine is generally called this.", "response": "What is the printing press?" },
+        { "value": 600, "clue": "Guglielmo Marconi pioneered the long-distance wireless transmission of this.", "response": "What is radio?" },
+        { "value": 800, "clue": "Tim Berners-Lee proposed this hyperlinked information system in 1989.", "response": "What is the World Wide Web?" },
+        { "value": 1000, "clue": "Bell's famous first telephone sentence was a summons to this lab assistant.", "response": "Who is Thomas Watson?" }
       ]
     }
   ],
   "final": {
     "category": "Halloween Haul",
-    "clue": "This brand's chocolate-and-peanut-butter cups regularly top surveys of favorite trick-or-treat candy.",
+    "clue": "These chocolate-and-peanut-butter cups regularly top surveys of favorite trick-or-treat candy.",
     "response": "What is Reese's?"
   }
 }

@@ -4,157 +4,57 @@
     {
       "name": "Series Finales",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This 1998 finale jailed its quartet of self-absorbed New Yorkers from a 'show about nothing.'",
-          "response": "What is Seinfeld?"
-        },
-        {
-          "value": 400,
-          "clue": "This 1983 war-comedy finale was titled 'Goodbye, Farewell and Amen.'",
-          "response": "What is M*A*S*H?"
-        },
-        {
-          "value": 600,
-          "clue": "Tony orders onion rings before this HBO mob drama abruptly cuts to a black screen.",
-          "response": "What is The Sopranos?"
-        },
-        {
-          "value": 800,
-          "clue": "This chemistry-teacher-turned-kingpin dies in his lab in the finale 'Felina.'",
-          "response": "Who is Walter White?"
-        },
-        {
-          "value": 1000,
-          "clue": "The 'Friends' gang leaves their apartment keys and heads out for one last cup of this.",
-          "response": "What is coffee?"
-        }
+        { "value": 200, "clue": "This 'show about nothing' ended in 1998 with its four leads sentenced to jail.", "response": "What is Seinfeld?" },
+        { "value": 400, "clue": "This 1983 finale, 'Goodbye, Farewell and Amen,' was long the most-watched U.S. broadcast.", "response": "What is M*A*S*H?" },
+        { "value": 600, "clue": "This mob drama ended in 2007 with an abrupt cut to black in a diner.", "response": "What are The Sopranos?" },
+        { "value": 800, "clue": "The 2013 finale 'Felina' concluded this drama about a chemistry teacher named Walter White.", "response": "What is Breaking Bad?" },
+        { "value": 1000, "clue": "This 2010 finale revealed a 'flash-sideways' afterlife, dividing fans of a castaway drama.", "response": "What is Lost?" }
       ]
     },
     {
       "name": "Who Invented It?",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This prolific Menlo Park inventor is credited with the first practical incandescent light bulb.",
-          "response": "Who is Thomas Edison?"
-        },
-        {
-          "value": 400,
-          "clue": "This Scottish-born scientist won the 1876 telephone patent.",
-          "response": "Who is Alexander Graham Bell?"
-        },
-        {
-          "value": 600,
-          "clue": "This Serbian-American visionary championed alternating-current electrical systems.",
-          "response": "Who is Nikola Tesla?"
-        },
-        {
-          "value": 800,
-          "clue": "These Ohio bicycle-shop brothers achieved the first powered airplane flight in 1903.",
-          "response": "Who are the Wright Brothers?"
-        },
-        {
-          "value": 1000,
-          "clue": "This Swedish chemist invented dynamite and endowed a famous set of prizes.",
-          "response": "Who is Alfred Nobel?"
-        }
+        { "value": 200, "clue": "This Menlo Park inventor held over 1,000 U.S. patents, including for the phonograph.", "response": "Who is Thomas Edison?" },
+        { "value": 400, "clue": "This Serbian-American engineer's alternating-current designs power the modern grid.", "response": "Who is Nikola Tesla?" },
+        { "value": 600, "clue": "This British mathematician's 1936 'universal machine' helped found computer science.", "response": "Who is Alan Turing?" },
+        { "value": 800, "clue": "This chemist invented dynamite and funded a famous set of annual prizes.", "response": "Who is Alfred Nobel?" },
+        { "value": 1000, "clue": "This physicist co-invented the transistor at Bell Labs and later promoted eugenics.", "response": "Who is William Shockley?" }
       ]
     },
     {
       "name": "Space Firsts",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This Soviet cosmonaut became the first human in space in 1961.",
-          "response": "Who is Yuri Gagarin?"
-        },
-        {
-          "value": 400,
-          "clue": "This American was the first person to set foot on the Moon.",
-          "response": "Who is Neil Armstrong?"
-        },
-        {
-          "value": 600,
-          "clue": "This American became the first U.S. woman in space in 1983.",
-          "response": "Who is Sally Ride?"
-        },
-        {
-          "value": 800,
-          "clue": "This Soviet 'fellow traveler,' launched in 1957, was the first artificial satellite.",
-          "response": "What is Sputnik?"
-        },
-        {
-          "value": 1000,
-          "clue": "Launched in 1977, this probe became the first human craft to reach interstellar space.",
-          "response": "What is Voyager 1?"
-        }
+        { "value": 200, "clue": "In April 1961 this Soviet cosmonaut became the first human in space.", "response": "Who is Yuri Gagarin?" },
+        { "value": 400, "clue": "Launched in 1957, this Soviet craft was the first artificial satellite.", "response": "What is Sputnik?" },
+        { "value": 600, "clue": "In 1983 this American became the first U.S. woman in space.", "response": "Who is Sally Ride?" },
+        { "value": 800, "clue": "In 1963 this Soviet became the first woman in space, surname Tereshkova.", "response": "Who is Valentina Tereshkova?" },
+        { "value": 1000, "clue": "Launched in 1977, this probe became the first human craft to enter interstellar space.", "response": "What is Voyager 1?" }
       ]
     },
     {
       "name": "Logos & Colors",
       "clues": [
-        {
-          "value": 200,
-          "clue": "The Chicago Bulls' primary uniform color is this fiery hue.",
-          "response": "What is red?"
-        },
-        {
-          "value": 400,
-          "clue": "The Dallas Cowboys' helmets feature this five-pointed shape.",
-          "response": "What is a star?"
-        },
-        {
-          "value": 600,
-          "clue": "The Pittsburgh Steelers pair black with this shining color.",
-          "response": "What is gold?"
-        },
-        {
-          "value": 800,
-          "clue": "The Green Bay Packers' two colors are green and this.",
-          "response": "What is gold?"
-        },
-        {
-          "value": 1000,
-          "clue": "The Raiders' menacing look pairs a metallic gray hue with the color of night.",
-          "response": "What are silver and black?"
-        }
+        { "value": 200, "clue": "The Chicago Bulls wear this fiery color as their primary hue.", "response": "What is red?" },
+        { "value": 400, "clue": "The Dallas Cowboys' helmet displays this five-pointed shape.", "response": "What is a star?" },
+        { "value": 600, "clue": "The Steelers' 'Steelmark' logo carries this number of diamond-like hypocycloids.", "response": "What is three?" },
+        { "value": 800, "clue": "The Green Bay Packers' 'G' logo pairs green with this metallic color.", "response": "What is gold?" },
+        { "value": 1000, "clue": "The Montreal Canadiens' interlocking logo combines a 'C' and this letter, for 'club de hockey.'", "response": "What is H?" }
       ]
     },
     {
       "name": "Mascots",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This fuzzy green Philadelphia baseball mascot has a long snout and a cannon.",
-          "response": "What is the Phillie Phanatic?"
-        },
-        {
-          "value": 400,
-          "clue": "The San Diego Padres' mascot is a brown-robed, smiling religious brother.",
-          "response": "What is the Swinging Friar?"
-        },
-        {
-          "value": 600,
-          "clue": "The University of Texas parades a live longhorn steer by this name.",
-          "response": "What is Bevo?"
-        },
-        {
-          "value": 800,
-          "clue": "The Phoenix Suns' costumed mascot is a purple, dunking ape.",
-          "response": "What is the Gorilla?"
-        },
-        {
-          "value": 1000,
-          "clue": "Notre Dame's pugnacious 'Fighting Irish' mascot is this little fellow with raised fists.",
-          "response": "What is the Leprechaun?"
-        }
+        { "value": 200, "clue": "This furry green Philadelphia baseball mascot debuted in 1978.", "response": "What is the Phillie Phanatic?" },
+        { "value": 400, "clue": "The San Diego Padres' original mascot was this robed, smiling religious figure.", "response": "What is the Swinging Friar?" },
+        { "value": 600, "clue": "The University of Texas parades a live longhorn steer by this name.", "response": "What is Bevo?" },
+        { "value": 800, "clue": "The Phoenix Suns' purple costumed mascot is this dunking ape.", "response": "What is the Gorilla?" },
+        { "value": 1000, "clue": "Notre Dame's pugnacious costumed mascot is this little figure with raised fists.", "response": "What is the Leprechaun?" }
       ]
     }
   ],
   "final": {
     "category": "Villain Catchphrases",
-    "clue": "In 'The Dark Knight,' this anarchic, scarred villain repeatedly taunts victims with 'Why so serious?'",
-    "response": "Who is the Joker?"
+    "clue": "In 'The Silence of the Lambs,' this villain coolly recalls eating a census taker's liver with fava beans.",
+    "response": "Who is Hannibal Lecter?"
   }
 }

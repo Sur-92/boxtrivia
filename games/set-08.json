@@ -4,157 +4,57 @@
     {
       "name": "Mascots",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This red-haired, yellow-jumpsuited clown has fronted McDonald's ads for decades.",
-          "response": "Who is Ronald McDonald?"
-        },
-        {
-          "value": 400,
-          "clue": "This white-suited, goateed 'Colonel' is the face of a fried chicken empire.",
-          "response": "Who is Colonel Sanders?"
-        },
-        {
-          "value": 600,
-          "clue": "A talking Chihuahua in late-90s ads pined 'Yo quiero...' for this Mexican-style chain.",
-          "response": "What is Taco Bell?"
-        },
-        {
-          "value": 800,
-          "clue": "This chain's ad mascot is a calm executive topped with a giant round white ball for a head.",
-          "response": "What is Jack in the Box?"
-        },
-        {
-          "value": 1000,
-          "clue": "Toucan Sam, who follows his nose, fronts this fruity Kellogg's loop cereal sold at no drive-thru.",
-          "response": "What is Froot Loops?"
-        }
+        { "value": 200, "clue": "This red-haired clown debuted as the McDonald's mascot in 1963, first played by Willard Scott.", "response": "Who is Ronald McDonald?" },
+        { "value": 400, "clue": "This monocled, top-hatted legume has represented Planters since 1916.", "response": "Who is Mr. Peanut?" },
+        { "value": 600, "clue": "This giggling, doughy figure springs up when poked to sell Pillsbury products.", "response": "Who is the Pillsbury Doughboy?" },
+        { "value": 800, "clue": "This towering verdant mascot booms 'Ho ho ho' for a frozen-vegetable brand.", "response": "Who is the Jolly Green Giant?" },
+        { "value": 1000, "clue": "This beret-wearing cartoon fish ironically keeps trying to get caught by a tuna brand.", "response": "Who is Charlie the Tuna?" }
       ]
     },
     {
       "name": "Villain Henchmen",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Ursula commands two slithering moray henchmen named Flotsam and Jetsam, of this slippery species.",
-          "response": "What are eels?"
-        },
-        {
-          "value": 400,
-          "clue": "Jafar's sarcastic, squawking sidekick is this red-feathered bird.",
-          "response": "Who is Iago?"
-        },
-        {
-          "value": 600,
-          "clue": "Scar's cackling trio includes Shenzi, Banzai and this nonspeaking, giggling one.",
-          "response": "Who is Ed?"
-        },
-        {
-          "value": 800,
-          "clue": "Captain Hook's bumbling, kindly first mate is this fellow.",
-          "response": "Who is Mr. Smee?"
-        },
-        {
-          "value": 1000,
-          "clue": "Maleficent's clumsy foot-soldiers in 'Sleeping Beauty' are this pig-snouted horde.",
-          "response": "What are goons?"
-        }
+        { "value": 200, "clue": "Jafar's sarcastic, squawking sidekick in 'Aladdin' is this red parrot.", "response": "Who is Iago?" },
+        { "value": 400, "clue": "Ursula's two slippery eel minions are Flotsam and this one.", "response": "Who is Jetsam?" },
+        { "value": 600, "clue": "Captain Hook's anxious yet kindly first mate is this fellow.", "response": "Who is Mr. Smee?" },
+        { "value": 800, "clue": "Scar's hyena trio is Shenzi, Banzai and this non-speaking, giggling one.", "response": "Who is Ed?" },
+        { "value": 1000, "clue": "In 'Sleeping Beauty,' Maleficent's clumsy pig-snouted foot soldiers are this horde.", "response": "What are goons?" }
       ]
     },
     {
       "name": "Last Words (History)",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Shakespeare gives this betrayed Roman dictator the dying line 'Et tu, Brute?'",
-          "response": "Who is Julius Caesar?"
-        },
-        {
-          "value": 400,
-          "clue": "This patriot regretted having but one of these to give for his country before hanging.",
-          "response": "What is a life?"
-        },
-        {
-          "value": 600,
-          "clue": "Marie Antoinette's reported final apology was for stepping on this person's foot.",
-          "response": "Who is the executioner?"
-        },
-        {
-          "value": 800,
-          "clue": "Naval hero John Paul Jones reportedly declared he had not yet begun to do this.",
-          "response": "What is fight?"
-        },
-        {
-          "value": 1000,
-          "clue": "Inventor Thomas Edison reportedly murmured 'It is very beautiful over' this place.",
-          "response": "What is there?"
-        }
+        { "value": 200, "clue": "Shakespeare gives this assassinated dictator the dying line 'Et tu, Brute?'", "response": "Who is Julius Caesar?" },
+        { "value": 400, "clue": "This patriot spy reportedly regretted having but one life to give before his 1776 hanging.", "response": "Who is Nathan Hale?" },
+        { "value": 600, "clue": "This German writer's reputed final words were 'More light!' ('Mehr Licht!').", "response": "Who is Goethe?" },
+        { "value": 800, "clue": "This British admiral died at Trafalgar reportedly murmuring 'Kiss me, Hardy.'", "response": "Who is Horatio Nelson?" },
+        { "value": 1000, "clue": "This Australian outlaw reputedly faced the gallows in 1880 saying 'Such is life.'", "response": "Who is Ned Kelly?" }
       ]
     },
     {
       "name": "Athlete Nicknames",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Basketball's 'His Airness' wore number 23 for the Chicago Bulls.",
-          "response": "Who is Michael Jordan?"
-        },
-        {
-          "value": 400,
-          "clue": "This boxer called himself 'The Greatest' and floated like a butterfly.",
-          "response": "Who is Muhammad Ali?"
-        },
-        {
-          "value": 600,
-          "clue": "Hockey's 'Great One' wore number 99 and shattered scoring records.",
-          "response": "Who is Wayne Gretzky?"
-        },
-        {
-          "value": 800,
-          "clue": "This Argentine soccer legend, nicknamed 'D10S,' won the 1986 World Cup.",
-          "response": "Who is Diego Maradona?"
-        },
-        {
-          "value": 1000,
-          "clue": "Baseball's 'Sultan of Swat' clouted 714 career home runs.",
-          "response": "Who is Babe Ruth?"
-        }
+        { "value": 200, "clue": "Basketball's 'His Airness' won six NBA titles with the Chicago Bulls.", "response": "Who is Michael Jordan?" },
+        { "value": 400, "clue": "Boxing's 'The Greatest' lit the cauldron at the 1996 Atlanta Olympics.", "response": "Who is Muhammad Ali?" },
+        { "value": 600, "clue": "Hockey's 'The Great One' holds the NHL career points record.", "response": "Who is Wayne Gretzky?" },
+        { "value": 800, "clue": "Soccer's 'O Rei' (The King), this Brazilian won three World Cups.", "response": "Who is Pele?" },
+        { "value": 1000, "clue": "Baseball's 'The Splendid Splinter' was the last man to bat .400 in a season.", "response": "Who is Ted Williams?" }
       ]
     },
     {
       "name": "Candy History",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Milton Hershey built an entire company town for his chocolate works in this state.",
-          "response": "What is Pennsylvania?"
-        },
-        {
-          "value": 400,
-          "clue": "Besides candy, the Mars company is a giant maker of this product for cats and dogs.",
-          "response": "What is pet food?"
-        },
-        {
-          "value": 600,
-          "clue": "PEZ began in this European country as a compressed peppermint breath candy.",
-          "response": "What is Austria?"
-        },
-        {
-          "value": 800,
-          "clue": "Candy corn's three traditional bands are white, orange and this.",
-          "response": "What is yellow?"
-        },
-        {
-          "value": 1000,
-          "clue": "The chocolate maker Cadbury was founded in this country, also home to its Dairy Milk bar.",
-          "response": "What is England?"
-        }
+        { "value": 200, "clue": "Milton Hershey built a model company town for his chocolate works in this state.", "response": "What is Pennsylvania?" },
+        { "value": 400, "clue": "PEZ originated in this European country in 1927 as a peppermint for adults.", "response": "What is Austria?" },
+        { "value": 600, "clue": "The second 'M' in M&M's honors Bruce, son of a Hershey president, whose surname is this.", "response": "Who is Murrie?" },
+        { "value": 800, "clue": "Candy corn, dating to the 1880s, was originally marketed as 'Chicken' this.", "response": "What is feed?" },
+        { "value": 1000, "clue": "This Quaker family firm, founded in Birmingham in 1824, makes Dairy Milk.", "response": "What is Cadbury?" }
       ]
     }
   ],
   "final": {
     "category": "World Capitals",
-    "clue": "This purpose-built inland city, not Sydney or Melbourne, is the capital of Australia.",
-    "response": "What is Canberra?"
+    "clue": "This purpose-built modernist city replaced Rio de Janeiro as Brazil's capital in 1960.",
+    "response": "What is Brasilia?"
   }
 }

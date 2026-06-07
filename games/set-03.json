@@ -4,157 +4,57 @@
     {
       "name": "The Planets",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This small, fast planet orbits closest to the Sun.",
-          "response": "What is Mercury?"
-        },
-        {
-          "value": 400,
-          "clue": "This iron-oxide-covered world is nicknamed the 'Red Planet.'",
-          "response": "What is Mars?"
-        },
-        {
-          "value": 600,
-          "clue": "This largest gas giant sports a centuries-old Great Red Spot storm.",
-          "response": "What is Jupiter?"
-        },
-        {
-          "value": 800,
-          "clue": "This gas giant is famous for its broad, icy ring system.",
-          "response": "What is Saturn?"
-        },
-        {
-          "value": 1000,
-          "clue": "This distant body was demoted to 'dwarf planet' status in 2006.",
-          "response": "What is Pluto?"
-        }
+        { "value": 200, "clue": "This planet has the longest sidereal rotation period and spins retrograde.", "response": "What is Venus?" },
+        { "value": 400, "clue": "Ganymede, the largest moon in the solar system, orbits this planet.", "response": "What is Jupiter?" },
+        { "value": 600, "clue": "This ice giant rotates almost on its side, with an axial tilt near 98 degrees.", "response": "What is Uranus?" },
+        { "value": 800, "clue": "Olympus Mons, the tallest known volcano in the solar system, rises on this planet.", "response": "What is Mars?" },
+        { "value": 1000, "clue": "Predicted mathematically before being seen, this planet was discovered in 1846.", "response": "What is Neptune?" }
       ]
     },
     {
       "name": "Comic Relief",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This big blue, wish-granting spirit bursts from a lamp in 'Aladdin.'",
-          "response": "Who is the Genie?"
-        },
-        {
-          "value": 400,
-          "clue": "This carrot-nosed snowman from 'Frozen' dreams of summer and warm hugs.",
-          "response": "Who is Olaf?"
-        },
-        {
-          "value": 600,
-          "clue": "A meerkat and a warthog teach 'Hakuna Matata' in 'The Lion King'; name the warthog.",
-          "response": "Who is Pumbaa?"
-        },
-        {
-          "value": 800,
-          "clue": "This goat-legged trainer of heroes in 'Hercules' was voiced by Danny DeVito.",
-          "response": "Who is Phil?"
-        },
-        {
-          "value": 1000,
-          "clue": "This uptight mantel-clock majordomo keeps order in the Beast's castle.",
-          "response": "Who is Cogsworth?"
-        }
+        { "value": 200, "clue": "Robin Williams improvised much of this wish-granting character's dialogue in a 1992 film.", "response": "Who is the Genie?" },
+        { "value": 400, "clue": "Voiced by Josh Gad, this 'Frozen' snowman dreams of experiencing summer.", "response": "Who is Olaf?" },
+        { "value": 600, "clue": "In 'The Lion King,' name the wisecracking meerkat who sings 'Hakuna Matata.'", "response": "Who is Timon?" },
+        { "value": 800, "clue": "David Ogden Stiers voiced this fussy mantel-clock majordomo in 'Beauty and the Beast.'", "response": "Who is Cogsworth?" },
+        { "value": 1000, "clue": "Danny DeVito voiced this satyr trainer of heroes in Disney's 'Hercules.'", "response": "Who is Philoctetes?" }
       ]
     },
     {
       "name": "Cereal Mascots",
       "clues": [
-        {
-          "value": 200,
-          "clue": "This enthusiastic orange-striped feline insists Frosted Flakes are 'gr-r-reat!'",
-          "response": "Who is Tony the Tiger?"
-        },
-        {
-          "value": 400,
-          "clue": "This green-suited Irish sprite guards the marshmallows in a General Mills charm cereal.",
-          "response": "Who is Lucky the Leprechaun?"
-        },
-        {
-          "value": 600,
-          "clue": "This frantic bird goes 'cuckoo' for a chocolate-puff cereal.",
-          "response": "Who is Sonny?"
-        },
-        {
-          "value": 800,
-          "clue": "This nautical officer in a tricorn hat sells a crunchy sweetened-corn cereal.",
-          "response": "Who is Cap'n Crunch?"
-        },
-        {
-          "value": 1000,
-          "clue": "An eternally denied rabbit is told this fruity cereal is 'for kids' only.",
-          "response": "What is Trix?"
-        }
+        { "value": 200, "clue": "This striped tiger has fronted Frosted Flakes since 1952, joined in ads by his son Tony Jr.", "response": "Who is Tony the Tiger?" },
+        { "value": 400, "clue": "The Lucky Charms leprechaun's catchphrase calls the cereal 'magically' this.", "response": "What is delicious?" },
+        { "value": 600, "clue": "This cereal captain's lore-given full name is Horatio Magellan, plus this surname.", "response": "What is Crunch?" },
+        { "value": 800, "clue": "The eternally denied Trix rabbit gag dates to the cereal's debut in this decade.", "response": "What are the 1950s?" },
+        { "value": 1000, "clue": "Toucan Sam of Froot Loops was originally voiced by this Looney Tunes 'Man of a Thousand Voices.'", "response": "Who is Mel Blanc?" }
       ]
     },
     {
       "name": "Movie Final Lines",
       "clues": [
-        {
-          "value": 200,
-          "clue": "Scarlett O'Hara ends 'Gone with the Wind' vowing that 'after all, tomorrow is' this.",
-          "response": "What is another day?"
-        },
-        {
-          "value": 400,
-          "clue": "'Casablanca' closes calling this the start of 'a beautiful' bond between two men.",
-          "response": "What is friendship?"
-        },
-        {
-          "value": 600,
-          "clue": "An aged Rose drops this priceless blue gem into the sea at the close of 'Titanic.'",
-          "response": "What is the Heart of the Ocean?"
-        },
-        {
-          "value": 800,
-          "clue": "The 1968 'Planet of the Apes' ends with Taylor finding this toppled New York monument on a beach.",
-          "response": "What is the Statue of Liberty?"
-        },
-        {
-          "value": 1000,
-          "clue": "The reprogrammed cyborg gives a thumbs-up sinking into molten steel in this 1991 sequel.",
-          "response": "What is Terminator 2?"
-        }
+        { "value": 200, "clue": "'Gone with the Wind' ends with Scarlett resolving that tomorrow is this.", "response": "What is another day?" },
+        { "value": 400, "clue": "'Casablanca' closes with Rick speaking the 'beautiful friendship' line to this police captain.", "response": "Who is Captain Renault?" },
+        { "value": 600, "clue": "'2001: A Space Odyssey' has this rogue computer plead and sing as it is shut down.", "response": "What is HAL 9000?" },
+        { "value": 800, "clue": "'Some Like It Hot' ends with the deadpan line 'Well, nobody's' this.", "response": "What is perfect?" },
+        { "value": 1000, "clue": "Roman Polanski's 1974 noir closes with the line 'Forget it, Jake. It's' this Los Angeles district.", "response": "What is Chinatown?" }
       ]
     },
     {
       "name": "Endings & Twists",
       "clues": [
-        {
-          "value": 200,
-          "clue": "'The Sixth Sense' reveals Bruce Willis's character has been in this state the whole film.",
-          "response": "What is dead?"
-        },
-        {
-          "value": 400,
-          "clue": "'Fight Club' twists when the narrator realizes he and Tyler Durden share this trait.",
-          "response": "What is being the same person?"
-        },
-        {
-          "value": 600,
-          "clue": "'Soylent Green' ends with the horrifying revelation that the food is made from these.",
-          "response": "What are people?"
-        },
-        {
-          "value": 800,
-          "clue": "'The Empire Strikes Back' stuns with the reveal that Vader is this relation to Luke.",
-          "response": "What is his father?"
-        },
-        {
-          "value": 1000,
-          "clue": "'The Usual Suspects' unveils that meek Verbal Kint is really this criminal mastermind.",
-          "response": "Who is Keyser Soze?"
-        }
+        { "value": 200, "clue": "'The Sixth Sense' reveals Malcolm Crowe has been in this state for most of the film.", "response": "What is dead?" },
+        { "value": 400, "clue": "'Fight Club' reveals the narrator and Tyler Durden are actually this.", "response": "What is one person?" },
+        { "value": 600, "clue": "The 1968 'Planet of the Apes' ends at the ruins of this monument on a beach.", "response": "What is the Statue of Liberty?" },
+        { "value": 800, "clue": "'The Empire Strikes Back' reveals this character is Luke's father.", "response": "Who is Darth Vader?" },
+        { "value": 1000, "clue": "'The Usual Suspects' reveals meek Verbal Kint to be this elusive mastermind.", "response": "Who is Keyser Soze?" }
       ]
     }
   ],
   "final": {
     "category": "Voices Behind the Sidekicks",
-    "clue": "This late, beloved comedian improvised the manic Genie in Disney's 1992 'Aladdin.'",
-    "response": "Who is Robin Williams?"
+    "clue": "This comedian voiced both Donkey in 'Shrek' and Mushu in Disney's 'Mulan.'",
+    "response": "Who is Eddie Murphy?"
   }
 }
