@@ -29,24 +29,56 @@ html, body {
   background-attachment: fixed;
 }
 
-/* Faint dot texture + corner vignette for depth — sits behind everything. */
+/* A weave of patterns behind everything: dot grid, two-way crosshatch,
+   and a faint blueprint grid. All gradient-based (CSP-safe, no images). */
 body::before {
   content: '';
   position: fixed;
   inset: 0;
   z-index: 0;
   pointer-events: none;
-  background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1.5px);
-  background-size: 26px 26px;
-  opacity: 0.55;
+  background-image:
+    /* corner vignette (on top of the patterns) */
+    radial-gradient(130% 100% at 50% 40%, transparent 52%, rgba(0, 4, 60, 0.6) 100%),
+    /* fine dot grid */
+    radial-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1.6px),
+    /* light crosshatch — one diagonal */
+    repeating-linear-gradient(45deg, rgba(255, 255, 255, 0.022) 0 2px, transparent 2px 16px),
+    /* dark crosshatch — the other diagonal */
+    repeating-linear-gradient(-45deg, rgba(2, 6, 70, 0.22) 0 2px, transparent 2px 22px),
+    /* blueprint grid lines */
+    linear-gradient(rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size:
+    auto,
+    26px 26px,
+    auto,
+    auto,
+    96px 96px,
+    96px 96px;
+  background-position: center;
 }
+
+/* A slowly rotating sunburst of rays from the top for some showbiz pizazz. */
 body::after {
   content: '';
   position: fixed;
-  inset: 0;
+  inset: -25%;
   z-index: 0;
   pointer-events: none;
-  background: radial-gradient(130% 100% at 50% 40%, transparent 55%, rgba(0, 4, 60, 0.55) 100%);
+  background:
+    repeating-conic-gradient(from 0deg at 50% 50%,
+      rgba(255, 255, 255, 0.04) 0deg 2.5deg, transparent 2.5deg 13deg);
+  animation: bg-rays 120s linear infinite;
+}
+
+@keyframes bg-rays {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body::after { animation: none; }
 }
 
 #app { position: relative; z-index: 1; height: 100vh; display: flex; flex-direction: column; }
