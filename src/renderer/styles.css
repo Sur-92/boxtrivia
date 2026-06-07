@@ -20,11 +20,36 @@
 html, body {
   margin: 0;
   height: 100%;
-  background: var(--jeopardy-blue);
   color: var(--ink);
+  background:
+    radial-gradient(1100px 620px at 50% -8%, #3145ff 0%, rgba(49, 69, 255, 0) 58%),
+    radial-gradient(820px 540px at 92% 110%, #1b27c4 0%, rgba(27, 39, 196, 0) 55%),
+    radial-gradient(720px 520px at 4% 102%, #122089 0%, rgba(18, 32, 137, 0) 55%),
+    linear-gradient(155deg, #0a1080 0%, #060ce9 48%, #050a78 100%);
+  background-attachment: fixed;
 }
 
-#app { height: 100vh; display: flex; flex-direction: column; }
+/* Faint dot texture + corner vignette for depth — sits behind everything. */
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1.5px);
+  background-size: 26px 26px;
+  opacity: 0.55;
+}
+body::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+  background: radial-gradient(130% 100% at 50% 40%, transparent 55%, rgba(0, 4, 60, 0.55) 100%);
+}
+
+#app { position: relative; z-index: 1; height: 100vh; display: flex; flex-direction: column; }
 
 button { font-family: inherit; cursor: pointer; }
 
@@ -116,27 +141,32 @@ button { font-family: inherit; cursor: pointer; }
 }
 .cat-head {
   display: flex; align-items: center; justify-content: center; text-align: center;
-  background: var(--board-blue); color: var(--ink);
+  background: linear-gradient(180deg, #0f21a6 0%, #0a1672 100%); color: var(--ink);
   font-weight: 800; font-size: clamp(13px, 1.5vw, 20px); text-transform: uppercase;
   padding: 8px; border-radius: 6px; letter-spacing: 0.5px;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 2px 6px rgba(0, 0, 0, 0.3);
 }
 .cell {
   display: flex; align-items: center; justify-content: center;
-  background: var(--cell-blue); border-radius: 6px;
+  background: linear-gradient(180deg, #1430c4 0%, #0a1f9c 100%); border-radius: 6px;
   color: var(--gold-bright); font-weight: 900;
   font-size: clamp(20px, 3.2vw, 48px);
   text-shadow: 2px 2px 0 #00114d;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.12), 0 2px 6px rgba(0, 0, 0, 0.35);
+  transition: transform 0.08s ease, filter 0.12s ease;
 }
-.cell.blank { background: transparent; }
-.cell.spent { background: #060f54; }
+.cell.blank { background: transparent; box-shadow: none; }
+.cell.spent { background: #0a1150; box-shadow: inset 0 0 24px rgba(0, 0, 0, 0.5); }
 .cell.clickable { cursor: pointer; }
-.cell.clickable:hover { background: #15269e; }
+.cell.clickable:hover { filter: brightness(1.25); transform: translateY(-1px); }
 .cell.selected { outline: 3px solid var(--gold-bright); }
 
 .clue-stage {
   flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center;
-  text-align: center; gap: 28px; padding: 6vw; background: var(--cell-blue);
+  text-align: center; gap: 28px; padding: 6vw;
+  background: radial-gradient(120% 120% at 50% 0%, #1834ad 0%, #0a1f9c 55%, #071784 100%);
   margin: 0; border-radius: 10px;
+  box-shadow: inset 0 0 140px rgba(0, 0, 0, 0.4);
 }
 .clue-stage-cat { color: var(--gold); font-size: clamp(18px, 2.4vw, 30px); font-weight: 800; text-transform: uppercase; letter-spacing: 2px; }
 .clue-stage-text { font-size: clamp(28px, 4.5vw, 64px); font-weight: 800; line-height: 1.25; text-shadow: 3px 3px 0 #00114d; }
