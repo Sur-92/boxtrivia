@@ -40,6 +40,9 @@ export interface AppState {
   spent: Set<number>
   selectedClueId: number | null
   responseRevealed: boolean
+  editing: boolean
+  editClue: string
+  editResponse: string
   final: FinalState | null
 }
 
@@ -59,6 +62,9 @@ export const state: AppState = {
   spent: new Set(),
   selectedClueId: null,
   responseRevealed: false,
+  editing: false,
+  editClue: '',
+  editResponse: '',
   final: null
 }
 
@@ -234,12 +240,14 @@ export function selectClue(id: number): void {
   if (state.spent.has(id)) return
   state.selectedClueId = id
   state.responseRevealed = false
+  state.editing = false
   render()
 }
 
 export function closeClue(): void {
   state.selectedClueId = null
   state.responseRevealed = false
+  state.editing = false
   render()
 }
 
@@ -252,7 +260,51 @@ function resolveClue(): void {
   if (state.selectedClueId != null) state.spent.add(state.selectedClueId)
   state.selectedClueId = null
   state.responseRevealed = false
+  state.editing = false
   state.view = 'control'
+  render()
+}
+
+// ─── Edit a clue/answer permanently ───
+
+export function beginEdit(): void {
+  const found = state.selectedClueId != null ? findClue(state.selectedClueId) : null
+  if (!found) return
+  state.editClue = found.clue.clue
+  state.editResponse = found.clue.response
+  state.editing = true
+  state.view = 'control' // editing always happens on the moderator screen
+  render()
+}
+
+export function setEditClue(v: string): void {
+  state.editClue = v // no render — preserve the textarea caret
+}
+
+export function setEditResponse(v: string): void {
+  state.editResponse = v
+}
+
+export function cancelEdit(): void {
+  state.editing = false
+  render()
+}
+
+export async function saveEdit(): Promise<void> {
+  const found = state.selectedClueId != null ? findClue(state.selectedClueId) : null
+  if (!found) {
+    state.editing = false
+    render()
+    return
+  }
+  const clue = state.editClue.trim()
+  const response = state.editResponse.trim()
+  if (!clue || !response) return // both are required
+  const updated = await window.boxtrivia.clues.update(found.clue.id, { clue, response })
+  // Reflect the change in the in-memory board so it shows immediately.
+  found.clue.clue = updated.clue
+  found.clue.response = updated.response
+  state.editing = false
   render()
 }
 

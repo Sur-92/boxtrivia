@@ -70,6 +70,27 @@ export function deleteGame(id: number): void {
   getDb().prepare('DELETE FROM games WHERE id = ?').run(id)
 }
 
+/** Permanently update a clue's prompt and/or response in the database. */
+export function updateClue(id: number, patch: { clue?: string; response?: string }): Clue {
+  const db = getDb()
+  const fields: string[] = []
+  const vals: unknown[] = []
+  if (typeof patch.clue === 'string') {
+    fields.push('clue = ?')
+    vals.push(patch.clue.trim())
+  }
+  if (typeof patch.response === 'string') {
+    fields.push('response = ?')
+    vals.push(patch.response.trim())
+  }
+  if (fields.length) {
+    db.prepare(`UPDATE clues SET ${fields.join(', ')} WHERE id = ?`).run(...vals, id)
+  }
+  return db
+    .prepare('SELECT id, category_id, value, clue, response, position FROM clues WHERE id = ?')
+    .get(id) as Clue
+}
+
 // ─── Writes (seed import) ───
 
 /** Insert a validated seed as a new game, atomically. Returns its summary. */

@@ -94,6 +94,10 @@ export interface BoxTriviaApi {
     importSeed: (seed: SeedGame) => Promise<ImportResult>
     delete: (id: number) => Promise<void>
   }
+  clues: {
+    /** Permanently update a clue's prompt and/or response in the database. */
+    update: (id: number, patch: { clue?: string; response?: string }) => Promise<Clue>
+  }
   app: {
     version: () => Promise<string>
   }

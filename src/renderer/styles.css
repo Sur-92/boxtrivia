@@ -199,6 +199,18 @@ button { font-family: inherit; cursor: pointer; }
 .clue-panel-response .label { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: 1px; }
 .clue-panel-response .value { font-size: 22px; font-weight: 800; color: var(--gold-bright); }
 
+.btn.small { padding: 6px 12px; font-size: 13px; }
+
+.edit-form { display: flex; flex-direction: column; gap: 8px; margin-top: 6px; }
+.edit-label { color: var(--gold); font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; }
+.edit-area {
+  background: #0d1444; border: 1px solid var(--panel-line); border-radius: 8px;
+  padding: 12px 14px; color: var(--ink); font-size: 17px; font-family: inherit;
+  line-height: 1.4; resize: vertical;
+}
+.edit-area:focus { outline: none; border-color: var(--gold-bright); }
+.edit-note { color: var(--muted); font-size: 12px; font-style: italic; }
+
 .scoring { margin-top: 20px; display: flex; flex-direction: column; gap: 8px; }
 .scoring-label { color: var(--muted); font-weight: 700; font-size: 14px; text-transform: uppercase; letter-spacing: 1px; }
 .scoring-row, .wager-row { display: flex; align-items: center; gap: 10px; }

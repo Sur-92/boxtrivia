@@ -1,5 +1,5 @@
 import { contextBridge, ipcRenderer } from 'electron'
-import type { BoxTriviaApi, GameSummary, GameFull, ImportResult, SeedGame } from '@shared/types'
+import type { BoxTriviaApi, GameSummary, GameFull, ImportResult, SeedGame, Clue } from '@shared/types'
 
 const api: BoxTriviaApi = {
   games: {
@@ -8,6 +8,10 @@ const api: BoxTriviaApi = {
     import: () => ipcRenderer.invoke('games:import') as Promise<ImportResult>,
     importSeed: (seed: SeedGame) => ipcRenderer.invoke('games:importSeed', seed) as Promise<ImportResult>,
     delete: (id: number) => ipcRenderer.invoke('games:delete', id) as Promise<void>
+  },
+  clues: {
+    update: (id: number, patch: { clue?: string; response?: string }) =>
+      ipcRenderer.invoke('clues:update', id, patch) as Promise<Clue>
   },
   app: {
     version: () => ipcRenderer.invoke('app:version') as Promise<string>

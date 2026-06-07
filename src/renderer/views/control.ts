@@ -16,6 +16,11 @@ import {
   finalRevealClue,
   finalRevealResponse,
   finalMark,
+  beginEdit,
+  setEditClue,
+  setEditResponse,
+  cancelEdit,
+  saveEdit,
   endMatch
 } from '../state'
 
@@ -88,7 +93,37 @@ function renderCluePanel(): HTMLElement {
       el('span', { class: 'clue-panel-value', text: `$${found.clue.value}` })
     )
   )
+
+  // Edit mode replaces the clue/answer view with editable fields.
+  if (state.editing) {
+    panel.appendChild(
+      el('div', { class: 'edit-form' },
+        el('label', { class: 'edit-label', text: 'Clue (what the room sees)' }),
+        el('textarea', {
+          class: 'edit-area', rows: 3, value: state.editClue,
+          oninput: (e: Event) => setEditClue((e.target as HTMLTextAreaElement).value)
+        }),
+        el('label', { class: 'edit-label', text: 'Correct response' }),
+        el('textarea', {
+          class: 'edit-area', rows: 2, value: state.editResponse,
+          oninput: (e: Event) => setEditResponse((e.target as HTMLTextAreaElement).value)
+        }),
+        el('div', { class: 'btn-row' },
+          el('button', { class: 'btn primary', text: 'Save permanently', onclick: () => void saveEdit() }),
+          el('button', { class: 'btn ghost', text: 'Cancel', onclick: () => cancelEdit() })
+        ),
+        el('div', { class: 'edit-note', text: 'Saved changes are written to the database and persist between games.' })
+      )
+    )
+    return panel
+  }
+
   panel.appendChild(el('div', { class: 'clue-panel-clue', text: found.clue.clue }))
+  panel.appendChild(
+    el('div', { class: 'btn-row' },
+      el('button', { class: 'btn ghost small', text: '✎ Edit clue & answer', onclick: () => beginEdit() })
+    )
+  )
 
   if (state.responseRevealed) {
     panel.appendChild(el('div', { class: 'clue-panel-response' },
