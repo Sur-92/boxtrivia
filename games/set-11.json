@@ -1,54 +1,154 @@
 {
-  "title": "Set 11",
+  "title": "TV Shows & Comic Heroes",
   "categories": [
     {
       "name": "Name That Show",
       "clues": [
-        { "value": 200, "clue": "'Who lives in a pineapple under the sea?' opens this Nickelodeon series.", "response": "What is SpongeBob SquarePants?" },
-        { "value": 400, "clue": "'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's program.", "response": "What is Sesame Street?" },
-        { "value": 600, "clue": "'A horse is a horse, of course, of course' introduced this 1960s talking-equine sitcom.", "response": "What is Mister Ed?" },
-        { "value": 800, "clue": "'Come and listen to a story about a man named Jed' opens this rags-to-riches sitcom.", "response": "What are The Beverly Hillbillies?" },
-        { "value": 1000, "clue": "'Just sit right back and you'll hear a tale' opens this 1960s castaway sitcom.", "response": "What is Gilligan's Island?" }
+        {
+          "value": 200,
+          "clue": "'Who lives in a pineapple under the sea?' opens this Nickelodeon series.",
+          "response": "What is SpongeBob SquarePants?"
+        },
+        {
+          "value": 400,
+          "clue": "'Sunny Day, sweepin' the clouds away' opens this long-running PBS children's program.",
+          "response": "What is Sesame Street?"
+        },
+        {
+          "value": 600,
+          "clue": "'A horse is a horse, of course, of course' introduced this 1960s talking-equine sitcom.",
+          "response": "What is Mister Ed?"
+        },
+        {
+          "value": 800,
+          "clue": "'Come and listen to a story about a man named Jed' opens this rags-to-riches sitcom.",
+          "response": "What are The Beverly Hillbillies?"
+        },
+        {
+          "value": 1000,
+          "clue": "'Just sit right back and you'll hear a tale' opens this 1960s castaway sitcom.",
+          "response": "What is Gilligan's Island?"
+        }
       ]
     },
     {
       "name": "Animal Sidekicks",
       "clues": [
-        { "value": 200, "clue": "This mischievous pet monkey accompanies the street rat in 'Aladdin.'", "response": "Who is Abu?" },
-        { "value": 400, "clue": "This Jamaican-accented crab serves King Triton in 'The Little Mermaid.'", "response": "Who is Sebastian?" },
-        { "value": 600, "clue": "Voiced by Eddie Murphy, this small red dragon guards the heroine of 'Mulan.'", "response": "Who is Mushu?" },
-        { "value": 800, "clue": "In 'Cinderella,' name the plump mouse befriended by Jaq.", "response": "Who is Gus?" },
-        { "value": 1000, "clue": "Princess Jasmine's fiercely protective pet tiger bears this name.", "response": "Who is Rajah?" }
+        {
+          "value": 200,
+          "clue": "This mischievous pet monkey accompanies the street rat in 'Aladdin.'",
+          "response": "Who is Abu?"
+        },
+        {
+          "value": 400,
+          "clue": "This Jamaican-accented crab serves King Triton in 'The Little Mermaid.'",
+          "response": "Who is Sebastian?"
+        },
+        {
+          "value": 600,
+          "clue": "Voiced by Eddie Murphy, this small red dragon guards the heroine of 'Mulan.'",
+          "response": "Who is Mushu?"
+        },
+        {
+          "value": 800,
+          "clue": "In 'Cinderella,' name the plump mouse befriended by Jaq.",
+          "response": "Who is Gus?"
+        },
+        {
+          "value": 1000,
+          "clue": "Princess Jasmine's fiercely protective pet tiger bears this name.",
+          "response": "Who is Rajah?"
+        }
       ]
     },
     {
       "name": "Cartoon Menagerie",
       "clues": [
-        { "value": 200, "clue": "This yellow sea sponge works as a fry cook at the Krusty Krab.", "response": "Who is SpongeBob SquarePants?" },
-        { "value": 400, "clue": "This pink starfish is SpongeBob's dim-witted best friend.", "response": "Who is Patrick Star?" },
-        { "value": 600, "clue": "On 'The Wild Thornberrys,' young Eliza has the secret power to do this with animals.", "response": "What is talk to them?" },
-        { "value": 800, "clue": "This Hanna-Barbera Great Dane solves mysteries with a teen gang in the Mystery Machine.", "response": "Who is Scooby-Doo?" },
-        { "value": 1000, "clue": "This cat-and-mouse duo headlined a slapstick MGM theatrical-short rivalry from 1940.", "response": "Who are Tom and Jerry?" }
+        {
+          "value": 200,
+          "clue": "This yellow sea sponge works as a fry cook at the Krusty Krab.",
+          "response": "Who is SpongeBob SquarePants?"
+        },
+        {
+          "value": 400,
+          "clue": "This pink starfish is SpongeBob's dim-witted best friend.",
+          "response": "Who is Patrick Star?"
+        },
+        {
+          "value": 600,
+          "clue": "On 'The Wild Thornberrys,' young Eliza has the secret power to do this with animals.",
+          "response": "What is talk to them?"
+        },
+        {
+          "value": 800,
+          "clue": "This Hanna-Barbera Great Dane solves mysteries with a teen gang in the Mystery Machine.",
+          "response": "Who is Scooby-Doo?"
+        },
+        {
+          "value": 1000,
+          "clue": "This cat-and-mouse duo headlined a slapstick MGM theatrical-short rivalry from 1940.",
+          "response": "Who are Tom and Jerry?"
+        }
       ]
     },
     {
       "name": "Rules & Terms",
       "clues": [
-        { "value": 200, "clue": "Rolling these two pip-marked cubes governs movement in many games.", "response": "What are dice?" },
-        { "value": 400, "clue": "In Monopoly, landing on the wrong corner sends a player to this place.", "response": "What is Jail?" },
-        { "value": 600, "clue": "In Scrabble, a tile on a dark-red premium square multiplies a word's value by this factor.", "response": "What is triple?" },
-        { "value": 800, "clue": "In poker, three of a kind combined with a pair makes this hand.", "response": "What is a full house?" },
-        { "value": 1000, "clue": "In spades or bridge, a player's pledge to take a number of tricks is called this.", "response": "What is a bid?" }
+        {
+          "value": 200,
+          "clue": "Rolling these two pip-marked cubes governs movement in many games.",
+          "response": "What are dice?"
+        },
+        {
+          "value": 400,
+          "clue": "In Monopoly, landing on the wrong corner sends a player to this place.",
+          "response": "What is Jail?"
+        },
+        {
+          "value": 600,
+          "clue": "In Scrabble, a tile on a dark-red premium square multiplies a word's value by this factor.",
+          "response": "What is triple?"
+        },
+        {
+          "value": 800,
+          "clue": "In poker, three of a kind combined with a pair makes this hand.",
+          "response": "What is a full house?"
+        },
+        {
+          "value": 1000,
+          "clue": "In spades or bridge, a player's pledge to take a number of tricks is called this.",
+          "response": "What is a bid?"
+        }
       ]
     },
     {
       "name": "DC Heroes",
       "clues": [
-        { "value": 200, "clue": "This last son of Krypton lives on Earth as reporter Clark Kent.", "response": "Who is Superman?" },
-        { "value": 400, "clue": "This Amazonian princess wields a golden Lasso of Truth.", "response": "Who is Wonder Woman?" },
-        { "value": 600, "clue": "This trident-bearing monarch commands the seas from Atlantis.", "response": "Who is Aquaman?" },
-        { "value": 800, "clue": "This emerald, Robin Hood–styled archer is the millionaire Oliver Queen.", "response": "Who is Green Arrow?" },
-        { "value": 1000, "clue": "Boy Billy Batson shouts a magic word to become this hero, once called Captain Marvel.", "response": "Who is Shazam?" }
+        {
+          "value": 200,
+          "clue": "This last son of Krypton lives on Earth as reporter Clark Kent.",
+          "response": "Who is Superman?"
+        },
+        {
+          "value": 400,
+          "clue": "This Amazonian princess wields a golden Lasso of Truth.",
+          "response": "Who is Wonder Woman?"
+        },
+        {
+          "value": 600,
+          "clue": "This trident-bearing monarch commands the seas from Atlantis.",
+          "response": "Who is Aquaman?"
+        },
+        {
+          "value": 800,
+          "clue": "This emerald, Robin Hood–styled archer is the millionaire Oliver Queen.",
+          "response": "Who is Green Arrow?"
+        },
+        {
+          "value": 1000,
+          "clue": "Boy Billy Batson shouts a magic word to become this hero, once called Captain Marvel.",
+          "response": "Who is Shazam?"
+        }
       ]
     }
   ],

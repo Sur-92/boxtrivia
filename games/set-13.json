@@ -1,54 +1,154 @@
 {
-  "title": "Set 13",
+  "title": "Brands, Sports & Space",
   "categories": [
     {
       "name": "Slogans",
       "clues": [
-        { "value": 200, "clue": "'I'm Lovin' It,' launched in 2003, is the slogan of this golden-arches chain.", "response": "What is McDonald's?" },
-        { "value": 400, "clue": "'Eat Fresh' was the long-time motto of this footlong-sandwich chain.", "response": "What is Subway?" },
-        { "value": 600, "clue": "'Finger Lickin' Good' is the classic line of this fried-chicken chain.", "response": "What is KFC?" },
-        { "value": 800, "clue": "'Think Outside the Bun' pitched this Tex-Mex fast-food chain.", "response": "What is Taco Bell?" },
-        { "value": 1000, "clue": "'Quality Is Our Recipe' is the official slogan of this square-patty chain.", "response": "What is Wendy's?" }
+        {
+          "value": 200,
+          "clue": "'I'm Lovin' It,' launched in 2003, is the slogan of this golden-arches chain.",
+          "response": "What is McDonald's?"
+        },
+        {
+          "value": 400,
+          "clue": "'Eat Fresh' was the long-time motto of this footlong-sandwich chain.",
+          "response": "What is Subway?"
+        },
+        {
+          "value": 600,
+          "clue": "'Finger Lickin' Good' is the classic line of this fried-chicken chain.",
+          "response": "What is KFC?"
+        },
+        {
+          "value": 800,
+          "clue": "'Think Outside the Bun' pitched this Tex-Mex fast-food chain.",
+          "response": "What is Taco Bell?"
+        },
+        {
+          "value": 1000,
+          "clue": "'Quality Is Our Recipe' is the official slogan of this square-patty chain.",
+          "response": "What is Wendy's?"
+        }
       ]
     },
     {
       "name": "Team Nicknames",
       "clues": [
-        { "value": 200, "clue": "This NFL team's name nods to Green Bay's meatpacking heritage.", "response": "Who are the Packers?" },
-        { "value": 400, "clue": "This Boston NBA franchise, with a leprechaun logo, has won 17 titles.", "response": "Who are the Celtics?" },
-        { "value": 600, "clue": "This Pittsburgh NFL team is named for the city's dominant industry.", "response": "Who are the Steelers?" },
-        { "value": 800, "clue": "This New York MLB club, the 'Bronx Bombers,' owns 27 championships.", "response": "Who are the Yankees?" },
-        { "value": 1000, "clue": "The NBA Lakers kept their watery name after moving from this lake-dotted state.", "response": "What is Minnesota?" }
+        {
+          "value": 200,
+          "clue": "This NFL team's name nods to Green Bay's meatpacking heritage.",
+          "response": "Who are the Packers?"
+        },
+        {
+          "value": 400,
+          "clue": "This Boston NBA franchise, with a leprechaun logo, has won 17 titles.",
+          "response": "Who are the Celtics?"
+        },
+        {
+          "value": 600,
+          "clue": "This Pittsburgh NFL team is named for the city's dominant industry.",
+          "response": "Who are the Steelers?"
+        },
+        {
+          "value": 800,
+          "clue": "This New York MLB club, the 'Bronx Bombers,' owns 27 championships.",
+          "response": "Who are the Yankees?"
+        },
+        {
+          "value": 1000,
+          "clue": "The NBA Lakers kept their watery name after moving from this lake-dotted state.",
+          "response": "What is Minnesota?"
+        }
       ]
     },
     {
       "name": "Modern Board Games",
       "clues": [
-        { "value": 200, "clue": "In this island game, players gather brick, wood, sheep, wheat and ore to build settlements.", "response": "What is Catan?" },
-        { "value": 400, "clue": "In this cooperative game, players race to cure four diseases sweeping the globe.", "response": "What is Pandemic?" },
-        { "value": 600, "clue": "In this game, players collect colored cards to claim cross-country rail routes.", "response": "What is Ticket to Ride?" },
-        { "value": 800, "clue": "This 2000 tile-laying game about a fortified French town won the Spiel des Jahres.", "response": "What is Carcassonne?" },
-        { "value": 1000, "clue": "Germany's top board-game prize, 'Spiel des Jahres,' translates to 'game of the' this.", "response": "What is year?" }
+        {
+          "value": 200,
+          "clue": "In this island game, players gather brick, wood, sheep, wheat and ore to build settlements.",
+          "response": "What is Catan?"
+        },
+        {
+          "value": 400,
+          "clue": "In this cooperative game, players race to cure four diseases sweeping the globe.",
+          "response": "What is Pandemic?"
+        },
+        {
+          "value": 600,
+          "clue": "In this game, players collect colored cards to claim cross-country rail routes.",
+          "response": "What is Ticket to Ride?"
+        },
+        {
+          "value": 800,
+          "clue": "This 2000 tile-laying game about a fortified French town won the Spiel des Jahres.",
+          "response": "What is Carcassonne?"
+        },
+        {
+          "value": 1000,
+          "clue": "Germany's top board-game prize, 'Spiel des Jahres,' translates to 'game of the' this.",
+          "response": "What is year?"
+        }
       ]
     },
     {
       "name": "Name the Cereal",
       "clues": [
-        { "value": 200, "clue": "These frosted, shredded-wheat pillows come in a 'bite size' version.", "response": "What are Frosted Mini-Wheats?" },
-        { "value": 400, "clue": "These sugar-dusted square pieces are hawked by mischievous cartoon bakers.", "response": "What is Cinnamon Toast Crunch?" },
-        { "value": 600, "clue": "This General Mills mix of toasted oats and marshmallows debuted in 1964.", "response": "What is Lucky Charms?" },
-        { "value": 800, "clue": "This chocolate cereal turns milk brown and is fronted by a friendly vampire count.", "response": "What is Count Chocula?" },
-        { "value": 1000, "clue": "This Kellogg's cereal of glazed, puffed corn was marketed for decades as 'Sugar Pops.'", "response": "What are Corn Pops?" }
+        {
+          "value": 200,
+          "clue": "These frosted, shredded-wheat pillows come in a 'bite size' version.",
+          "response": "What are Frosted Mini-Wheats?"
+        },
+        {
+          "value": 400,
+          "clue": "These sugar-dusted square pieces are hawked by mischievous cartoon bakers.",
+          "response": "What is Cinnamon Toast Crunch?"
+        },
+        {
+          "value": 600,
+          "clue": "This General Mills mix of toasted oats and marshmallows debuted in 1964.",
+          "response": "What is Lucky Charms?"
+        },
+        {
+          "value": 800,
+          "clue": "This chocolate cereal turns milk brown and is fronted by a friendly vampire count.",
+          "response": "What is Count Chocula?"
+        },
+        {
+          "value": 1000,
+          "clue": "This Kellogg's cereal of glazed, puffed corn was marketed for decades as 'Sugar Pops.'",
+          "response": "What are Corn Pops?"
+        }
       ]
     },
     {
       "name": "The Sun & Moon",
       "clues": [
-        { "value": 200, "clue": "The Sun's visible, light-emitting surface layer goes by this name.", "response": "What is the photosphere?" },
-        { "value": 400, "clue": "The Moon always shows Earth one face because of this 1:1 spin-orbit phenomenon.", "response": "What is tidal locking?" },
-        { "value": 600, "clue": "During a total solar eclipse, the Sun's faint outer atmosphere appears as this pearly halo.", "response": "What is the corona?" },
-        { "value": 800, "clue": "Sun-like stars fuse hydrogen into helium mainly through this dominant reaction sequence.", "response": "What is the proton-proton chain?" },
-        { "value": 1000, "clue": "This roughly 18-year, 11-day period, after which eclipse geometry nearly repeats, bears this name.", "response": "What is the Saros cycle?" }
+        {
+          "value": 200,
+          "clue": "The Sun's visible, light-emitting surface layer goes by this name.",
+          "response": "What is the photosphere?"
+        },
+        {
+          "value": 400,
+          "clue": "The Moon always shows Earth one face because of this 1:1 spin-orbit phenomenon.",
+          "response": "What is tidal locking?"
+        },
+        {
+          "value": 600,
+          "clue": "During a total solar eclipse, the Sun's faint outer atmosphere appears as this pearly halo.",
+          "response": "What is the corona?"
+        },
+        {
+          "value": 800,
+          "clue": "Sun-like stars fuse hydrogen into helium mainly through this dominant reaction sequence.",
+          "response": "What is the proton-proton chain?"
+        },
+        {
+          "value": 1000,
+          "clue": "This roughly 18-year, 11-day period, after which eclipse geometry nearly repeats, bears this name.",
+          "response": "What is the Saros cycle?"
+        }
       ]
     }
   ],

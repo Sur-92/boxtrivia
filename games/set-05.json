@@ -1,54 +1,154 @@
 {
-  "title": "Set 5",
+  "title": "Sports, Candy & Comics",
   "categories": [
     {
       "name": "Venues & Rivalries",
       "clues": [
-        { "value": 200, "clue": "Opened in 1912, this Boston ballpark features the 37-foot 'Green Monster' wall.", "response": "What is Fenway Park?" },
-        { "value": 400, "clue": "Opened in 1914 and known for its ivy-covered outfield walls, this Chicago park hosts the Cubs.", "response": "What is Wrigley Field?" },
-        { "value": 600, "clue": "College football's 'Iron Bowl' pits Auburn against this Crimson Tide rival.", "response": "What is Alabama?" },
-        { "value": 800, "clue": "The Lakers' fiercest NBA-Finals rival plays its home games in this city.", "response": "What is Boston?" },
-        { "value": 1000, "clue": "'The Big House,' the largest stadium in the U.S., belongs to this university.", "response": "What is Michigan?" }
+        {
+          "value": 200,
+          "clue": "Opened in 1912, this Boston ballpark features the 37-foot 'Green Monster' wall.",
+          "response": "What is Fenway Park?"
+        },
+        {
+          "value": 400,
+          "clue": "Opened in 1914 and known for its ivy-covered outfield walls, this Chicago park hosts the Cubs.",
+          "response": "What is Wrigley Field?"
+        },
+        {
+          "value": 600,
+          "clue": "College football's 'Iron Bowl' pits Auburn against this Crimson Tide rival.",
+          "response": "What is Alabama?"
+        },
+        {
+          "value": 800,
+          "clue": "The Lakers' fiercest NBA-Finals rival plays its home games in this city.",
+          "response": "What is Boston?"
+        },
+        {
+          "value": 1000,
+          "clue": "'The Big House,' the largest stadium in the U.S., belongs to this university.",
+          "response": "What is Michigan?"
+        }
       ]
     },
     {
       "name": "Animal Anthems",
       "clues": [
-        { "value": 200, "clue": "The Baha Men, who asked who let the dogs out, hail from this island nation.", "response": "What are the Bahamas?" },
-        { "value": 400, "clue": "Crazy Frog's 2005 'Axel F' samples the theme from this 1984 Eddie Murphy comedy.", "response": "What is Beverly Hills Cop?" },
-        { "value": 600, "clue": "Survivor's 'Eye of the Tiger' was written as the theme for this 1982 boxing sequel.", "response": "What is Rocky III?" },
-        { "value": 800, "clue": "The 1961 doo-wop hit 'The Lion Sleeps Tonight' adapts a song by this South African, Solomon.", "response": "Who is Linda?" },
-        { "value": 1000, "clue": "This 1958 Sheb Wooley novelty hit describes a one-eyed, one-horned flying creature that eats people.", "response": "What is 'The Purple People Eater'?" }
+        {
+          "value": 200,
+          "clue": "The Baha Men, who asked who let the dogs out, hail from this island nation.",
+          "response": "What are the Bahamas?"
+        },
+        {
+          "value": 400,
+          "clue": "Crazy Frog's 2005 'Axel F' samples the theme from this 1984 Eddie Murphy comedy.",
+          "response": "What is Beverly Hills Cop?"
+        },
+        {
+          "value": 600,
+          "clue": "Survivor's 'Eye of the Tiger' was written as the theme for this 1982 boxing sequel.",
+          "response": "What is Rocky III?"
+        },
+        {
+          "value": 800,
+          "clue": "The 1961 doo-wop hit 'The Lion Sleeps Tonight' adapts a song by this South African, Solomon.",
+          "response": "Who is Linda?"
+        },
+        {
+          "value": 1000,
+          "clue": "This 1958 Sheb Wooley novelty hit describes a one-eyed, one-horned flying creature that eats people.",
+          "response": "What is 'The Purple People Eater'?"
+        }
       ]
     },
     {
       "name": "Chocolate Bars",
       "clues": [
-        { "value": 200, "clue": "This bar of nougat, caramel and peanuts was named for the Mars family's favorite horse.", "response": "What is Snickers?" },
-        { "value": 400, "clue": "'Gimme a break' advertises this originally-British four-finger wafer bar.", "response": "What is Kit Kat?" },
-        { "value": 600, "clue": "Hershey's introduced these foil-wrapped conical chocolates in 1907.", "response": "What are Kisses?" },
-        { "value": 800, "clue": "This Mars bar's name references swashbuckling characters and once contained three flavored pieces.", "response": "What is 3 Musketeers?" },
-        { "value": 1000, "clue": "Toblerone's triangular peaks evoke the Matterhorn in this country, where the bar is made.", "response": "What is Switzerland?" }
+        {
+          "value": 200,
+          "clue": "This bar of nougat, caramel and peanuts was named for the Mars family's favorite horse.",
+          "response": "What is Snickers?"
+        },
+        {
+          "value": 400,
+          "clue": "'Gimme a break' advertises this originally-British four-finger wafer bar.",
+          "response": "What is Kit Kat?"
+        },
+        {
+          "value": 600,
+          "clue": "Hershey's introduced these foil-wrapped conical chocolates in 1907.",
+          "response": "What are Kisses?"
+        },
+        {
+          "value": 800,
+          "clue": "This Mars bar's name references swashbuckling characters and once contained three flavored pieces.",
+          "response": "What is 3 Musketeers?"
+        },
+        {
+          "value": 1000,
+          "clue": "Toblerone's triangular peaks evoke the Matterhorn in this country, where the bar is made.",
+          "response": "What is Switzerland?"
+        }
       ]
     },
     {
       "name": "Which Publisher?",
       "clues": [
-        { "value": 200, "clue": "The cosmic villain Thanos was created in 1973 at this publisher.", "response": "What is Marvel?" },
-        { "value": 400, "clue": "Jack Kirby created the New Gods and Darkseid at this publisher.", "response": "What is DC?" },
-        { "value": 600, "clue": "Alan Moore's 1986 limited series 'Watchmen' was published by this company.", "response": "What is DC?" },
-        { "value": 800, "clue": "The mature-readers imprint 'Vertigo,' home to 'Sandman,' belonged to this publisher.", "response": "What is DC?" },
-        { "value": 1000, "clue": "Todd McFarlane's 1992 hit 'Spawn' helped launch this creator-owned publisher.", "response": "What is Image Comics?" }
+        {
+          "value": 200,
+          "clue": "The cosmic villain Thanos was created in 1973 at this publisher.",
+          "response": "What is Marvel?"
+        },
+        {
+          "value": 400,
+          "clue": "Jack Kirby created the New Gods and Darkseid at this publisher.",
+          "response": "What is DC?"
+        },
+        {
+          "value": 600,
+          "clue": "Alan Moore's 1986 limited series 'Watchmen' was published by this company.",
+          "response": "What is DC?"
+        },
+        {
+          "value": 800,
+          "clue": "The mature-readers imprint 'Vertigo,' home to 'Sandman,' belonged to this publisher.",
+          "response": "What is DC?"
+        },
+        {
+          "value": 1000,
+          "clue": "Todd McFarlane's 1992 hit 'Spawn' helped launch this creator-owned publisher.",
+          "response": "What is Image Comics?"
+        }
       ]
     },
     {
       "name": "Shapes & Tie-Ins",
       "clues": [
-        { "value": 200, "clue": "A single Cheerio takes the shape of this letter of the alphabet.", "response": "What is an O?" },
-        { "value": 400, "clue": "Each piece of the Post cereal 'Honeycomb' takes this six-sided geometric form.", "response": "What is a hexagon?" },
-        { "value": 600, "clue": "Cocoa Pebbles and Fruity Pebbles are licensed from this prehistoric animated family.", "response": "Who are the Flintstones?" },
-        { "value": 800, "clue": "This strawberry-flavored General Mills monster cereal debuted in 1971 alongside Count Chocula.", "response": "What is Franken Berry?" },
-        { "value": 1000, "clue": "Lucky Charms launched in 1964 with marshmallow hearts, moons, stars and these green ones.", "response": "What are clovers?" }
+        {
+          "value": 200,
+          "clue": "A single Cheerio takes the shape of this letter of the alphabet.",
+          "response": "What is an O?"
+        },
+        {
+          "value": 400,
+          "clue": "Each piece of the Post cereal 'Honeycomb' takes this six-sided geometric form.",
+          "response": "What is a hexagon?"
+        },
+        {
+          "value": 600,
+          "clue": "Cocoa Pebbles and Fruity Pebbles are licensed from this prehistoric animated family.",
+          "response": "Who are the Flintstones?"
+        },
+        {
+          "value": 800,
+          "clue": "This strawberry-flavored General Mills monster cereal debuted in 1971 alongside Count Chocula.",
+          "response": "What is Franken Berry?"
+        },
+        {
+          "value": 1000,
+          "clue": "Lucky Charms launched in 1964 with marshmallow hearts, moons, stars and these green ones.",
+          "response": "What are clovers?"
+        }
       ]
     }
   ],

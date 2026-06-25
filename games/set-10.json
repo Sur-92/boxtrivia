@@ -1,54 +1,154 @@
 {
-  "title": "Set 10",
+  "title": "Food, Science & Movies",
   "categories": [
     {
       "name": "Origins & Firsts",
       "clues": [
-        { "value": 200, "clue": "This chain's 1948 'Speedee Service System' pioneered assembly-line fast-food cooking.", "response": "What is McDonald's?" },
-        { "value": 400, "clue": "Colonel Sanders first sold his fried chicken from a service station in Corbin, in this state.", "response": "What is Kentucky?" },
-        { "value": 600, "clue": "This chain opened its first drive-thru-only stand in 1948 in Baldwin Park, California.", "response": "What is In-N-Out?" },
-        { "value": 800, "clue": "Founded in 1958 by the Carney brothers in Wichita, this chain is named for its small original building.", "response": "What is Pizza Hut?" },
-        { "value": 1000, "clue": "This coffee chain opened its first store at Seattle's Pike Place Market in 1971.", "response": "What is Starbucks?" }
+        {
+          "value": 200,
+          "clue": "This chain's 1948 'Speedee Service System' pioneered assembly-line fast-food cooking.",
+          "response": "What is McDonald's?"
+        },
+        {
+          "value": 400,
+          "clue": "Colonel Sanders first sold his fried chicken from a service station in Corbin, in this state.",
+          "response": "What is Kentucky?"
+        },
+        {
+          "value": 600,
+          "clue": "This chain opened its first drive-thru-only stand in 1948 in Baldwin Park, California.",
+          "response": "What is In-N-Out?"
+        },
+        {
+          "value": 800,
+          "clue": "Founded in 1958 by the Carney brothers in Wichita, this chain is named for its small original building.",
+          "response": "What is Pizza Hut?"
+        },
+        {
+          "value": 1000,
+          "clue": "This coffee chain opened its first store at Seattle's Pike Place Market in 1971.",
+          "response": "What is Starbucks?"
+        }
       ]
     },
     {
       "name": "Gummy & Chewy",
       "clues": [
-        { "value": 200, "clue": "This German company introduced the original gummy bear in the 1920s.", "response": "What is Haribo?" },
-        { "value": 400, "clue": "These chewy fruit squares launched in the UK in 1960 as 'Opal Fruits.'", "response": "What is Starburst?" },
-        { "value": 600, "clue": "This Hershey brand of red, twisted licorice-style ropes is a chewy staple.", "response": "What are Twizzlers?" },
-        { "value": 800, "clue": "This pulled, pastel boardwalk candy contains little to none of the sea water in its name.", "response": "What is saltwater taffy?" },
-        { "value": 1000, "clue": "Many sour candies are dusted with citric acid and this other fruit acid found in green apples.", "response": "What is malic acid?" }
+        {
+          "value": 200,
+          "clue": "This German company introduced the original gummy bear in the 1920s.",
+          "response": "What is Haribo?"
+        },
+        {
+          "value": 400,
+          "clue": "These chewy fruit squares launched in the UK in 1960 as 'Opal Fruits.'",
+          "response": "What is Starburst?"
+        },
+        {
+          "value": 600,
+          "clue": "This Hershey brand of red, twisted licorice-style ropes is a chewy staple.",
+          "response": "What are Twizzlers?"
+        },
+        {
+          "value": 800,
+          "clue": "This pulled, pastel boardwalk candy contains little to none of the sea water in its name.",
+          "response": "What is saltwater taffy?"
+        },
+        {
+          "value": 1000,
+          "clue": "Many sour candies are dusted with citric acid and this other fruit acid found in green apples.",
+          "response": "What is malic acid?"
+        }
       ]
     },
     {
       "name": "Slogans",
       "clues": [
-        { "value": 200, "clue": "'They're gr-r-reat!' is the long-time catchphrase of this tiger-fronted cereal.", "response": "What is Frosted Flakes?" },
-        { "value": 400, "clue": "'Snap! Crackle! Pop!' are the three elf mascots of this crisped-rice cereal.", "response": "What are Rice Krispies?" },
-        { "value": 600, "clue": "'The Breakfast of Champions' is the slogan of this athlete-endorsed wheat-flake cereal.", "response": "What is Wheaties?" },
-        { "value": 800, "clue": "'Follow your nose' is Toucan Sam's motto for this fruity-ring cereal.", "response": "What is Froot Loops?" },
-        { "value": 1000, "clue": "'Kid tested, mother approved' has long advertised this General Mills cereal.", "response": "What is Kix?" }
+        {
+          "value": 200,
+          "clue": "'They're gr-r-reat!' is the long-time catchphrase of this tiger-fronted cereal.",
+          "response": "What is Frosted Flakes?"
+        },
+        {
+          "value": 400,
+          "clue": "'Snap! Crackle! Pop!' are the three elf mascots of this crisped-rice cereal.",
+          "response": "What are Rice Krispies?"
+        },
+        {
+          "value": 600,
+          "clue": "'The Breakfast of Champions' is the slogan of this athlete-endorsed wheat-flake cereal.",
+          "response": "What is Wheaties?"
+        },
+        {
+          "value": 800,
+          "clue": "'Follow your nose' is Toucan Sam's motto for this fruity-ring cereal.",
+          "response": "What is Froot Loops?"
+        },
+        {
+          "value": 1000,
+          "clue": "'Kid tested, mother approved' has long advertised this General Mills cereal.",
+          "response": "What is Kix?"
+        }
       ]
     },
     {
       "name": "Medicine & Science",
       "clues": [
-        { "value": 200, "clue": "Alexander Fleming discovered this antibiotic from Penicillium mold in 1928.", "response": "What is penicillin?" },
-        { "value": 400, "clue": "Jonas Salk developed the first widely used vaccine against this paralytic disease.", "response": "What is polio?" },
-        { "value": 600, "clue": "This Austrian friar's pea-plant experiments founded the science of genetics.", "response": "Who is Gregor Mendel?" },
-        { "value": 800, "clue": "Watson and Crick described the double-helix structure of this molecule in 1953.", "response": "What is DNA?" },
-        { "value": 1000, "clue": "Marie Curie coined this term and won Nobel Prizes in two sciences studying it.", "response": "What is radioactivity?" }
+        {
+          "value": 200,
+          "clue": "Alexander Fleming discovered this antibiotic from Penicillium mold in 1928.",
+          "response": "What is penicillin?"
+        },
+        {
+          "value": 400,
+          "clue": "Jonas Salk developed the first widely used vaccine against this paralytic disease.",
+          "response": "What is polio?"
+        },
+        {
+          "value": 600,
+          "clue": "This Austrian friar's pea-plant experiments founded the science of genetics.",
+          "response": "Who is Gregor Mendel?"
+        },
+        {
+          "value": 800,
+          "clue": "Watson and Crick described the double-helix structure of this molecule in 1953.",
+          "response": "What is DNA?"
+        },
+        {
+          "value": 1000,
+          "clue": "Marie Curie coined this term and won Nobel Prizes in two sciences studying it.",
+          "response": "What is radioactivity?"
+        }
       ]
     },
     {
       "name": "Death Scenes",
       "clues": [
-        { "value": 200, "clue": "In 'Star Wars: A New Hope,' this Jedi lets Vader strike him down and vanishes.", "response": "Who is Obi-Wan Kenobi?" },
-        { "value": 400, "clue": "In 'Psycho,' this character is killed in the infamous shower scene.", "response": "Who is Marion Crane?" },
-        { "value": 600, "clue": "In 'The Godfather,' this hot-headed eldest Corleone son is gunned down at a toll booth.", "response": "Who is Sonny Corleone?" },
-        { "value": 800, "clue": "In 'The Lion King,' Mufasa is trampled to death in a stampede of these animals.", "response": "What are wildebeests?" },
-        { "value": 1000, "clue": "In 'Old Yeller,' the boy must put down his dog after it contracts this disease.", "response": "What is rabies?" }
+        {
+          "value": 200,
+          "clue": "In 'Star Wars: A New Hope,' this Jedi lets Vader strike him down and vanishes.",
+          "response": "Who is Obi-Wan Kenobi?"
+        },
+        {
+          "value": 400,
+          "clue": "In 'Psycho,' this character is killed in the infamous shower scene.",
+          "response": "Who is Marion Crane?"
+        },
+        {
+          "value": 600,
+          "clue": "In 'The Godfather,' this hot-headed eldest Corleone son is gunned down at a toll booth.",
+          "response": "Who is Sonny Corleone?"
+        },
+        {
+          "value": 800,
+          "clue": "In 'The Lion King,' Mufasa is trampled to death in a stampede of these animals.",
+          "response": "What are wildebeests?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'Old Yeller,' the boy must put down his dog after it contracts this disease.",
+          "response": "What is rabies?"
+        }
       ]
     }
   ],

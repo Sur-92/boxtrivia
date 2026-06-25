@@ -1,6 +1,6 @@
 # Box Trivia — All Boards (review copy)
 
-## Set 1
+## Cartoons, Villains & Memes
 
 ### Disney Villains
 - **$200** — Largely animated by Marc Davis, this 1959 villainess transforms into a dragon for the climax.  
@@ -68,7 +68,7 @@
 
 ---
 
-## Set 2
+## Fast Food, Capitals & TV
 
 ### Menu Items
 - **$200** — Created in 1967 by franchisee Jim Delligatti, this double-decker sandwich has a 'special sauce.'  
@@ -136,7 +136,7 @@
 
 ---
 
-## Set 3
+## Space, Movies & Mascots
 
 ### The Planets
 - **$200** — This planet has the longest sidereal rotation period and spins retrograde.  
@@ -204,7 +204,7 @@
 
 ---
 
-## Set 4
+## Disney, Heroes & Sitcoms
 
 ### Princess Companions
 - **$200** — Rapunzel's silent sidekick in 'Tangled' is this kind of color-shifting reptile.  
@@ -272,7 +272,7 @@
 
 ---
 
-## Set 5
+## Sports, Candy & Comics
 
 ### Venues & Rivalries
 - **$200** — Opened in 1912, this Boston ballpark features the 37-foot 'Green Monster' wall.  
@@ -340,7 +340,7 @@
 
 ---
 
-## Set 6
+## Pixar, Capitals & Foes
 
 ### Pixar Pals
 - **$200** — In 'Toy Story,' name the space-ranger action figure who becomes Woody's friend.  
@@ -408,7 +408,7 @@
 
 ---
 
-## Set 7
+## TV, Inventions & Sports
 
 ### Series Finales
 - **$200** — This 'show about nothing' ended in 1998 with its four leads sentenced to jail.  
@@ -476,7 +476,7 @@
 
 ---
 
-## Set 8
+## History, Sports & Sweets
 
 ### Mascots
 - **$200** — This red-haired clown debuted as the McDonald's mascot in 1963, first played by Willard Scott.  
@@ -544,7 +544,7 @@
 
 ---
 
-## Set 9
+## Sci-Fi, Space & Games
 
 ### Sci-Fi & Fantasy
 - **$200** — This armored Sith Lord, once Anakin Skywalker, breathes through a life-support mask.  
@@ -612,7 +612,7 @@
 
 ---
 
-## Set 10
+## Food, Science & Movies
 
 ### Origins & Firsts
 - **$200** — This chain's 1948 'Speedee Service System' pioneered assembly-line fast-food cooking.  
@@ -680,7 +680,7 @@
 
 ---
 
-## Set 11
+## TV Shows & Comic Heroes
 
 ### Name That Show
 - **$200** — 'Who lives in a pineapple under the sea?' opens this Nickelodeon series.  
@@ -748,7 +748,7 @@
 
 ---
 
-## Set 12
+## Inventions, Space & Oddities
 
 ### Everyday Objects
 - **$200** — Inspired by burrs clinging to his dog, George de Mestral invented this hook-and-loop fastener.  
@@ -816,7 +816,7 @@
 
 ---
 
-## Set 13
+## Brands, Sports & Space
 
 ### Slogans
 - **$200** — 'I'm Lovin' It,' launched in 2003, is the slogan of this golden-arches chain.  
@@ -884,7 +884,7 @@
 
 ---
 
-## Set 14
+## Disney, TV & Geography
 
 ### Disney Afternoon
 - **$200** — Scrooge McDuck's grandnephews are Huey, Dewey and this third triplet.  
@@ -952,7 +952,7 @@
 
 ---
 
-## Set 15
+## Marvel, Games & Horror
 
 ### Marvel Heroes
 - **$200** — This armored hero is genius industrialist Tony Stark.  

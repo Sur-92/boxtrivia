@@ -1,54 +1,154 @@
 {
-  "title": "Set 8",
+  "title": "History, Sports & Sweets",
   "categories": [
     {
       "name": "Mascots",
       "clues": [
-        { "value": 200, "clue": "This red-haired clown debuted as the McDonald's mascot in 1963, first played by Willard Scott.", "response": "Who is Ronald McDonald?" },
-        { "value": 400, "clue": "This monocled, top-hatted legume has represented Planters since 1916.", "response": "Who is Mr. Peanut?" },
-        { "value": 600, "clue": "This giggling, doughy figure springs up when poked to sell Pillsbury products.", "response": "Who is the Pillsbury Doughboy?" },
-        { "value": 800, "clue": "This towering verdant mascot booms 'Ho ho ho' for a frozen-vegetable brand.", "response": "Who is the Jolly Green Giant?" },
-        { "value": 1000, "clue": "This beret-wearing cartoon fish ironically keeps trying to get caught by a tuna brand.", "response": "Who is Charlie the Tuna?" }
+        {
+          "value": 200,
+          "clue": "This red-haired clown debuted as the McDonald's mascot in 1963, first played by Willard Scott.",
+          "response": "Who is Ronald McDonald?"
+        },
+        {
+          "value": 400,
+          "clue": "This monocled, top-hatted legume has represented Planters since 1916.",
+          "response": "Who is Mr. Peanut?"
+        },
+        {
+          "value": 600,
+          "clue": "This giggling, doughy figure springs up when poked to sell Pillsbury products.",
+          "response": "Who is the Pillsbury Doughboy?"
+        },
+        {
+          "value": 800,
+          "clue": "This towering verdant mascot booms 'Ho ho ho' for a frozen-vegetable brand.",
+          "response": "Who is the Jolly Green Giant?"
+        },
+        {
+          "value": 1000,
+          "clue": "This beret-wearing cartoon fish ironically keeps trying to get caught by a tuna brand.",
+          "response": "Who is Charlie the Tuna?"
+        }
       ]
     },
     {
       "name": "Villain Henchmen",
       "clues": [
-        { "value": 200, "clue": "Jafar's sarcastic, squawking sidekick in 'Aladdin' is this red parrot.", "response": "Who is Iago?" },
-        { "value": 400, "clue": "Ursula's two slippery eel minions are Flotsam and this one.", "response": "Who is Jetsam?" },
-        { "value": 600, "clue": "Captain Hook's anxious yet kindly first mate is this fellow.", "response": "Who is Mr. Smee?" },
-        { "value": 800, "clue": "Scar's hyena trio is Shenzi, Banzai and this non-speaking, giggling one.", "response": "Who is Ed?" },
-        { "value": 1000, "clue": "In 'Sleeping Beauty,' Maleficent's clumsy pig-snouted foot soldiers are this horde.", "response": "What are goons?" }
+        {
+          "value": 200,
+          "clue": "Jafar's sarcastic, squawking sidekick in 'Aladdin' is this red parrot.",
+          "response": "Who is Iago?"
+        },
+        {
+          "value": 400,
+          "clue": "Ursula's two slippery eel minions are Flotsam and this one.",
+          "response": "Who is Jetsam?"
+        },
+        {
+          "value": 600,
+          "clue": "Captain Hook's anxious yet kindly first mate is this fellow.",
+          "response": "Who is Mr. Smee?"
+        },
+        {
+          "value": 800,
+          "clue": "Scar's hyena trio is Shenzi, Banzai and this non-speaking, giggling one.",
+          "response": "Who is Ed?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'Sleeping Beauty,' Maleficent's clumsy pig-snouted foot soldiers are this horde.",
+          "response": "What are goons?"
+        }
       ]
     },
     {
       "name": "Last Words (History)",
       "clues": [
-        { "value": 200, "clue": "Shakespeare gives this assassinated dictator the dying line 'Et tu, Brute?'", "response": "Who is Julius Caesar?" },
-        { "value": 400, "clue": "This patriot spy reportedly regretted having but one life to give before his 1776 hanging.", "response": "Who is Nathan Hale?" },
-        { "value": 600, "clue": "This German writer's reputed final words were 'More light!' ('Mehr Licht!').", "response": "Who is Goethe?" },
-        { "value": 800, "clue": "This British admiral died at Trafalgar reportedly murmuring 'Kiss me, Hardy.'", "response": "Who is Horatio Nelson?" },
-        { "value": 1000, "clue": "This Australian outlaw reputedly faced the gallows in 1880 saying 'Such is life.'", "response": "Who is Ned Kelly?" }
+        {
+          "value": 200,
+          "clue": "Shakespeare gives this assassinated dictator the dying line 'Et tu, Brute?'",
+          "response": "Who is Julius Caesar?"
+        },
+        {
+          "value": 400,
+          "clue": "This patriot spy reportedly regretted having but one life to give before his 1776 hanging.",
+          "response": "Who is Nathan Hale?"
+        },
+        {
+          "value": 600,
+          "clue": "This German writer's reputed final words were 'More light!' ('Mehr Licht!').",
+          "response": "Who is Goethe?"
+        },
+        {
+          "value": 800,
+          "clue": "This British admiral died at Trafalgar reportedly murmuring 'Kiss me, Hardy.'",
+          "response": "Who is Horatio Nelson?"
+        },
+        {
+          "value": 1000,
+          "clue": "This Australian outlaw reputedly faced the gallows in 1880 saying 'Such is life.'",
+          "response": "Who is Ned Kelly?"
+        }
       ]
     },
     {
       "name": "Athlete Nicknames",
       "clues": [
-        { "value": 200, "clue": "Basketball's 'His Airness' won six NBA titles with the Chicago Bulls.", "response": "Who is Michael Jordan?" },
-        { "value": 400, "clue": "Boxing's 'The Greatest' lit the cauldron at the 1996 Atlanta Olympics.", "response": "Who is Muhammad Ali?" },
-        { "value": 600, "clue": "Hockey's 'The Great One' holds the NHL career points record.", "response": "Who is Wayne Gretzky?" },
-        { "value": 800, "clue": "Soccer's 'O Rei' (The King), this Brazilian won three World Cups.", "response": "Who is Pele?" },
-        { "value": 1000, "clue": "Baseball's 'The Splendid Splinter' was the last man to bat .400 in a season.", "response": "Who is Ted Williams?" }
+        {
+          "value": 200,
+          "clue": "Basketball's 'His Airness' won six NBA titles with the Chicago Bulls.",
+          "response": "Who is Michael Jordan?"
+        },
+        {
+          "value": 400,
+          "clue": "Boxing's 'The Greatest' lit the cauldron at the 1996 Atlanta Olympics.",
+          "response": "Who is Muhammad Ali?"
+        },
+        {
+          "value": 600,
+          "clue": "Hockey's 'The Great One' holds the NHL career points record.",
+          "response": "Who is Wayne Gretzky?"
+        },
+        {
+          "value": 800,
+          "clue": "Soccer's 'O Rei' (The King), this Brazilian won three World Cups.",
+          "response": "Who is Pele?"
+        },
+        {
+          "value": 1000,
+          "clue": "Baseball's 'The Splendid Splinter' was the last man to bat .400 in a season.",
+          "response": "Who is Ted Williams?"
+        }
       ]
     },
     {
       "name": "Candy History",
       "clues": [
-        { "value": 200, "clue": "Milton Hershey built a model company town for his chocolate works in this state.", "response": "What is Pennsylvania?" },
-        { "value": 400, "clue": "PEZ originated in this European country in 1927 as a peppermint for adults.", "response": "What is Austria?" },
-        { "value": 600, "clue": "The second 'M' in M&M's honors Bruce, son of a Hershey president, whose surname is this.", "response": "Who is Murrie?" },
-        { "value": 800, "clue": "Candy corn, dating to the 1880s, was originally marketed as 'Chicken' this.", "response": "What is feed?" },
-        { "value": 1000, "clue": "This Quaker family firm, founded in Birmingham in 1824, makes Dairy Milk.", "response": "What is Cadbury?" }
+        {
+          "value": 200,
+          "clue": "Milton Hershey built a model company town for his chocolate works in this state.",
+          "response": "What is Pennsylvania?"
+        },
+        {
+          "value": 400,
+          "clue": "PEZ originated in this European country in 1927 as a peppermint for adults.",
+          "response": "What is Austria?"
+        },
+        {
+          "value": 600,
+          "clue": "The second 'M' in M&M's honors Bruce, son of a Hershey president, whose surname is this.",
+          "response": "Who is Murrie?"
+        },
+        {
+          "value": 800,
+          "clue": "Candy corn, dating to the 1880s, was originally marketed as 'Chicken' this.",
+          "response": "What is feed?"
+        },
+        {
+          "value": 1000,
+          "clue": "This Quaker family firm, founded in Birmingham in 1824, makes Dairy Milk.",
+          "response": "What is Cadbury?"
+        }
       ]
     }
   ],

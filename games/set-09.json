@@ -1,54 +1,154 @@
 {
-  "title": "Set 9",
+  "title": "Sci-Fi, Space & Games",
   "categories": [
     {
       "name": "Sci-Fi & Fantasy",
       "clues": [
-        { "value": 200, "clue": "This armored Sith Lord, once Anakin Skywalker, breathes through a life-support mask.", "response": "Who is Darth Vader?" },
-        { "value": 400, "clue": "This dark lord of Mordor is bound to the One Ring he forged.", "response": "Who is Sauron?" },
-        { "value": 600, "clue": "In 'Dune,' this grotesque, floating Baron schemes against House Atreides.", "response": "Who is Baron Harkonnen?" },
-        { "value": 800, "clue": "In 'The Matrix,' this relentless suited program hunts Neo.", "response": "Who is Agent Smith?" },
-        { "value": 1000, "clue": "In 'Blade Runner,' this replicant leader delivers the 'tears in rain' monologue.", "response": "Who is Roy Batty?" }
+        {
+          "value": 200,
+          "clue": "This armored Sith Lord, once Anakin Skywalker, breathes through a life-support mask.",
+          "response": "Who is Darth Vader?"
+        },
+        {
+          "value": 400,
+          "clue": "This dark lord of Mordor is bound to the One Ring he forged.",
+          "response": "Who is Sauron?"
+        },
+        {
+          "value": 600,
+          "clue": "In 'Dune,' this grotesque, floating Baron schemes against House Atreides.",
+          "response": "Who is Baron Harkonnen?"
+        },
+        {
+          "value": 800,
+          "clue": "In 'The Matrix,' this relentless suited program hunts Neo.",
+          "response": "Who is Agent Smith?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'Blade Runner,' this replicant leader delivers the 'tears in rain' monologue.",
+          "response": "Who is Roy Batty?"
+        }
       ]
     },
     {
       "name": "Game Pieces",
       "clues": [
-        { "value": 200, "clue": "Each side in standard chess begins with this many pawns.", "response": "What is eight?" },
-        { "value": 400, "clue": "Classic Monopoly tokens include the top hat, thimble and this Scottie figure.", "response": "What is the dog?" },
-        { "value": 600, "clue": "A standard playing-card deck is divided into this many suits.", "response": "What is four?" },
-        { "value": 800, "clue": "In backgammon, each player controls this many checkers.", "response": "What is fifteen?" },
-        { "value": 1000, "clue": "A standard double-six domino set contains this many tiles.", "response": "What is 28?" }
+        {
+          "value": 200,
+          "clue": "Each side in standard chess begins with this many pawns.",
+          "response": "What is eight?"
+        },
+        {
+          "value": 400,
+          "clue": "Classic Monopoly tokens include the top hat, thimble and this Scottie figure.",
+          "response": "What is the dog?"
+        },
+        {
+          "value": 600,
+          "clue": "A standard playing-card deck is divided into this many suits.",
+          "response": "What is four?"
+        },
+        {
+          "value": 800,
+          "clue": "In backgammon, each player controls this many checkers.",
+          "response": "What is fifteen?"
+        },
+        {
+          "value": 1000,
+          "clue": "A standard double-six domino set contains this many tiles.",
+          "response": "What is 28?"
+        }
       ]
     },
     {
       "name": "Space Missions",
       "clues": [
-        { "value": 200, "clue": "This 1969 mission first landed humans on the Moon.", "response": "What is Apollo 11?" },
-        { "value": 400, "clue": "This reusable NASA spacecraft program flew from 1981 to 2011.", "response": "What is the Space Shuttle?" },
-        { "value": 600, "clue": "This space telescope, launched in 1990, was named for an American astronomer.", "response": "What is Hubble?" },
-        { "value": 800, "clue": "This 1970 mission survived an oxygen-tank explosion and the line 'Houston, we've had a problem.'", "response": "What is Apollo 13?" },
-        { "value": 1000, "clue": "Landing via a 'sky crane' in 2012, this NASA rover explores Mars's Gale Crater.", "response": "What is Curiosity?" }
+        {
+          "value": 200,
+          "clue": "This 1969 mission first landed humans on the Moon.",
+          "response": "What is Apollo 11?"
+        },
+        {
+          "value": 400,
+          "clue": "This reusable NASA spacecraft program flew from 1981 to 2011.",
+          "response": "What is the Space Shuttle?"
+        },
+        {
+          "value": 600,
+          "clue": "This space telescope, launched in 1990, was named for an American astronomer.",
+          "response": "What is Hubble?"
+        },
+        {
+          "value": 800,
+          "clue": "This 1970 mission survived an oxygen-tank explosion and the line 'Houston, we've had a problem.'",
+          "response": "What is Apollo 13?"
+        },
+        {
+          "value": 1000,
+          "clue": "Landing via a 'sky crane' in 2012, this NASA rover explores Mars's Gale Crater.",
+          "response": "What is Curiosity?"
+        }
       ]
     },
     {
       "name": "Finish the Lyric",
       "clues": [
-        { "value": 200, "clue": "The 'Gilligan's Island' theme says the crew set sail for a 'three-hour' this.", "response": "What is tour?" },
-        { "value": 400, "clue": "The 'Fresh Prince' theme says 'In west Philadelphia, born and' this.", "response": "What is raised?" },
-        { "value": 600, "clue": "The 'Flintstones' theme promises 'we'll have a gay old' this.", "response": "What is time?" },
-        { "value": 800, "clue": "'The Brady Bunch' theme calls it 'the story of a lovely' this.", "response": "What is lady?" },
-        { "value": 1000, "clue": "'The Greatest American Hero' theme opens 'Believe it or not, I'm walking on' this.", "response": "What is air?" }
+        {
+          "value": 200,
+          "clue": "The 'Gilligan's Island' theme says the crew set sail for a 'three-hour' this.",
+          "response": "What is tour?"
+        },
+        {
+          "value": 400,
+          "clue": "The 'Fresh Prince' theme says 'In west Philadelphia, born and' this.",
+          "response": "What is raised?"
+        },
+        {
+          "value": 600,
+          "clue": "The 'Flintstones' theme promises 'we'll have a gay old' this.",
+          "response": "What is time?"
+        },
+        {
+          "value": 800,
+          "clue": "'The Brady Bunch' theme calls it 'the story of a lovely' this.",
+          "response": "What is lady?"
+        },
+        {
+          "value": 1000,
+          "clue": "'The Greatest American Hero' theme opens 'Believe it or not, I'm walking on' this.",
+          "response": "What is air?"
+        }
       ]
     },
     {
       "name": "Real Famous Animals",
       "clues": [
-        { "value": 200, "clue": "This Pennsylvania groundhog 'forecasts' the arrival of spring each February 2.", "response": "Who is Punxsutawney Phil?" },
-        { "value": 400, "clue": "This thoroughbred won the 1973 Triple Crown, taking the Belmont by 31 lengths.", "response": "Who is Secretariat?" },
-        { "value": 600, "clue": "This Soviet dog became the first animal to orbit Earth, aboard Sputnik 2 in 1957.", "response": "Who is Laika?" },
-        { "value": 800, "clue": "This loyal Akita waited years at a Tokyo station for his deceased owner.", "response": "Who is Hachiko?" },
-        { "value": 1000, "clue": "This western lowland gorilla learned modified sign language under Francine Patterson.", "response": "Who is Koko?" }
+        {
+          "value": 200,
+          "clue": "This Pennsylvania groundhog 'forecasts' the arrival of spring each February 2.",
+          "response": "Who is Punxsutawney Phil?"
+        },
+        {
+          "value": 400,
+          "clue": "This thoroughbred won the 1973 Triple Crown, taking the Belmont by 31 lengths.",
+          "response": "Who is Secretariat?"
+        },
+        {
+          "value": 600,
+          "clue": "This Soviet dog became the first animal to orbit Earth, aboard Sputnik 2 in 1957.",
+          "response": "Who is Laika?"
+        },
+        {
+          "value": 800,
+          "clue": "This loyal Akita waited years at a Tokyo station for his deceased owner.",
+          "response": "Who is Hachiko?"
+        },
+        {
+          "value": 1000,
+          "clue": "This western lowland gorilla learned modified sign language under Francine Patterson.",
+          "response": "Who is Koko?"
+        }
       ]
     }
   ],

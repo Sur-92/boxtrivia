@@ -1,54 +1,154 @@
 {
-  "title": "Set 15",
+  "title": "Marvel, Games & Horror",
   "categories": [
     {
       "name": "Marvel Heroes",
       "clues": [
-        { "value": 200, "clue": "This armored hero is genius industrialist Tony Stark.", "response": "Who is Iron Man?" },
-        { "value": 400, "clue": "This web-slinging hero is photographer Peter Parker.", "response": "Who is Spider-Man?" },
-        { "value": 600, "clue": "This star-spangled hero, frozen for decades, is the former scrawny recruit Steve Rogers.", "response": "Who is Captain America?" },
-        { "value": 800, "clue": "This Sorcerer Supreme is former neurosurgeon Stephen Strange.", "response": "Who is Doctor Strange?" },
-        { "value": 1000, "clue": "This Norse god of thunder first appeared in 'Journey into Mystery' #83 in 1962.", "response": "Who is Thor?" }
+        {
+          "value": 200,
+          "clue": "This armored hero is genius industrialist Tony Stark.",
+          "response": "Who is Iron Man?"
+        },
+        {
+          "value": 400,
+          "clue": "This web-slinging hero is photographer Peter Parker.",
+          "response": "Who is Spider-Man?"
+        },
+        {
+          "value": 600,
+          "clue": "This star-spangled hero, frozen for decades, is the former scrawny recruit Steve Rogers.",
+          "response": "Who is Captain America?"
+        },
+        {
+          "value": 800,
+          "clue": "This Sorcerer Supreme is former neurosurgeon Stephen Strange.",
+          "response": "Who is Doctor Strange?"
+        },
+        {
+          "value": 1000,
+          "clue": "This Norse god of thunder first appeared in 'Journey into Mystery' #83 in 1962.",
+          "response": "Who is Thor?"
+        }
       ]
     },
     {
       "name": "Cereal History",
       "clues": [
-        { "value": 200, "clue": "The Kellogg brothers developed corn flakes in this Michigan 'Cereal City.'", "response": "What is Battle Creek?" },
-        { "value": 400, "clue": "This 'General' company, a Kellogg's rival, makes Cheerios and Lucky Charms.", "response": "What is General Mills?" },
-        { "value": 600, "clue": "Despite its name, this Post cereal of crunchy nuggets contains neither grapes nor nuts.", "response": "What is Grape-Nuts?" },
-        { "value": 800, "clue": "Breakfast cereal was first promoted as health food at a sanitarium run by this Kellogg brother, a physician.", "response": "Who is John Harvey Kellogg?" },
-        { "value": 1000, "clue": "James Caleb Jackson's 1863 'Granula' is considered the first manufactured one of these.", "response": "What is breakfast cereal?" }
+        {
+          "value": 200,
+          "clue": "The Kellogg brothers developed corn flakes in this Michigan 'Cereal City.'",
+          "response": "What is Battle Creek?"
+        },
+        {
+          "value": 400,
+          "clue": "This 'General' company, a Kellogg's rival, makes Cheerios and Lucky Charms.",
+          "response": "What is General Mills?"
+        },
+        {
+          "value": 600,
+          "clue": "Despite its name, this Post cereal of crunchy nuggets contains neither grapes nor nuts.",
+          "response": "What is Grape-Nuts?"
+        },
+        {
+          "value": 800,
+          "clue": "Breakfast cereal was first promoted as health food at a sanitarium run by this Kellogg brother, a physician.",
+          "response": "Who is John Harvey Kellogg?"
+        },
+        {
+          "value": 1000,
+          "clue": "James Caleb Jackson's 1863 'Granula' is considered the first manufactured one of these.",
+          "response": "What is breakfast cereal?"
+        }
       ]
     },
     {
       "name": "Classic Games",
       "clues": [
-        { "value": 200, "clue": "In this real-estate game, players buy properties such as Boardwalk and Park Place.", "response": "What is Monopoly?" },
-        { "value": 400, "clue": "In this game, players score points forming words from lettered tiles.", "response": "What is Scrabble?" },
-        { "value": 600, "clue": "In this whodunit, players deduce the culprit, the weapon and the room.", "response": "What is Clue?" },
-        { "value": 800, "clue": "This ancient Asian strategy game of territory uses black and white stones on a gridded board.", "response": "What is Go?" },
-        { "value": 1000, "clue": "Boards for this ancient Egyptian game were found in Tutankhamun's tomb.", "response": "What is Senet?" }
+        {
+          "value": 200,
+          "clue": "In this real-estate game, players buy properties such as Boardwalk and Park Place.",
+          "response": "What is Monopoly?"
+        },
+        {
+          "value": 400,
+          "clue": "In this game, players score points forming words from lettered tiles.",
+          "response": "What is Scrabble?"
+        },
+        {
+          "value": 600,
+          "clue": "In this whodunit, players deduce the culprit, the weapon and the room.",
+          "response": "What is Clue?"
+        },
+        {
+          "value": 800,
+          "clue": "This ancient Asian strategy game of territory uses black and white stones on a gridded board.",
+          "response": "What is Go?"
+        },
+        {
+          "value": 1000,
+          "clue": "Boards for this ancient Egyptian game were found in Tutankhamun's tomb.",
+          "response": "What is Senet?"
+        }
       ]
     },
     {
       "name": "Transportation",
       "clues": [
-        { "value": 200, "clue": "Henry Ford's assembly line mass-produced this affordable early 'Model.'", "response": "What is the Model T?" },
-        { "value": 400, "clue": "Karl Benz patented an early gasoline-powered version of this vehicle in 1886.", "response": "What is the automobile?" },
-        { "value": 600, "clue": "This Scottish engineer's improved steam engine inspired a unit of power named for him.", "response": "Who is James Watt?" },
-        { "value": 800, "clue": "The Wright brothers achieved the first powered flight in 1903 at this North Carolina site.", "response": "What is Kitty Hawk?" },
-        { "value": 1000, "clue": "This British-French supersonic airliner, retired in 2003, cruised at twice the speed of sound.", "response": "What is the Concorde?" }
+        {
+          "value": 200,
+          "clue": "Henry Ford's assembly line mass-produced this affordable early 'Model.'",
+          "response": "What is the Model T?"
+        },
+        {
+          "value": 400,
+          "clue": "Karl Benz patented an early gasoline-powered version of this vehicle in 1886.",
+          "response": "What is the automobile?"
+        },
+        {
+          "value": 600,
+          "clue": "This Scottish engineer's improved steam engine inspired a unit of power named for him.",
+          "response": "Who is James Watt?"
+        },
+        {
+          "value": 800,
+          "clue": "The Wright brothers achieved the first powered flight in 1903 at this North Carolina site.",
+          "response": "What is Kitty Hawk?"
+        },
+        {
+          "value": 1000,
+          "clue": "This British-French supersonic airliner, retired in 2003, cruised at twice the speed of sound.",
+          "response": "What is the Concorde?"
+        }
       ]
     },
     {
       "name": "Thrillers & Horror",
       "clues": [
-        { "value": 200, "clue": "This cannibal psychiatrist assists the FBI from behind bars.", "response": "Who is Hannibal Lecter?" },
-        { "value": 400, "clue": "This burned, bladed-glove killer stalks teenagers in their dreams on Elm Street.", "response": "Who is Freddy Krueger?" },
-        { "value": 600, "clue": "This hockey-masked killer haunts Camp Crystal Lake.", "response": "Who is Jason Voorhees?" },
-        { "value": 800, "clue": "This 'Psycho' motel owner is disturbingly devoted to his late mother.", "response": "Who is Norman Bates?" },
-        { "value": 1000, "clue": "In 'No Country for Old Men,' this hitman kills using a captive-bolt cattle gun.", "response": "Who is Anton Chigurh?" }
+        {
+          "value": 200,
+          "clue": "This cannibal psychiatrist assists the FBI from behind bars.",
+          "response": "Who is Hannibal Lecter?"
+        },
+        {
+          "value": 400,
+          "clue": "This burned, bladed-glove killer stalks teenagers in their dreams on Elm Street.",
+          "response": "Who is Freddy Krueger?"
+        },
+        {
+          "value": 600,
+          "clue": "This hockey-masked killer haunts Camp Crystal Lake.",
+          "response": "Who is Jason Voorhees?"
+        },
+        {
+          "value": 800,
+          "clue": "This 'Psycho' motel owner is disturbingly devoted to his late mother.",
+          "response": "Who is Norman Bates?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'No Country for Old Men,' this hitman kills using a captive-bolt cattle gun.",
+          "response": "Who is Anton Chigurh?"
+        }
       ]
     }
   ],

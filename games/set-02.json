@@ -1,54 +1,154 @@
 {
-  "title": "Set 2",
+  "title": "Fast Food, Capitals & TV",
   "categories": [
     {
       "name": "Menu Items",
       "clues": [
-        { "value": 200, "clue": "Created in 1967 by franchisee Jim Delligatti, this double-decker sandwich has a 'special sauce.'", "response": "What is the Big Mac?" },
-        { "value": 400, "clue": "Introduced by Wendy's in 1969, this dairy dessert is famously too thick to drink through a straw.", "response": "What is the Frosty?" },
-        { "value": 600, "clue": "McDonald's Filet-O-Fish was created in 1962 to serve Catholic customers during this meatless season.", "response": "What is Lent?" },
-        { "value": 800, "clue": "This grilled, hexagonal Taco Bell item folds a tostada and fillings into a tortilla pocket.", "response": "What is the Crunchwrap Supreme?" },
-        { "value": 1000, "clue": "Debuting nationally in 2010, this KFC sandwich uses two fried chicken filets in place of a bun.", "response": "What is the Double Down?" }
+        {
+          "value": 200,
+          "clue": "Created in 1967 by franchisee Jim Delligatti, this double-decker sandwich has a 'special sauce.'",
+          "response": "What is the Big Mac?"
+        },
+        {
+          "value": 400,
+          "clue": "Introduced by Wendy's in 1969, this dairy dessert is famously too thick to drink through a straw.",
+          "response": "What is the Frosty?"
+        },
+        {
+          "value": 600,
+          "clue": "McDonald's Filet-O-Fish was created in 1962 to serve Catholic customers during this meatless season.",
+          "response": "What is Lent?"
+        },
+        {
+          "value": 800,
+          "clue": "This grilled, hexagonal Taco Bell item folds a tostada and fillings into a tortilla pocket.",
+          "response": "What is the Crunchwrap Supreme?"
+        },
+        {
+          "value": 1000,
+          "clue": "Debuting nationally in 2010, this KFC sandwich uses two fried chicken filets in place of a bun.",
+          "response": "What is the Double Down?"
+        }
       ]
     },
     {
       "name": "Capital Clues",
       "clues": [
-        { "value": 200, "clue": "Named for a mythic firebird, this is the most populous U.S. state capital.", "response": "What is Phoenix?" },
-        { "value": 400, "clue": "This capital honoring the fourth U.S. president lies in a state named for a different leader.", "response": "What is Madison?" },
-        { "value": 600, "clue": "Kentucky's capital is this small city, not the larger Louisville or Lexington.", "response": "What is Frankfort?" },
-        { "value": 800, "clue": "Nevada's capital is named for a famed 19th-century frontiersman and scout.", "response": "What is Carson City?" },
-        { "value": 1000, "clue": "South Dakota's capital, pronounced 'peer,' is spelled this distinctive way.", "response": "What is Pierre?" }
+        {
+          "value": 200,
+          "clue": "Named for a mythic firebird, this is the most populous U.S. state capital.",
+          "response": "What is Phoenix?"
+        },
+        {
+          "value": 400,
+          "clue": "This capital honoring the fourth U.S. president lies in a state named for a different leader.",
+          "response": "What is Madison?"
+        },
+        {
+          "value": 600,
+          "clue": "Kentucky's capital is this small city, not the larger Louisville or Lexington.",
+          "response": "What is Frankfort?"
+        },
+        {
+          "value": 800,
+          "clue": "Nevada's capital is named for a famed 19th-century frontiersman and scout.",
+          "response": "What is Carson City?"
+        },
+        {
+          "value": 1000,
+          "clue": "South Dakota's capital, pronounced 'peer,' is spelled this distinctive way.",
+          "response": "What is Pierre?"
+        }
       ]
     },
     {
       "name": "Themes & Networks",
       "clues": [
-        { "value": 200, "clue": "The 'One Saturday Morning' block debuted in 1997 on this broadcast network.", "response": "What is ABC?" },
-        { "value": 400, "clue": "The 1987 'Teenage Mutant Ninja Turtles' cartoon adapted comics by Kevin Eastman and this co-creator.", "response": "Who is Peter Laird?" },
-        { "value": 600, "clue": "'X-Men: The Animated Series' premiered on the Fox Kids block in this year.", "response": "What is 1992?" },
-        { "value": 800, "clue": "'Captain Planet' was conceived by this media mogul who founded CNN and TBS.", "response": "Who is Ted Turner?" },
-        { "value": 1000, "clue": "'Inspector Gadget' and 'The Real Ghostbusters' came from this French-founded studio known by a three-letter acronym.", "response": "What is DiC?" }
+        {
+          "value": 200,
+          "clue": "The 'One Saturday Morning' block debuted in 1997 on this broadcast network.",
+          "response": "What is ABC?"
+        },
+        {
+          "value": 400,
+          "clue": "The 1987 'Teenage Mutant Ninja Turtles' cartoon adapted comics by Kevin Eastman and this co-creator.",
+          "response": "Who is Peter Laird?"
+        },
+        {
+          "value": 600,
+          "clue": "'X-Men: The Animated Series' premiered on the Fox Kids block in this year.",
+          "response": "What is 1992?"
+        },
+        {
+          "value": 800,
+          "clue": "'Captain Planet' was conceived by this media mogul who founded CNN and TBS.",
+          "response": "Who is Ted Turner?"
+        },
+        {
+          "value": 1000,
+          "clue": "'Inspector Gadget' and 'The Real Ghostbusters' came from this French-founded studio known by a three-letter acronym.",
+          "response": "What is DiC?"
+        }
       ]
     },
     {
       "name": "Mascots & Slogans",
       "clues": [
-        { "value": 200, "clue": "The late-90s Taco Bell Chihuahua delivered its 'Yo quiero' catchphrase in this language.", "response": "What is Spanish?" },
-        { "value": 400, "clue": "Wendy's freckled mascot is named for the founder's daughter, whose actual first name is this.", "response": "What is Melinda?" },
-        { "value": 600, "clue": "The McDonald's Hamburglar is known for muttering this nonsense exclamation.", "response": "What is 'Robble robble'?" },
-        { "value": 800, "clue": "KFC's founder received his honorary 'Colonel' commission from the commonwealth of this state.", "response": "What is Kentucky?" },
-        { "value": 1000, "clue": "The 1984 'Where's the beef?' Wendy's ad starred this elderly actress, surname Peller.", "response": "Who is Clara Peller?" }
+        {
+          "value": 200,
+          "clue": "The late-90s Taco Bell Chihuahua delivered its 'Yo quiero' catchphrase in this language.",
+          "response": "What is Spanish?"
+        },
+        {
+          "value": 400,
+          "clue": "Wendy's freckled mascot is named for the founder's daughter, whose actual first name is this.",
+          "response": "What is Melinda?"
+        },
+        {
+          "value": 600,
+          "clue": "The McDonald's Hamburglar is known for muttering this nonsense exclamation.",
+          "response": "What is 'Robble robble'?"
+        },
+        {
+          "value": 800,
+          "clue": "KFC's founder received his honorary 'Colonel' commission from the commonwealth of this state.",
+          "response": "What is Kentucky?"
+        },
+        {
+          "value": 1000,
+          "clue": "The 1984 'Where's the beef?' Wendy's ad starred this elderly actress, surname Peller.",
+          "response": "Who is Clara Peller?"
+        }
       ]
     },
     {
       "name": "Burger Chains",
       "clues": [
-        { "value": 200, "clue": "Founded in 1940 in San Bernardino, this chain was transformed after Ray Kroc joined in 1955.", "response": "What is McDonald's?" },
-        { "value": 400, "clue": "Founded in 1954 in Miami, this chain trademarked the 'Whopper' three years later.", "response": "What is Burger King?" },
-        { "value": 600, "clue": "Dave Thomas launched this square-patty chain in Columbus, Ohio in 1969.", "response": "What is Wendy's?" },
-        { "value": 800, "clue": "Harry and Esther Snyder opened this chain, California's first drive-thru, in 1948.", "response": "What is In-N-Out?" },
-        { "value": 1000, "clue": "Founded in 1921 in Wichita, Kansas, this chain is often called America's first hamburger chain.", "response": "What is White Castle?" }
+        {
+          "value": 200,
+          "clue": "Founded in 1940 in San Bernardino, this chain was transformed after Ray Kroc joined in 1955.",
+          "response": "What is McDonald's?"
+        },
+        {
+          "value": 400,
+          "clue": "Founded in 1954 in Miami, this chain trademarked the 'Whopper' three years later.",
+          "response": "What is Burger King?"
+        },
+        {
+          "value": 600,
+          "clue": "Dave Thomas launched this square-patty chain in Columbus, Ohio in 1969.",
+          "response": "What is Wendy's?"
+        },
+        {
+          "value": 800,
+          "clue": "Harry and Esther Snyder opened this chain, California's first drive-thru, in 1948.",
+          "response": "What is In-N-Out?"
+        },
+        {
+          "value": 1000,
+          "clue": "Founded in 1921 in Wichita, Kansas, this chain is often called America's first hamburger chain.",
+          "response": "What is White Castle?"
+        }
       ]
     }
   ],

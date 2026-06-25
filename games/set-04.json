@@ -1,54 +1,154 @@
 {
-  "title": "Set 4",
+  "title": "Disney, Heroes & Sitcoms",
   "categories": [
     {
       "name": "Princess Companions",
       "clues": [
-        { "value": 200, "clue": "Rapunzel's silent sidekick in 'Tangled' is this kind of color-shifting reptile.", "response": "What is a chameleon?" },
-        { "value": 400, "clue": "Mulan is accompanied by Mushu and a 'lucky' one of these chirping insects.", "response": "What is a cricket?" },
-        { "value": 600, "clue": "In 'Moana,' name the dim-witted pet pig left behind when the heroine sets sail.", "response": "Who is Pua?" },
-        { "value": 800, "clue": "Pocahontas's companions are a hummingbird named Flit and this curious raccoon.", "response": "Who is Meeko?" },
-        { "value": 1000, "clue": "In 'The Princess and the Frog,' this trumpet-playing alligator longs to join a jazz band.", "response": "Who is Louis?" }
+        {
+          "value": 200,
+          "clue": "Rapunzel's silent sidekick in 'Tangled' is this kind of color-shifting reptile.",
+          "response": "What is a chameleon?"
+        },
+        {
+          "value": 400,
+          "clue": "Mulan is accompanied by Mushu and a 'lucky' one of these chirping insects.",
+          "response": "What is a cricket?"
+        },
+        {
+          "value": 600,
+          "clue": "In 'Moana,' name the dim-witted pet pig left behind when the heroine sets sail.",
+          "response": "Who is Pua?"
+        },
+        {
+          "value": 800,
+          "clue": "Pocahontas's companions are a hummingbird named Flit and this curious raccoon.",
+          "response": "Who is Meeko?"
+        },
+        {
+          "value": 1000,
+          "clue": "In 'The Princess and the Frog,' this trumpet-playing alligator longs to join a jazz band.",
+          "response": "Who is Louis?"
+        }
       ]
     },
     {
       "name": "Secret Identities",
       "clues": [
-        { "value": 200, "clue": "This Amazonian hero lives among humans under the name Diana Prince.", "response": "Who is Wonder Woman?" },
-        { "value": 400, "clue": "Black Panther rules the nation of Wakanda under this royal given name.", "response": "Who is T'Challa?" },
-        { "value": 600, "clue": "This blind Hell's Kitchen attorney moonlights as a horned vigilante.", "response": "Who is Matt Murdock?" },
-        { "value": 800, "clue": "The Silver Age Flash is this Central City forensic scientist.", "response": "Who is Barry Allen?" },
-        { "value": 1000, "clue": "Hal Jordan, wielder of a willpower-fueled ring, belongs to this intergalactic peacekeeping force.", "response": "What is the Green Lantern Corps?" }
+        {
+          "value": 200,
+          "clue": "This Amazonian hero lives among humans under the name Diana Prince.",
+          "response": "Who is Wonder Woman?"
+        },
+        {
+          "value": 400,
+          "clue": "Black Panther rules the nation of Wakanda under this royal given name.",
+          "response": "Who is T'Challa?"
+        },
+        {
+          "value": 600,
+          "clue": "This blind Hell's Kitchen attorney moonlights as a horned vigilante.",
+          "response": "Who is Matt Murdock?"
+        },
+        {
+          "value": 800,
+          "clue": "The Silver Age Flash is this Central City forensic scientist.",
+          "response": "Who is Barry Allen?"
+        },
+        {
+          "value": 1000,
+          "clue": "Hal Jordan, wielder of a willpower-fueled ring, belongs to this intergalactic peacekeeping force.",
+          "response": "What is the Green Lantern Corps?"
+        }
       ]
     },
     {
       "name": "Movie Critters",
       "clues": [
-        { "value": 200, "clue": "In 'Finding Nemo,' name the anxious clownfish father searching for his son.", "response": "Who is Marlin?" },
-        { "value": 400, "clue": "In 'Ratatouille,' this refined-palate rat dreams of becoming a chef.", "response": "Who is Remy?" },
-        { "value": 600, "clue": "This acorn-obsessed saber-toothed squirrel-rat provides slapstick in the 'Ice Age' films.", "response": "Who is Scrat?" },
-        { "value": 800, "clue": "In 'Madagascar,' name the lemur king who performs 'I Like to Move It.'", "response": "Who is King Julien?" },
-        { "value": 1000, "clue": "This 1998 DreamWorks ant film opened the same year as Pixar's 'A Bug's Life.'", "response": "What is Antz?" }
+        {
+          "value": 200,
+          "clue": "In 'Finding Nemo,' name the anxious clownfish father searching for his son.",
+          "response": "Who is Marlin?"
+        },
+        {
+          "value": 400,
+          "clue": "In 'Ratatouille,' this refined-palate rat dreams of becoming a chef.",
+          "response": "Who is Remy?"
+        },
+        {
+          "value": 600,
+          "clue": "This acorn-obsessed saber-toothed squirrel-rat provides slapstick in the 'Ice Age' films.",
+          "response": "Who is Scrat?"
+        },
+        {
+          "value": 800,
+          "clue": "In 'Madagascar,' name the lemur king who performs 'I Like to Move It.'",
+          "response": "Who is King Julien?"
+        },
+        {
+          "value": 1000,
+          "clue": "This 1998 DreamWorks ant film opened the same year as Pixar's 'A Bug's Life.'",
+          "response": "What is Antz?"
+        }
       ]
     },
     {
       "name": "Teams",
       "clues": [
-        { "value": 200, "clue": "This Marvel team is billed as 'Earth's Mightiest Heroes.'", "response": "Who are the Avengers?" },
-        { "value": 400, "clue": "Professor Charles Xavier founded this mutant team at his school for gifted youngsters.", "response": "Who are the X-Men?" },
-        { "value": 600, "clue": "This cosmic Marvel team includes a sentient tree and a gun-toting raccoon.", "response": "Who are the Guardians of the Galaxy?" },
-        { "value": 800, "clue": "DC's Justice League debuted in 1960 in the anthology 'The Brave and the' this.", "response": "What is Bold?" },
-        { "value": 1000, "clue": "The Fantastic Four gained their powers from exposure to these high-energy space particles.", "response": "What are cosmic rays?" }
+        {
+          "value": 200,
+          "clue": "This Marvel team is billed as 'Earth's Mightiest Heroes.'",
+          "response": "Who are the Avengers?"
+        },
+        {
+          "value": 400,
+          "clue": "Professor Charles Xavier founded this mutant team at his school for gifted youngsters.",
+          "response": "Who are the X-Men?"
+        },
+        {
+          "value": 600,
+          "clue": "This cosmic Marvel team includes a sentient tree and a gun-toting raccoon.",
+          "response": "Who are the Guardians of the Galaxy?"
+        },
+        {
+          "value": 800,
+          "clue": "DC's Justice League debuted in 1960 in the anthology 'The Brave and the' this.",
+          "response": "What is Bold?"
+        },
+        {
+          "value": 1000,
+          "clue": "The Fantastic Four gained their powers from exposure to these high-energy space particles.",
+          "response": "What are cosmic rays?"
+        }
       ]
     },
     {
       "name": "Sitcom Themes",
       "clues": [
-        { "value": 200, "clue": "'Movin' on Up' is the theme to this 'All in the Family' spinoff.", "response": "What are The Jeffersons?" },
-        { "value": 400, "clue": "The 'Cheers' theme's full title is this phrase about a welcoming bar.", "response": "What is 'Where Everybody Knows Your Name'?" },
-        { "value": 600, "clue": "The 'Golden Girls' theme 'Thank You for Being a Friend' was a 1978 hit for this singer.", "response": "Who is Andrew Gold?" },
-        { "value": 800, "clue": "The Rembrandts' 'Friends' theme carries this title.", "response": "What is 'I'll Be There for You'?" },
-        { "value": 1000, "clue": "'Love Is All Around' opened this 1970s sitcom about a Minneapolis newsroom.", "response": "What is The Mary Tyler Moore Show?" }
+        {
+          "value": 200,
+          "clue": "'Movin' on Up' is the theme to this 'All in the Family' spinoff.",
+          "response": "What are The Jeffersons?"
+        },
+        {
+          "value": 400,
+          "clue": "The 'Cheers' theme's full title is this phrase about a welcoming bar.",
+          "response": "What is 'Where Everybody Knows Your Name'?"
+        },
+        {
+          "value": 600,
+          "clue": "The 'Golden Girls' theme 'Thank You for Being a Friend' was a 1978 hit for this singer.",
+          "response": "Who is Andrew Gold?"
+        },
+        {
+          "value": 800,
+          "clue": "The Rembrandts' 'Friends' theme carries this title.",
+          "response": "What is 'I'll Be There for You'?"
+        },
+        {
+          "value": 1000,
+          "clue": "'Love Is All Around' opened this 1970s sitcom about a Minneapolis newsroom.",
+          "response": "What is The Mary Tyler Moore Show?"
+        }
       ]
     }
   ],
