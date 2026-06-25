@@ -1019,3 +1019,71 @@
   → What are the Olympic rings?
 
 ---
+
+## Digestive Health: Issues & Cures
+
+### Digestive Anatomy
+- **$200** — This muscular tube uses peristalsis to carry swallowed food from the throat to the stomach.  
+  → What is the esophagus?
+- **$400** — Most nutrient absorption happens in this longest, coiled section of the digestive tract.  
+  → What is the small intestine?
+- **$600** — This large organ secretes bile, stores glycogen, and detoxifies the blood.  
+  → What is the liver?
+- **$800** — This small sac beneath the liver stores and concentrates bile between meals.  
+  → What is the gallbladder?
+- **$1000** — The first, C-shaped segment of the small intestine, where bile and pancreatic juice enter, is this.  
+  → What is the duodenum?
+
+### Common GI Conditions
+- **$200** — Chronic backflow of stomach acid into the esophagus is this reflux disease, known by a three-letter abbreviation.  
+  → What is GERD?
+- **$400** — Cramping, bloating, and alternating diarrhea and constipation without structural damage mark this functional bowel syndrome.  
+  → What is irritable bowel syndrome?
+- **$600** — The bacterium Helicobacter pylori is a leading cause of these painful open sores in the stomach lining.  
+  → What are peptic ulcers?
+- **$800** — This autoimmune reaction to gluten flattens the small-intestine villi, impairing absorption.  
+  → What is celiac disease?
+- **$1000** — Crohn's disease and ulcerative colitis are the two main forms of this chronic inflammatory umbrella condition.  
+  → What is inflammatory bowel disease?
+
+### Symptoms & Signs
+- **$200** — Despite its name, this burning sensation behind the breastbone after meals has nothing to do with the heart.  
+  → What is heartburn?
+- **$400** — Clinicians use this term for difficulty or pain when swallowing.  
+  → What is dysphagia?
+- **$600** — Black, tarry stool signaling digested upper-GI bleeding is called this.  
+  → What is melena?
+- **$800** — This is the medical term for vomiting blood.  
+  → What is hematemesis?
+- **$1000** — Yellowing of the skin and eyes from a buildup of bilirubin is this sign of liver or bile trouble.  
+  → What is jaundice?
+
+### Treatments & Meds
+- **$200** — Antacids such as Tums relieve indigestion by doing this to stomach acid.  
+  → What is neutralizing it?
+- **$400** — Drugs like omeprazole sharply cut acid secretion; this class is abbreviated PPI.  
+  → What are proton pump inhibitors?
+- **$600** — Bismuth subsalicylate is the active ingredient in this pink, stomach-soothing liquid.  
+  → What is Pepto-Bismol?
+- **$800** — Surgical removal of the inflamed appendix is this common emergency procedure.  
+  → What is an appendectomy?
+- **$1000** — For severe reflux, the Nissen version of this surgery wraps the upper stomach around the lower esophagus.  
+  → What is fundoplication?
+
+### Procedures & Tests
+- **$200** — This scope exam threads a flexible camera through the rectum to screen the large bowel for cancer.  
+  → What is a colonoscopy?
+- **$400** — Abbreviated EGD, this scope exam inspects the esophagus, stomach and duodenum from above.  
+  → What is an upper endoscopy?
+- **$600** — A urea breath test detecting urease activity is used to diagnose infection by this ulcer-causing microbe.  
+  → What is H. pylori?
+- **$800** — In this X-ray series, the patient drinks a chalky contrast so the esophagus and stomach show up clearly.  
+  → What is a barium swallow?
+- **$1000** — A tiny camera inside a swallowable pill records this exam of the small bowel.  
+  → What is capsule endoscopy?
+
+### FINAL — Gut Microbiome
+- Fecal microbiota transplantation can cure stubborn infections by this antibiotic-resistant gut bacterium, 'C. diff.'  
+  → What is Clostridioides difficile?
+
+---

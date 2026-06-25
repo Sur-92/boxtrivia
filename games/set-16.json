@@ -1,0 +1,60 @@
+{
+  "title": "Digestive Health: Issues & Cures",
+  "categories": [
+    {
+      "name": "Digestive Anatomy",
+      "clues": [
+        { "value": 200, "clue": "This muscular tube uses peristalsis to carry swallowed food from the throat to the stomach.", "response": "What is the esophagus?" },
+        { "value": 400, "clue": "Most nutrient absorption happens in this longest, coiled section of the digestive tract.", "response": "What is the small intestine?" },
+        { "value": 600, "clue": "This large organ secretes bile, stores glycogen, and detoxifies the blood.", "response": "What is the liver?" },
+        { "value": 800, "clue": "This small sac beneath the liver stores and concentrates bile between meals.", "response": "What is the gallbladder?" },
+        { "value": 1000, "clue": "The first, C-shaped segment of the small intestine, where bile and pancreatic juice enter, is this.", "response": "What is the duodenum?" }
+      ]
+    },
+    {
+      "name": "Common GI Conditions",
+      "clues": [
+        { "value": 200, "clue": "Chronic backflow of stomach acid into the esophagus is this reflux disease, known by a three-letter abbreviation.", "response": "What is GERD?" },
+        { "value": 400, "clue": "Cramping, bloating, and alternating diarrhea and constipation without structural damage mark this functional bowel syndrome.", "response": "What is irritable bowel syndrome?" },
+        { "value": 600, "clue": "The bacterium Helicobacter pylori is a leading cause of these painful open sores in the stomach lining.", "response": "What are peptic ulcers?" },
+        { "value": 800, "clue": "This autoimmune reaction to gluten flattens the small-intestine villi, impairing absorption.", "response": "What is celiac disease?" },
+        { "value": 1000, "clue": "Crohn's disease and ulcerative colitis are the two main forms of this chronic inflammatory umbrella condition.", "response": "What is inflammatory bowel disease?" }
+      ]
+    },
+    {
+      "name": "Symptoms & Signs",
+      "clues": [
+        { "value": 200, "clue": "Despite its name, this burning sensation behind the breastbone after meals has nothing to do with the heart.", "response": "What is heartburn?" },
+        { "value": 400, "clue": "Clinicians use this term for difficulty or pain when swallowing.", "response": "What is dysphagia?" },
+        { "value": 600, "clue": "Black, tarry stool signaling digested upper-GI bleeding is called this.", "response": "What is melena?" },
+        { "value": 800, "clue": "This is the medical term for vomiting blood.", "response": "What is hematemesis?" },
+        { "value": 1000, "clue": "Yellowing of the skin and eyes from a buildup of bilirubin is this sign of liver or bile trouble.", "response": "What is jaundice?" }
+      ]
+    },
+    {
+      "name": "Treatments & Meds",
+      "clues": [
+        { "value": 200, "clue": "Antacids such as Tums relieve indigestion by doing this to stomach acid.", "response": "What is neutralizing it?" },
+        { "value": 400, "clue": "Drugs like omeprazole sharply cut acid secretion; this class is abbreviated PPI.", "response": "What are proton pump inhibitors?" },
+        { "value": 600, "clue": "Bismuth subsalicylate is the active ingredient in this pink, stomach-soothing liquid.", "response": "What is Pepto-Bismol?" },
+        { "value": 800, "clue": "Surgical removal of the inflamed appendix is this common emergency procedure.", "response": "What is an appendectomy?" },
+        { "value": 1000, "clue": "For severe reflux, the Nissen version of this surgery wraps the upper stomach around the lower esophagus.", "response": "What is fundoplication?" }
+      ]
+    },
+    {
+      "name": "Procedures & Tests",
+      "clues": [
+        { "value": 200, "clue": "This scope exam threads a flexible camera through the rectum to screen the large bowel for cancer.", "response": "What is a colonoscopy?" },
+        { "value": 400, "clue": "Abbreviated EGD, this scope exam inspects the esophagus, stomach and duodenum from above.", "response": "What is an upper endoscopy?" },
+        { "value": 600, "clue": "A urea breath test detecting urease activity is used to diagnose infection by this ulcer-causing microbe.", "response": "What is H. pylori?" },
+        { "value": 800, "clue": "In this X-ray series, the patient drinks a chalky contrast so the esophagus and stomach show up clearly.", "response": "What is a barium swallow?" },
+        { "value": 1000, "clue": "A tiny camera inside a swallowable pill records this exam of the small bowel.", "response": "What is capsule endoscopy?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Gut Microbiome",
+    "clue": "Fecal microbiota transplantation can cure stubborn infections by this antibiotic-resistant gut bacterium, 'C. diff.'",
+    "response": "What is Clostridioides difficile?"
+  }
+}
