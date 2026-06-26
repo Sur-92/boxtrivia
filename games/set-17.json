@@ -1,0 +1,60 @@
+{
+  "title": "Heart & Cardiovascular Health",
+  "categories": [
+    {
+      "name": "Heart Anatomy",
+      "clues": [
+        { "value": 200, "clue": "This fist-sized muscular organ pumps roughly 100,000 times a day.", "response": "What is the heart?" },
+        { "value": 400, "clue": "Blood returns first to these two upper receiving chambers of the heart.", "response": "What are the atria?" },
+        { "value": 600, "clue": "This largest artery carries oxygen-rich blood out of the left ventricle to the body.", "response": "What is the aorta?" },
+        { "value": 800, "clue": "These vessels feed the heart muscle itself, and their blockage triggers heart attacks.", "response": "What are the coronary arteries?" },
+        { "value": 1000, "clue": "This natural pacemaker in the right atrium sets the heartbeat, abbreviated SA.", "response": "What is the sinoatrial node?" }
+      ]
+    },
+    {
+      "name": "Risk Factors",
+      "clues": [
+        { "value": 200, "clue": "Often called the 'silent killer,' this elevated force in the arteries is read in mmHg.", "response": "What is high blood pressure?" },
+        { "value": 400, "clue": "This waxy blood lipid, tracked as LDL and HDL, can clog arteries when high.", "response": "What is cholesterol?" },
+        { "value": 600, "clue": "Inhaling tobacco is a leading modifiable cause of cardiovascular disease.", "response": "What is smoking?" },
+        { "value": 800, "clue": "This state of excess body fat, gauged partly by BMI, strains the cardiovascular system.", "response": "What is obesity?" },
+        { "value": 1000, "clue": "High blood pressure, high sugar, abdominal fat and bad lipids together form this 'metabolic' cluster.", "response": "What is metabolic syndrome?" }
+      ]
+    },
+    {
+      "name": "Conditions",
+      "clues": [
+        { "value": 200, "clue": "A heart attack, the death of heart muscle from blocked flow, is medically this, abbreviated MI.", "response": "What is a myocardial infarction?" },
+        { "value": 400, "clue": "This irregular, rapid quivering of the upper chambers sharply raises stroke risk; it's nicknamed A-fib.", "response": "What is atrial fibrillation?" },
+        { "value": 600, "clue": "Chest pain from reduced blood flow to the heart, often on exertion, is this.", "response": "What is angina?" },
+        { "value": 800, "clue": "When the heart can't pump efficiently, fluid backs up and breathlessness results in this failing condition.", "response": "What is heart failure?" },
+        { "value": 1000, "clue": "The buildup of fatty plaque that hardens and narrows arteries is this process.", "response": "What is atherosclerosis?" }
+      ]
+    },
+    {
+      "name": "Tests & Numbers",
+      "clues": [
+        { "value": 200, "clue": "Abbreviated ECG or EKG, this test records the heart's electrical activity.", "response": "What is an electrocardiogram?" },
+        { "value": 400, "clue": "A healthy resting pulse runs about 60 to 100 of these per minute.", "response": "What are beats?" },
+        { "value": 600, "clue": "This ultrasound of the heart shows its chambers and valves in motion.", "response": "What is an echocardiogram?" },
+        { "value": 800, "clue": "A blood-pressure reading of 120 over 80 is classified as this.", "response": "What is normal?" },
+        { "value": 1000, "clue": "A treadmill 'stress test' looks for this reduced blood flow to the heart during exertion.", "response": "What is ischemia?" }
+      ]
+    },
+    {
+      "name": "Treatments & Meds",
+      "clues": [
+        { "value": 200, "clue": "Cholesterol-lowering drugs such as atorvastatin belong to this class ending in '-statin.'", "response": "What are statins?" },
+        { "value": 400, "clue": "A low daily dose of this common pain reliever thins the blood to help prevent clots.", "response": "What is aspirin?" },
+        { "value": 600, "clue": "Drugs like lisinopril, ending in '-pril,' lower pressure by blocking a key enzyme abbreviated ACE.", "response": "What are ACE inhibitors?" },
+        { "value": 800, "clue": "A small mesh tube can be placed to prop open a narrowed artery; name that tube.", "response": "What is a stent?" },
+        { "value": 1000, "clue": "This open-heart surgery, abbreviated CABG, reroutes blood around clogged coronary arteries using grafts.", "response": "What is bypass surgery?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Healthy Lifestyle",
+    "clue": "This plant-forward eating pattern named for a sea region is widely recommended for heart health.",
+    "response": "What is the Mediterranean diet?"
+  }
+}

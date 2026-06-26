@@ -1,0 +1,60 @@
+{
+  "title": "Diabetes & Blood Sugar",
+  "categories": [
+    {
+      "name": "The Basics",
+      "clues": [
+        { "value": 200, "clue": "This pancreatic hormone lowers blood glucose by helping cells take in sugar.", "response": "What is insulin?" },
+        { "value": 400, "clue": "This simple sugar is the body's main blood-borne fuel.", "response": "What is glucose?" },
+        { "value": 600, "clue": "This organ behind the stomach makes both insulin and digestive enzymes.", "response": "What is the pancreas?" },
+        { "value": 800, "clue": "The insulin-producing 'beta' ones of these reside in the islets of Langerhans.", "response": "What are cells?" },
+        { "value": 1000, "clue": "This pancreatic hormone opposes insulin by raising blood sugar.", "response": "What is glucagon?" }
+      ]
+    },
+    {
+      "name": "Types & Causes",
+      "clues": [
+        { "value": 200, "clue": "In this form, the body makes little or no insulin; it's often diagnosed in childhood.", "response": "What is Type 1 diabetes?" },
+        { "value": 400, "clue": "This far more common form involves insulin resistance and is strongly tied to lifestyle.", "response": "What is Type 2 diabetes?" },
+        { "value": 600, "clue": "Elevated blood sugar that first appears during pregnancy is this form.", "response": "What is gestational diabetes?" },
+        { "value": 800, "clue": "This warning state features higher-than-normal blood sugar that is not yet full diabetes.", "response": "What is prediabetes?" },
+        { "value": 1000, "clue": "When cells stop responding properly to insulin, the body has this 'resistance.'", "response": "What is insulin resistance?" }
+      ]
+    },
+    {
+      "name": "Symptoms & Complications",
+      "clues": [
+        { "value": 200, "clue": "Excessive thirst and frequent urination are classic early signs of high levels of this.", "response": "What is blood sugar?" },
+        { "value": 400, "clue": "Long-term high glucose can damage small nerves, causing numbness in the feet; this is peripheral ___.", "response": "What is neuropathy?" },
+        { "value": 600, "clue": "Diabetes is a leading cause of this damage to the eye's light-sensing retina.", "response": "What is retinopathy?" },
+        { "value": 800, "clue": "Diabetic kidney damage, a top cause of kidney failure, is this 'nephro-' complication.", "response": "What is nephropathy?" },
+        { "value": 1000, "clue": "A Type 1 emergency of high ketones and blood acid is abbreviated DKA, the 'A' meaning keto-this.", "response": "What is acidosis?" }
+      ]
+    },
+    {
+      "name": "Monitoring",
+      "clues": [
+        { "value": 200, "clue": "A small device that pricks the finger and reads sugar is this 'glucose' tool.", "response": "What is a glucose meter?" },
+        { "value": 400, "clue": "This blood test, reported as a percentage, reflects average glucose over about three months.", "response": "What is the A1C test?" },
+        { "value": 600, "clue": "A wearable sensor giving real-time readings is a continuous glucose monitor, abbreviated this.", "response": "What is a CGM?" },
+        { "value": 800, "clue": "A 'fasting' glucose test requires going at least this many hours without eating.", "response": "What is eight?" },
+        { "value": 1000, "clue": "Dangerously low blood sugar, bringing shakiness and confusion, is this 'hypo-' condition.", "response": "What is hypoglycemia?" }
+      ]
+    },
+    {
+      "name": "Treatment & Diet",
+      "clues": [
+        { "value": 200, "clue": "People with Type 1 must take this hormone by injection or pump.", "response": "What is insulin?" },
+        { "value": 400, "clue": "This first-line oral drug for Type 2 mainly cuts the liver's glucose output.", "response": "What is metformin?" },
+        { "value": 600, "clue": "This 'glycemic' ranking measures how quickly a carbohydrate raises blood sugar.", "response": "What is the glycemic index?" },
+        { "value": 800, "clue": "Injectable drugs like semaglutide that curb appetite and sugar are abbreviated GLP-1 ___.", "response": "What are GLP-1 agonists?" },
+        { "value": 1000, "clue": "A severe low can be reversed with an emergency injection of this insulin-opposing hormone.", "response": "What is glucagon?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Endocrine System",
+    "clue": "This butterfly-shaped neck gland sets the body's metabolic rate via hormones T3 and T4.",
+    "response": "What is the thyroid?"
+  }
+}

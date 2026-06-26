@@ -1,0 +1,60 @@
+{
+  "title": "Mental Health & Sleep",
+  "categories": [
+    {
+      "name": "Conditions",
+      "clues": [
+        { "value": 200, "clue": "This common mood disorder is marked by persistent sadness and loss of interest.", "response": "What is depression?" },
+        { "value": 400, "clue": "Excessive, hard-to-control worry and tension define this disorder, the 'generalized' form abbreviated GAD.", "response": "What is anxiety?" },
+        { "value": 600, "clue": "Swings between depressive lows and manic highs mark this disorder, once called manic depression.", "response": "What is bipolar disorder?" },
+        { "value": 800, "clue": "After trauma, flashbacks and hypervigilance may signal this disorder abbreviated PTSD.", "response": "What is post-traumatic stress disorder?" },
+        { "value": 1000, "clue": "Compulsive, harmful drinking despite consequences is this 'use disorder.'", "response": "What is alcohol use disorder?" }
+      ]
+    },
+    {
+      "name": "Sleep",
+      "clues": [
+        { "value": 200, "clue": "Most adults are advised to get at least this many hours of sleep nightly, the low end of the range.", "response": "What is seven?" },
+        { "value": 400, "clue": "This disorder causes repeated pauses in breathing during sleep; it's the 'sleep' ___.", "response": "What is apnea?" },
+        { "value": 600, "clue": "Persistent difficulty falling or staying asleep is this condition.", "response": "What is insomnia?" },
+        { "value": 800, "clue": "The sleep stage of darting eyes and vivid dreaming is abbreviated this.", "response": "What is REM?" },
+        { "value": 1000, "clue": "A bedside machine delivering pressurized air to keep airways open, abbreviated CPAP, treats this sleep disorder.", "response": "What is sleep apnea?" }
+      ]
+    },
+    {
+      "name": "Symptoms",
+      "clues": [
+        { "value": 200, "clue": "Persistent tiredness and low energy, common in depression, is this.", "response": "What is fatigue?" },
+        { "value": 400, "clue": "The inability to feel pleasure in normally enjoyable activities is this 'an-' term.", "response": "What is anhedonia?" },
+        { "value": 600, "clue": "A racing heart, sweating and sudden dread peaking within minutes describe one of these 'attacks.'", "response": "What is a panic attack?" },
+        { "value": 800, "clue": "Trouble concentrating and mental haziness from stress and poor sleep is nicknamed brain this.", "response": "What is fog?" },
+        { "value": 1000, "clue": "Chronic low-grade depression lasting two years or more is this 'dys-' disorder.", "response": "What is dysthymia?" }
+      ]
+    },
+    {
+      "name": "Treatments",
+      "clues": [
+        { "value": 200, "clue": "This talk therapy, abbreviated CBT, reframes unhelpful thought patterns.", "response": "What is cognitive behavioral therapy?" },
+        { "value": 400, "clue": "Fluoxetine and sertraline belong to this most-prescribed antidepressant class that raises serotonin.", "response": "What are SSRIs?" },
+        { "value": 600, "clue": "This practice of calm, present-moment awareness is widely used to reduce stress.", "response": "What is mindfulness?" },
+        { "value": 800, "clue": "This mood-stabilizing metal salt remains a classic treatment for bipolar disorder.", "response": "What is lithium?" },
+        { "value": 1000, "clue": "Many antidepressants work by raising levels of this 'feel-good' neurotransmitter.", "response": "What is serotonin?" }
+      ]
+    },
+    {
+      "name": "Brain & Stress",
+      "clues": [
+        { "value": 200, "clue": "This 'fight or flight' hormone surges during sudden acute stress.", "response": "What is adrenaline?" },
+        { "value": 400, "clue": "Released by the adrenal glands during ongoing stress, this is often called the 'stress hormone.'", "response": "What is cortisol?" },
+        { "value": 600, "clue": "This almond-shaped brain region processes fear and threat.", "response": "What is the amygdala?" },
+        { "value": 800, "clue": "This reward-and-motivation neurotransmitter is also tied to addictive behaviors.", "response": "What is dopamine?" },
+        { "value": 1000, "clue": "This seahorse-shaped structure, vital to memory, can shrink under chronic stress.", "response": "What is the hippocampus?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Wellbeing",
+    "clue": "Aerobic exercise lifts mood partly by releasing these natural, pain-relieving 'feel-good' brain chemicals.",
+    "response": "What are endorphins?"
+  }
+}

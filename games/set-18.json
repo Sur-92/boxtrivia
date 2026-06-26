@@ -1,0 +1,60 @@
+{
+  "title": "Prostate & Urinary Health",
+  "categories": [
+    {
+      "name": "The Prostate",
+      "clues": [
+        { "value": 200, "clue": "This walnut-sized gland sits just below the bladder and wraps around the urethra in men.", "response": "What is the prostate?" },
+        { "value": 400, "clue": "The prostate's secretions make up much of this fluid that carries sperm.", "response": "What is semen?" },
+        { "value": 600, "clue": "This tube, encircled by the prostate, carries urine out of the body.", "response": "What is the urethra?" },
+        { "value": 800, "clue": "This male hormone, converted to DHT, drives growth of the prostate.", "response": "What is testosterone?" },
+        { "value": 1000, "clue": "The prostate naturally tends to do this with age, often beginning after 50.", "response": "What is enlarge?" }
+      ]
+    },
+    {
+      "name": "Common Conditions",
+      "clues": [
+        { "value": 200, "clue": "Non-cancerous prostate enlargement is abbreviated BPH, the B and P standing for 'benign prostatic' this.", "response": "What is hyperplasia?" },
+        { "value": 400, "clue": "This is the most commonly diagnosed non-skin cancer in American men.", "response": "What is prostate cancer?" },
+        { "value": 600, "clue": "Inflammation or infection of the prostate gland is this '-itis.'", "response": "What is prostatitis?" },
+        { "value": 800, "clue": "Difficulty achieving or keeping an erection, often vascular and age-related, is abbreviated ED.", "response": "What is erectile dysfunction?" },
+        { "value": 1000, "clue": "A urinary infection that ascends to and inflames the kidney is this 'pyelo-' condition.", "response": "What is pyelonephritis?" }
+      ]
+    },
+    {
+      "name": "Symptoms",
+      "clues": [
+        { "value": 200, "clue": "Waking repeatedly to urinate at night is medically termed this.", "response": "What is nocturia?" },
+        { "value": 400, "clue": "Visible or microscopic blood in the urine carries this medical name.", "response": "What is hematuria?" },
+        { "value": 600, "clue": "Pain or a burning sensation during urination is this term.", "response": "What is dysuria?" },
+        { "value": 800, "clue": "An urgent, frequent need to go with little output points to irritation of this urine-storing organ.", "response": "What is the bladder?" },
+        { "value": 1000, "clue": "A sudden, complete inability to pass urine is this medical emergency, acute urinary ___.", "response": "What is retention?" }
+      ]
+    },
+    {
+      "name": "Screening & Tests",
+      "clues": [
+        { "value": 200, "clue": "This blood test measures a prostate-specific antigen and is abbreviated PSA.", "response": "What is the PSA test?" },
+        { "value": 400, "clue": "A clinician palpates the prostate through the rectal wall in this exam abbreviated DRE.", "response": "What is a digital rectal exam?" },
+        { "value": 600, "clue": "This imaging uses a rectal probe emitting sound waves to view the prostate, abbreviated TRUS.", "response": "What is a transrectal ultrasound?" },
+        { "value": 800, "clue": "Removing a small tissue sample to check for cancer is this procedure.", "response": "What is a biopsy?" },
+        { "value": 1000, "clue": "This '-metry' test measures the strength and rate of a man's urine stream.", "response": "What is uroflowmetry?" }
+      ]
+    },
+    {
+      "name": "Treatments",
+      "clues": [
+        { "value": 200, "clue": "Drugs like tamsulosin, ending in '-osin,' relax the bladder neck to ease flow; this class is named for an 'alpha' receptor.", "response": "What are alpha blockers?" },
+        { "value": 400, "clue": "Finasteride shrinks the prostate by blocking the enzyme that makes DHT, abbreviated 5-ARI.", "response": "What are 5-alpha-reductase inhibitors?" },
+        { "value": 600, "clue": "This common surgery, abbreviated TURP, removes obstructing prostate tissue through the urethra.", "response": "What is transurethral resection of the prostate?" },
+        { "value": 800, "clue": "Sildenafil and tadalafil treat erectile dysfunction as inhibitors of this enzyme abbreviated PDE5.", "response": "What are PDE5 inhibitors?" },
+        { "value": 1000, "clue": "Implanting radioactive 'seeds' directly into the prostate to treat cancer is this internal radiation.", "response": "What is brachytherapy?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Kidneys & Bladder",
+    "clue": "These hard mineral deposits forming in the kidney can cause severe flank pain as they pass.",
+    "response": "What are kidney stones?"
+  }
+}

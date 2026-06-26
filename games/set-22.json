@@ -1,0 +1,60 @@
+{
+  "title": "Bones, Joints & Back",
+  "categories": [
+    {
+      "name": "Conditions",
+      "clues": [
+        { "value": 200, "clue": "This 'wear-and-tear' joint disease is the most common form of arthritis and worsens with age.", "response": "What is osteoarthritis?" },
+        { "value": 400, "clue": "This autoimmune arthritis symmetrically attacks the joint lining; it's abbreviated RA.", "response": "What is rheumatoid arthritis?" },
+        { "value": 600, "clue": "This condition of weakened, low-density bone raises fracture risk, especially after 50.", "response": "What is osteoporosis?" },
+        { "value": 800, "clue": "Caused by uric-acid crystals, this painful arthritis classically flares in the big toe.", "response": "What is gout?" },
+        { "value": 1000, "clue": "A bulging or ruptured cushion between vertebrae pressing on a nerve is a 'herniated' one of these.", "response": "What is a disc?" }
+      ]
+    },
+    {
+      "name": "Anatomy",
+      "clues": [
+        { "value": 200, "clue": "The spine is built from 33 of these stacked bones.", "response": "What are vertebrae?" },
+        { "value": 400, "clue": "This is the longest and strongest bone in the body, in the thigh.", "response": "What is the femur?" },
+        { "value": 600, "clue": "This smooth connective tissue caps the ends of bones and wears away in arthritis.", "response": "What is cartilage?" },
+        { "value": 800, "clue": "These tough bands connect bone to bone and are often torn in knee injuries.", "response": "What are ligaments?" },
+        { "value": 1000, "clue": "The five-vertebra lower-back region of the spine is called this.", "response": "What is the lumbar spine?" }
+      ]
+    },
+    {
+      "name": "Symptoms",
+      "clues": [
+        { "value": 200, "clue": "A leading cause of missed work, pain in the lower spine, eventually affects most adults.", "response": "What is back pain?" },
+        { "value": 400, "clue": "For arthritis sufferers, joint stiffness is usually worst at this time of day.", "response": "What is morning?" },
+        { "value": 600, "clue": "Pain shooting down the leg from a pinched lower-spine nerve is this.", "response": "What is sciatica?" },
+        { "value": 800, "clue": "The grinding or popping sensation felt in a worn joint is this 'crep-' term.", "response": "What is crepitus?" },
+        { "value": 1000, "clue": "Numbness and tingling in the hand from a compressed wrist nerve is this 'tunnel' syndrome.", "response": "What is carpal tunnel syndrome?" }
+      ]
+    },
+    {
+      "name": "Tests & Treatments",
+      "clues": [
+        { "value": 200, "clue": "This radiation-based imaging quickly reveals broken bones.", "response": "What is an X-ray?" },
+        { "value": 400, "clue": "A 'DEXA' scan measures this to diagnose osteoporosis.", "response": "What is bone density?" },
+        { "value": 600, "clue": "Ibuprofen and naproxen belong to this class of nonsteroidal anti-inflammatory pain relievers.", "response": "What are NSAIDs?" },
+        { "value": 800, "clue": "Swapping a worn hip or knee for an artificial implant is this 'arthro-' surgery.", "response": "What is joint replacement?" },
+        { "value": 1000, "clue": "This guided program of exercises and stretches, abbreviated PT, restores movement after injury.", "response": "What is physical therapy?" }
+      ]
+    },
+    {
+      "name": "Prevention",
+      "clues": [
+        { "value": 200, "clue": "This mineral, paired with vitamin D, builds and maintains strong bones.", "response": "What is calcium?" },
+        { "value": 400, "clue": "Made in the skin from sunlight, this vitamin is needed to absorb calcium.", "response": "What is vitamin D?" },
+        { "value": 600, "clue": "Activities like walking and lifting strengthen bone by loading it; this is 'weight-bearing' what?", "response": "What is exercise?" },
+        { "value": 800, "clue": "Lifting with the legs and sitting upright protect the spine by maintaining good this.", "response": "What is posture?" },
+        { "value": 1000, "clue": "Quitting this habit improves bone density and joint health, among many other benefits.", "response": "What is smoking?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Sports & Injury",
+    "clue": "Often torn by athletes who pivot suddenly, this knee ligament is abbreviated ACL.",
+    "response": "What is the anterior cruciate ligament?"
+  }
+}

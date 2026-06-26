@@ -1,0 +1,60 @@
+{
+  "title": "Cancer Screening & Prevention",
+  "categories": [
+    {
+      "name": "Screening Tests",
+      "clues": [
+        { "value": 200, "clue": "This scope exam screens for colorectal cancer and is recommended starting around age 45.", "response": "What is a colonoscopy?" },
+        { "value": 400, "clue": "An at-home stool test checking for hidden blood is abbreviated FIT, the F meaning this.", "response": "What is fecal?" },
+        { "value": 600, "clue": "Low-dose CT scans are used to screen long-term heavy smokers for this cancer.", "response": "What is lung cancer?" },
+        { "value": 800, "clue": "A blood test for a specific antigen, abbreviated PSA, screens for cancer of this gland.", "response": "What is the prostate?" },
+        { "value": 1000, "clue": "Skin exams watch these pigmented spots for changes that may signal melanoma.", "response": "What are moles?" }
+      ]
+    },
+    {
+      "name": "Common Cancers",
+      "clues": [
+        { "value": 200, "clue": "Striking the colon or rectum, this cancer is among the most common in men over 50.", "response": "What is colorectal cancer?" },
+        { "value": 400, "clue": "The leading cause of cancer death in men, usually smoking-related, attacks these organs.", "response": "What are the lungs?" },
+        { "value": 600, "clue": "The most common non-skin cancer in men arises in this walnut-sized gland.", "response": "What is the prostate?" },
+        { "value": 800, "clue": "This deadliest skin cancer arises from the body's pigment-producing cells.", "response": "What is melanoma?" },
+        { "value": 1000, "clue": "Often called 'silent,' this organ's cancer has low survival and ties to smoking and diabetes.", "response": "What is the pancreas?" }
+      ]
+    },
+    {
+      "name": "Warning Signs",
+      "clues": [
+        { "value": 200, "clue": "Unexplained loss of this, without trying, can be a red flag for cancer.", "response": "What is weight?" },
+        { "value": 400, "clue": "A lasting change in these habits, or blood in the stool, may signal colorectal cancer.", "response": "What are bowel habits?" },
+        { "value": 600, "clue": "A persistent one of these, especially in a smoker, warrants checking for lung cancer.", "response": "What is a cough?" },
+        { "value": 800, "clue": "In the ABCDE melanoma rule, the 'A' stands for this lack of matching halves.", "response": "What is asymmetry?" },
+        { "value": 1000, "clue": "Trouble swallowing, with food seeming to stick, can point to cancer of this food tube.", "response": "What is the esophagus?" }
+      ]
+    },
+    {
+      "name": "Risk & Prevention",
+      "clues": [
+        { "value": 200, "clue": "This single habit causes roughly a third of cancer deaths and is the top preventable cause.", "response": "What is smoking?" },
+        { "value": 400, "clue": "Overexposure to these invisible sun rays drives most skin cancers.", "response": "What are ultraviolet rays?" },
+        { "value": 600, "clue": "A vaccine against this virus, abbreviated HPV, prevents cervical and some throat cancers.", "response": "What is human papillomavirus?" },
+        { "value": 800, "clue": "Diets heavy in processed and red ones of these are linked to colorectal cancer.", "response": "What are meats?" },
+        { "value": 1000, "clue": "The bacterium H. pylori raises the risk of cancer in this acid-filled digestive organ.", "response": "What is the stomach?" }
+      ]
+    },
+    {
+      "name": "Terms",
+      "clues": [
+        { "value": 200, "clue": "A non-cancerous tumor that does not invade or spread is called this.", "response": "What is benign?" },
+        { "value": 400, "clue": "A cancerous tumor that invades tissue and spreads is termed this.", "response": "What is malignant?" },
+        { "value": 600, "clue": "The spread of cancer from its origin to distant body sites is this process.", "response": "What is metastasis?" },
+        { "value": 800, "clue": "A physician who specializes in diagnosing and treating cancer is this '-ologist.'", "response": "What is an oncologist?" },
+        { "value": 1000, "clue": "The system rating how far a cancer has progressed, often from I to IV, is this.", "response": "What is staging?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Treatments",
+    "clue": "This treatment aims high-energy beams at tumors to kill cancer cells, distinct from drug-based chemotherapy.",
+    "response": "What is radiation therapy?"
+  }
+}

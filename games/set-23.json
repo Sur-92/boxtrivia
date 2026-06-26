@@ -1,0 +1,60 @@
+{
+  "title": "Lungs & Respiratory",
+  "categories": [
+    {
+      "name": "Anatomy",
+      "clues": [
+        { "value": 200, "clue": "This pair of spongy organs exchanges oxygen and carbon dioxide with the blood.", "response": "What are the lungs?" },
+        { "value": 400, "clue": "This dome-shaped muscle below the chest contracts to draw air in.", "response": "What is the diaphragm?" },
+        { "value": 600, "clue": "Air passes from the throat to the chest through this rigid tube, the windpipe.", "response": "What is the trachea?" },
+        { "value": 800, "clue": "The windpipe splits into two of these branching tubes, one entering each lung.", "response": "What are the bronchi?" },
+        { "value": 1000, "clue": "Gas exchange happens across millions of these tiny air sacs.", "response": "What are alveoli?" }
+      ]
+    },
+    {
+      "name": "Conditions",
+      "clues": [
+        { "value": 200, "clue": "This chronic condition narrows the airways, causing wheezing often triggered by allergens.", "response": "What is asthma?" },
+        { "value": 400, "clue": "Years of smoking commonly cause this progressive lung disease abbreviated COPD.", "response": "What is chronic obstructive pulmonary disease?" },
+        { "value": 600, "clue": "This infection inflames the air sacs, which may fill with fluid or pus.", "response": "What is pneumonia?" },
+        { "value": 800, "clue": "A contagious bacterial lung disease abbreviated TB, this was once called consumption.", "response": "What is tuberculosis?" },
+        { "value": 1000, "clue": "Progressive scarring and stiffening of lung tissue is pulmonary this 'fibro-' condition.", "response": "What is fibrosis?" }
+      ]
+    },
+    {
+      "name": "Symptoms",
+      "clues": [
+        { "value": 200, "clue": "This is the medical term for shortness of breath.", "response": "What is dyspnea?" },
+        { "value": 400, "clue": "A high-pitched whistling sound while breathing, common in asthma, is this.", "response": "What is wheezing?" },
+        { "value": 600, "clue": "Coughing up blood from the respiratory tract is this 'hemo-' term.", "response": "What is hemoptysis?" },
+        { "value": 800, "clue": "A bluish tint of the lips and skin from low oxygen is this 'cyan-' sign.", "response": "What is cyanosis?" },
+        { "value": 1000, "clue": "A productive cough with mucus, lasting months across years, defines the chronic form of this '-itis.'", "response": "What is bronchitis?" }
+      ]
+    },
+    {
+      "name": "Tests & Treatments",
+      "clues": [
+        { "value": 200, "clue": "This handheld device delivers asthma medicine as a fine mist or spray.", "response": "What is an inhaler?" },
+        { "value": 400, "clue": "This 'spiro-' test measures how much and how fast a person can exhale.", "response": "What is spirometry?" },
+        { "value": 600, "clue": "Supplying extra oxygen to patients with low blood levels is this therapy.", "response": "What is oxygen therapy?" },
+        { "value": 800, "clue": "Inhaled medicines like albuterol that quickly open constricted airways are these.", "response": "What are bronchodilators?" },
+        { "value": 1000, "clue": "Clipped to a fingertip, this device measures blood-oxygen saturation.", "response": "What is a pulse oximeter?" }
+      ]
+    },
+    {
+      "name": "Risk & Prevention",
+      "clues": [
+        { "value": 200, "clue": "This single habit causes the vast majority of COPD and lung-cancer cases.", "response": "What is smoking?" },
+        { "value": 400, "clue": "This colorless radioactive gas seeping from soil into homes is the second-leading cause of lung cancer.", "response": "What is radon?" },
+        { "value": 600, "clue": "An annual shot guards vulnerable lungs against this seasonal respiratory virus.", "response": "What is influenza?" },
+        { "value": 800, "clue": "This mineral fiber, once used in insulation, causes mesothelioma and lung scarring.", "response": "What is asbestos?" },
+        { "value": 1000, "clue": "Recommended for older adults, this vaccine guards against a common bacterial cause of pneumonia.", "response": "What is the pneumococcal vaccine?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Breathing Facts",
+    "clue": "At rest, a healthy adult typically takes roughly this many breaths per minute, the low end of the normal range.",
+    "response": "What is 12?"
+  }
+}

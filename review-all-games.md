@@ -1087,3 +1087,479 @@
   → What is Clostridioides difficile?
 
 ---
+
+## Heart & Cardiovascular Health
+
+### Heart Anatomy
+- **$200** — This fist-sized muscular organ pumps roughly 100,000 times a day.  
+  → What is the heart?
+- **$400** — Blood returns first to these two upper receiving chambers of the heart.  
+  → What are the atria?
+- **$600** — This largest artery carries oxygen-rich blood out of the left ventricle to the body.  
+  → What is the aorta?
+- **$800** — These vessels feed the heart muscle itself, and their blockage triggers heart attacks.  
+  → What are the coronary arteries?
+- **$1000** — This natural pacemaker in the right atrium sets the heartbeat, abbreviated SA.  
+  → What is the sinoatrial node?
+
+### Risk Factors
+- **$200** — Often called the 'silent killer,' this elevated force in the arteries is read in mmHg.  
+  → What is high blood pressure?
+- **$400** — This waxy blood lipid, tracked as LDL and HDL, can clog arteries when high.  
+  → What is cholesterol?
+- **$600** — Inhaling tobacco is a leading modifiable cause of cardiovascular disease.  
+  → What is smoking?
+- **$800** — This state of excess body fat, gauged partly by BMI, strains the cardiovascular system.  
+  → What is obesity?
+- **$1000** — High blood pressure, high sugar, abdominal fat and bad lipids together form this 'metabolic' cluster.  
+  → What is metabolic syndrome?
+
+### Conditions
+- **$200** — A heart attack, the death of heart muscle from blocked flow, is medically this, abbreviated MI.  
+  → What is a myocardial infarction?
+- **$400** — This irregular, rapid quivering of the upper chambers sharply raises stroke risk; it's nicknamed A-fib.  
+  → What is atrial fibrillation?
+- **$600** — Chest pain from reduced blood flow to the heart, often on exertion, is this.  
+  → What is angina?
+- **$800** — When the heart can't pump efficiently, fluid backs up and breathlessness results in this failing condition.  
+  → What is heart failure?
+- **$1000** — The buildup of fatty plaque that hardens and narrows arteries is this process.  
+  → What is atherosclerosis?
+
+### Tests & Numbers
+- **$200** — Abbreviated ECG or EKG, this test records the heart's electrical activity.  
+  → What is an electrocardiogram?
+- **$400** — A healthy resting pulse runs about 60 to 100 of these per minute.  
+  → What are beats?
+- **$600** — This ultrasound of the heart shows its chambers and valves in motion.  
+  → What is an echocardiogram?
+- **$800** — A blood-pressure reading of 120 over 80 is classified as this.  
+  → What is normal?
+- **$1000** — A treadmill 'stress test' looks for this reduced blood flow to the heart during exertion.  
+  → What is ischemia?
+
+### Treatments & Meds
+- **$200** — Cholesterol-lowering drugs such as atorvastatin belong to this class ending in '-statin.'  
+  → What are statins?
+- **$400** — A low daily dose of this common pain reliever thins the blood to help prevent clots.  
+  → What is aspirin?
+- **$600** — Drugs like lisinopril, ending in '-pril,' lower pressure by blocking a key enzyme abbreviated ACE.  
+  → What are ACE inhibitors?
+- **$800** — A small mesh tube can be placed to prop open a narrowed artery; name that tube.  
+  → What is a stent?
+- **$1000** — This open-heart surgery, abbreviated CABG, reroutes blood around clogged coronary arteries using grafts.  
+  → What is bypass surgery?
+
+### FINAL — Healthy Lifestyle
+- This plant-forward eating pattern named for a sea region is widely recommended for heart health.  
+  → What is the Mediterranean diet?
+
+---
+
+## Prostate & Urinary Health
+
+### The Prostate
+- **$200** — This walnut-sized gland sits just below the bladder and wraps around the urethra in men.  
+  → What is the prostate?
+- **$400** — The prostate's secretions make up much of this fluid that carries sperm.  
+  → What is semen?
+- **$600** — This tube, encircled by the prostate, carries urine out of the body.  
+  → What is the urethra?
+- **$800** — This male hormone, converted to DHT, drives growth of the prostate.  
+  → What is testosterone?
+- **$1000** — The prostate naturally tends to do this with age, often beginning after 50.  
+  → What is enlarge?
+
+### Common Conditions
+- **$200** — Non-cancerous prostate enlargement is abbreviated BPH, the B and P standing for 'benign prostatic' this.  
+  → What is hyperplasia?
+- **$400** — This is the most commonly diagnosed non-skin cancer in American men.  
+  → What is prostate cancer?
+- **$600** — Inflammation or infection of the prostate gland is this '-itis.'  
+  → What is prostatitis?
+- **$800** — Difficulty achieving or keeping an erection, often vascular and age-related, is abbreviated ED.  
+  → What is erectile dysfunction?
+- **$1000** — A urinary infection that ascends to and inflames the kidney is this 'pyelo-' condition.  
+  → What is pyelonephritis?
+
+### Symptoms
+- **$200** — Waking repeatedly to urinate at night is medically termed this.  
+  → What is nocturia?
+- **$400** — Visible or microscopic blood in the urine carries this medical name.  
+  → What is hematuria?
+- **$600** — Pain or a burning sensation during urination is this term.  
+  → What is dysuria?
+- **$800** — An urgent, frequent need to go with little output points to irritation of this urine-storing organ.  
+  → What is the bladder?
+- **$1000** — A sudden, complete inability to pass urine is this medical emergency, acute urinary ___.  
+  → What is retention?
+
+### Screening & Tests
+- **$200** — This blood test measures a prostate-specific antigen and is abbreviated PSA.  
+  → What is the PSA test?
+- **$400** — A clinician palpates the prostate through the rectal wall in this exam abbreviated DRE.  
+  → What is a digital rectal exam?
+- **$600** — This imaging uses a rectal probe emitting sound waves to view the prostate, abbreviated TRUS.  
+  → What is a transrectal ultrasound?
+- **$800** — Removing a small tissue sample to check for cancer is this procedure.  
+  → What is a biopsy?
+- **$1000** — This '-metry' test measures the strength and rate of a man's urine stream.  
+  → What is uroflowmetry?
+
+### Treatments
+- **$200** — Drugs like tamsulosin, ending in '-osin,' relax the bladder neck to ease flow; this class is named for an 'alpha' receptor.  
+  → What are alpha blockers?
+- **$400** — Finasteride shrinks the prostate by blocking the enzyme that makes DHT, abbreviated 5-ARI.  
+  → What are 5-alpha-reductase inhibitors?
+- **$600** — This common surgery, abbreviated TURP, removes obstructing prostate tissue through the urethra.  
+  → What is transurethral resection of the prostate?
+- **$800** — Sildenafil and tadalafil treat erectile dysfunction as inhibitors of this enzyme abbreviated PDE5.  
+  → What are PDE5 inhibitors?
+- **$1000** — Implanting radioactive 'seeds' directly into the prostate to treat cancer is this internal radiation.  
+  → What is brachytherapy?
+
+### FINAL — Kidneys & Bladder
+- These hard mineral deposits forming in the kidney can cause severe flank pain as they pass.  
+  → What are kidney stones?
+
+---
+
+## Diabetes & Blood Sugar
+
+### The Basics
+- **$200** — This pancreatic hormone lowers blood glucose by helping cells take in sugar.  
+  → What is insulin?
+- **$400** — This simple sugar is the body's main blood-borne fuel.  
+  → What is glucose?
+- **$600** — This organ behind the stomach makes both insulin and digestive enzymes.  
+  → What is the pancreas?
+- **$800** — The insulin-producing 'beta' ones of these reside in the islets of Langerhans.  
+  → What are cells?
+- **$1000** — This pancreatic hormone opposes insulin by raising blood sugar.  
+  → What is glucagon?
+
+### Types & Causes
+- **$200** — In this form, the body makes little or no insulin; it's often diagnosed in childhood.  
+  → What is Type 1 diabetes?
+- **$400** — This far more common form involves insulin resistance and is strongly tied to lifestyle.  
+  → What is Type 2 diabetes?
+- **$600** — Elevated blood sugar that first appears during pregnancy is this form.  
+  → What is gestational diabetes?
+- **$800** — This warning state features higher-than-normal blood sugar that is not yet full diabetes.  
+  → What is prediabetes?
+- **$1000** — When cells stop responding properly to insulin, the body has this 'resistance.'  
+  → What is insulin resistance?
+
+### Symptoms & Complications
+- **$200** — Excessive thirst and frequent urination are classic early signs of high levels of this.  
+  → What is blood sugar?
+- **$400** — Long-term high glucose can damage small nerves, causing numbness in the feet; this is peripheral ___.  
+  → What is neuropathy?
+- **$600** — Diabetes is a leading cause of this damage to the eye's light-sensing retina.  
+  → What is retinopathy?
+- **$800** — Diabetic kidney damage, a top cause of kidney failure, is this 'nephro-' complication.  
+  → What is nephropathy?
+- **$1000** — A Type 1 emergency of high ketones and blood acid is abbreviated DKA, the 'A' meaning keto-this.  
+  → What is acidosis?
+
+### Monitoring
+- **$200** — A small device that pricks the finger and reads sugar is this 'glucose' tool.  
+  → What is a glucose meter?
+- **$400** — This blood test, reported as a percentage, reflects average glucose over about three months.  
+  → What is the A1C test?
+- **$600** — A wearable sensor giving real-time readings is a continuous glucose monitor, abbreviated this.  
+  → What is a CGM?
+- **$800** — A 'fasting' glucose test requires going at least this many hours without eating.  
+  → What is eight?
+- **$1000** — Dangerously low blood sugar, bringing shakiness and confusion, is this 'hypo-' condition.  
+  → What is hypoglycemia?
+
+### Treatment & Diet
+- **$200** — People with Type 1 must take this hormone by injection or pump.  
+  → What is insulin?
+- **$400** — This first-line oral drug for Type 2 mainly cuts the liver's glucose output.  
+  → What is metformin?
+- **$600** — This 'glycemic' ranking measures how quickly a carbohydrate raises blood sugar.  
+  → What is the glycemic index?
+- **$800** — Injectable drugs like semaglutide that curb appetite and sugar are abbreviated GLP-1 ___.  
+  → What are GLP-1 agonists?
+- **$1000** — A severe low can be reversed with an emergency injection of this insulin-opposing hormone.  
+  → What is glucagon?
+
+### FINAL — Endocrine System
+- This butterfly-shaped neck gland sets the body's metabolic rate via hormones T3 and T4.  
+  → What is the thyroid?
+
+---
+
+## Cancer Screening & Prevention
+
+### Screening Tests
+- **$200** — This scope exam screens for colorectal cancer and is recommended starting around age 45.  
+  → What is a colonoscopy?
+- **$400** — An at-home stool test checking for hidden blood is abbreviated FIT, the F meaning this.  
+  → What is fecal?
+- **$600** — Low-dose CT scans are used to screen long-term heavy smokers for this cancer.  
+  → What is lung cancer?
+- **$800** — A blood test for a specific antigen, abbreviated PSA, screens for cancer of this gland.  
+  → What is the prostate?
+- **$1000** — Skin exams watch these pigmented spots for changes that may signal melanoma.  
+  → What are moles?
+
+### Common Cancers
+- **$200** — Striking the colon or rectum, this cancer is among the most common in men over 50.  
+  → What is colorectal cancer?
+- **$400** — The leading cause of cancer death in men, usually smoking-related, attacks these organs.  
+  → What are the lungs?
+- **$600** — The most common non-skin cancer in men arises in this walnut-sized gland.  
+  → What is the prostate?
+- **$800** — This deadliest skin cancer arises from the body's pigment-producing cells.  
+  → What is melanoma?
+- **$1000** — Often called 'silent,' this organ's cancer has low survival and ties to smoking and diabetes.  
+  → What is the pancreas?
+
+### Warning Signs
+- **$200** — Unexplained loss of this, without trying, can be a red flag for cancer.  
+  → What is weight?
+- **$400** — A lasting change in these habits, or blood in the stool, may signal colorectal cancer.  
+  → What are bowel habits?
+- **$600** — A persistent one of these, especially in a smoker, warrants checking for lung cancer.  
+  → What is a cough?
+- **$800** — In the ABCDE melanoma rule, the 'A' stands for this lack of matching halves.  
+  → What is asymmetry?
+- **$1000** — Trouble swallowing, with food seeming to stick, can point to cancer of this food tube.  
+  → What is the esophagus?
+
+### Risk & Prevention
+- **$200** — This single habit causes roughly a third of cancer deaths and is the top preventable cause.  
+  → What is smoking?
+- **$400** — Overexposure to these invisible sun rays drives most skin cancers.  
+  → What are ultraviolet rays?
+- **$600** — A vaccine against this virus, abbreviated HPV, prevents cervical and some throat cancers.  
+  → What is human papillomavirus?
+- **$800** — Diets heavy in processed and red ones of these are linked to colorectal cancer.  
+  → What are meats?
+- **$1000** — The bacterium H. pylori raises the risk of cancer in this acid-filled digestive organ.  
+  → What is the stomach?
+
+### Terms
+- **$200** — A non-cancerous tumor that does not invade or spread is called this.  
+  → What is benign?
+- **$400** — A cancerous tumor that invades tissue and spreads is termed this.  
+  → What is malignant?
+- **$600** — The spread of cancer from its origin to distant body sites is this process.  
+  → What is metastasis?
+- **$800** — A physician who specializes in diagnosing and treating cancer is this '-ologist.'  
+  → What is an oncologist?
+- **$1000** — The system rating how far a cancer has progressed, often from I to IV, is this.  
+  → What is staging?
+
+### FINAL — Treatments
+- This treatment aims high-energy beams at tumors to kill cancer cells, distinct from drug-based chemotherapy.  
+  → What is radiation therapy?
+
+---
+
+## Mental Health & Sleep
+
+### Conditions
+- **$200** — This common mood disorder is marked by persistent sadness and loss of interest.  
+  → What is depression?
+- **$400** — Excessive, hard-to-control worry and tension define this disorder, the 'generalized' form abbreviated GAD.  
+  → What is anxiety?
+- **$600** — Swings between depressive lows and manic highs mark this disorder, once called manic depression.  
+  → What is bipolar disorder?
+- **$800** — After trauma, flashbacks and hypervigilance may signal this disorder abbreviated PTSD.  
+  → What is post-traumatic stress disorder?
+- **$1000** — Compulsive, harmful drinking despite consequences is this 'use disorder.'  
+  → What is alcohol use disorder?
+
+### Sleep
+- **$200** — Most adults are advised to get at least this many hours of sleep nightly, the low end of the range.  
+  → What is seven?
+- **$400** — This disorder causes repeated pauses in breathing during sleep; it's the 'sleep' ___.  
+  → What is apnea?
+- **$600** — Persistent difficulty falling or staying asleep is this condition.  
+  → What is insomnia?
+- **$800** — The sleep stage of darting eyes and vivid dreaming is abbreviated this.  
+  → What is REM?
+- **$1000** — A bedside machine delivering pressurized air to keep airways open, abbreviated CPAP, treats this sleep disorder.  
+  → What is sleep apnea?
+
+### Symptoms
+- **$200** — Persistent tiredness and low energy, common in depression, is this.  
+  → What is fatigue?
+- **$400** — The inability to feel pleasure in normally enjoyable activities is this 'an-' term.  
+  → What is anhedonia?
+- **$600** — A racing heart, sweating and sudden dread peaking within minutes describe one of these 'attacks.'  
+  → What is a panic attack?
+- **$800** — Trouble concentrating and mental haziness from stress and poor sleep is nicknamed brain this.  
+  → What is fog?
+- **$1000** — Chronic low-grade depression lasting two years or more is this 'dys-' disorder.  
+  → What is dysthymia?
+
+### Treatments
+- **$200** — This talk therapy, abbreviated CBT, reframes unhelpful thought patterns.  
+  → What is cognitive behavioral therapy?
+- **$400** — Fluoxetine and sertraline belong to this most-prescribed antidepressant class that raises serotonin.  
+  → What are SSRIs?
+- **$600** — This practice of calm, present-moment awareness is widely used to reduce stress.  
+  → What is mindfulness?
+- **$800** — This mood-stabilizing metal salt remains a classic treatment for bipolar disorder.  
+  → What is lithium?
+- **$1000** — Many antidepressants work by raising levels of this 'feel-good' neurotransmitter.  
+  → What is serotonin?
+
+### Brain & Stress
+- **$200** — This 'fight or flight' hormone surges during sudden acute stress.  
+  → What is adrenaline?
+- **$400** — Released by the adrenal glands during ongoing stress, this is often called the 'stress hormone.'  
+  → What is cortisol?
+- **$600** — This almond-shaped brain region processes fear and threat.  
+  → What is the amygdala?
+- **$800** — This reward-and-motivation neurotransmitter is also tied to addictive behaviors.  
+  → What is dopamine?
+- **$1000** — This seahorse-shaped structure, vital to memory, can shrink under chronic stress.  
+  → What is the hippocampus?
+
+### FINAL — Wellbeing
+- Aerobic exercise lifts mood partly by releasing these natural, pain-relieving 'feel-good' brain chemicals.  
+  → What are endorphins?
+
+---
+
+## Bones, Joints & Back
+
+### Conditions
+- **$200** — This 'wear-and-tear' joint disease is the most common form of arthritis and worsens with age.  
+  → What is osteoarthritis?
+- **$400** — This autoimmune arthritis symmetrically attacks the joint lining; it's abbreviated RA.  
+  → What is rheumatoid arthritis?
+- **$600** — This condition of weakened, low-density bone raises fracture risk, especially after 50.  
+  → What is osteoporosis?
+- **$800** — Caused by uric-acid crystals, this painful arthritis classically flares in the big toe.  
+  → What is gout?
+- **$1000** — A bulging or ruptured cushion between vertebrae pressing on a nerve is a 'herniated' one of these.  
+  → What is a disc?
+
+### Anatomy
+- **$200** — The spine is built from 33 of these stacked bones.  
+  → What are vertebrae?
+- **$400** — This is the longest and strongest bone in the body, in the thigh.  
+  → What is the femur?
+- **$600** — This smooth connective tissue caps the ends of bones and wears away in arthritis.  
+  → What is cartilage?
+- **$800** — These tough bands connect bone to bone and are often torn in knee injuries.  
+  → What are ligaments?
+- **$1000** — The five-vertebra lower-back region of the spine is called this.  
+  → What is the lumbar spine?
+
+### Symptoms
+- **$200** — A leading cause of missed work, pain in the lower spine, eventually affects most adults.  
+  → What is back pain?
+- **$400** — For arthritis sufferers, joint stiffness is usually worst at this time of day.  
+  → What is morning?
+- **$600** — Pain shooting down the leg from a pinched lower-spine nerve is this.  
+  → What is sciatica?
+- **$800** — The grinding or popping sensation felt in a worn joint is this 'crep-' term.  
+  → What is crepitus?
+- **$1000** — Numbness and tingling in the hand from a compressed wrist nerve is this 'tunnel' syndrome.  
+  → What is carpal tunnel syndrome?
+
+### Tests & Treatments
+- **$200** — This radiation-based imaging quickly reveals broken bones.  
+  → What is an X-ray?
+- **$400** — A 'DEXA' scan measures this to diagnose osteoporosis.  
+  → What is bone density?
+- **$600** — Ibuprofen and naproxen belong to this class of nonsteroidal anti-inflammatory pain relievers.  
+  → What are NSAIDs?
+- **$800** — Swapping a worn hip or knee for an artificial implant is this 'arthro-' surgery.  
+  → What is joint replacement?
+- **$1000** — This guided program of exercises and stretches, abbreviated PT, restores movement after injury.  
+  → What is physical therapy?
+
+### Prevention
+- **$200** — This mineral, paired with vitamin D, builds and maintains strong bones.  
+  → What is calcium?
+- **$400** — Made in the skin from sunlight, this vitamin is needed to absorb calcium.  
+  → What is vitamin D?
+- **$600** — Activities like walking and lifting strengthen bone by loading it; this is 'weight-bearing' what?  
+  → What is exercise?
+- **$800** — Lifting with the legs and sitting upright protect the spine by maintaining good this.  
+  → What is posture?
+- **$1000** — Quitting this habit improves bone density and joint health, among many other benefits.  
+  → What is smoking?
+
+### FINAL — Sports & Injury
+- Often torn by athletes who pivot suddenly, this knee ligament is abbreviated ACL.  
+  → What is the anterior cruciate ligament?
+
+---
+
+## Lungs & Respiratory
+
+### Anatomy
+- **$200** — This pair of spongy organs exchanges oxygen and carbon dioxide with the blood.  
+  → What are the lungs?
+- **$400** — This dome-shaped muscle below the chest contracts to draw air in.  
+  → What is the diaphragm?
+- **$600** — Air passes from the throat to the chest through this rigid tube, the windpipe.  
+  → What is the trachea?
+- **$800** — The windpipe splits into two of these branching tubes, one entering each lung.  
+  → What are the bronchi?
+- **$1000** — Gas exchange happens across millions of these tiny air sacs.  
+  → What are alveoli?
+
+### Conditions
+- **$200** — This chronic condition narrows the airways, causing wheezing often triggered by allergens.  
+  → What is asthma?
+- **$400** — Years of smoking commonly cause this progressive lung disease abbreviated COPD.  
+  → What is chronic obstructive pulmonary disease?
+- **$600** — This infection inflames the air sacs, which may fill with fluid or pus.  
+  → What is pneumonia?
+- **$800** — A contagious bacterial lung disease abbreviated TB, this was once called consumption.  
+  → What is tuberculosis?
+- **$1000** — Progressive scarring and stiffening of lung tissue is pulmonary this 'fibro-' condition.  
+  → What is fibrosis?
+
+### Symptoms
+- **$200** — This is the medical term for shortness of breath.  
+  → What is dyspnea?
+- **$400** — A high-pitched whistling sound while breathing, common in asthma, is this.  
+  → What is wheezing?
+- **$600** — Coughing up blood from the respiratory tract is this 'hemo-' term.  
+  → What is hemoptysis?
+- **$800** — A bluish tint of the lips and skin from low oxygen is this 'cyan-' sign.  
+  → What is cyanosis?
+- **$1000** — A productive cough with mucus, lasting months across years, defines the chronic form of this '-itis.'  
+  → What is bronchitis?
+
+### Tests & Treatments
+- **$200** — This handheld device delivers asthma medicine as a fine mist or spray.  
+  → What is an inhaler?
+- **$400** — This 'spiro-' test measures how much and how fast a person can exhale.  
+  → What is spirometry?
+- **$600** — Supplying extra oxygen to patients with low blood levels is this therapy.  
+  → What is oxygen therapy?
+- **$800** — Inhaled medicines like albuterol that quickly open constricted airways are these.  
+  → What are bronchodilators?
+- **$1000** — Clipped to a fingertip, this device measures blood-oxygen saturation.  
+  → What is a pulse oximeter?
+
+### Risk & Prevention
+- **$200** — This single habit causes the vast majority of COPD and lung-cancer cases.  
+  → What is smoking?
+- **$400** — This colorless radioactive gas seeping from soil into homes is the second-leading cause of lung cancer.  
+  → What is radon?
+- **$600** — An annual shot guards vulnerable lungs against this seasonal respiratory virus.  
+  → What is influenza?
+- **$800** — This mineral fiber, once used in insulation, causes mesothelioma and lung scarring.  
+  → What is asbestos?
+- **$1000** — Recommended for older adults, this vaccine guards against a common bacterial cause of pneumonia.  
+  → What is the pneumococcal vaccine?
+
+### FINAL — Breathing Facts
+- At rest, a healthy adult typically takes roughly this many breaths per minute, the low end of the normal range.  
+  → What is 12?
+
+---
