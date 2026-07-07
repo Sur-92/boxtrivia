@@ -1,0 +1,60 @@
+{
+  "title": "All About Crocheting",
+  "categories": [
+    {
+      "name": "Basic Stitches",
+      "clues": [
+        { "value": 200, "clue": "Abbreviated 'ch,' this foundation row of interlocking loops begins most projects.", "response": "What is the chain?" },
+        { "value": 400, "clue": "The shortest, tightest basic stitch, abbreviated 'sc' in U.S. patterns, is this.", "response": "What is single crochet?" },
+        { "value": 600, "clue": "Taller and abbreviated 'dc' in U.S. terms, this stitch begins with one yarn over before inserting the hook.", "response": "What is double crochet?" },
+        { "value": 800, "clue": "Nearly flat and abbreviated 'sl st,' this move joins rounds or travels across without adding height.", "response": "What is the slip stitch?" },
+        { "value": 1000, "clue": "Even taller than a double, this U.S. 'tr' stitch starts with two yarn overs.", "response": "What is treble crochet?" }
+      ]
+    },
+    {
+      "name": "Tools & Materials",
+      "clues": [
+        { "value": 200, "clue": "This hooked implement, sized by millimeters and letters, is the craft's defining tool.", "response": "What is a crochet hook?" },
+        { "value": 400, "clue": "This count of stitches and rows per inch determines whether a finished piece comes out the intended size.", "response": "What is gauge?" },
+        { "value": 600, "clue": "Yarn is graded into these thickness categories, from lace and fingering up through bulky.", "response": "What are yarn weights?" },
+        { "value": 800, "clue": "This natural protein fiber shorn from sheep is a classic material, though acrylic is cheaper.", "response": "What is wool?" },
+        { "value": 1000, "clue": "These small clips or rings are placed on the work to track counts and pattern positions.", "response": "What are stitch markers?" }
+      ]
+    },
+    {
+      "name": "Techniques",
+      "clues": [
+        { "value": 200, "clue": "This Japanese-derived technique produces small stuffed animals and figures.", "response": "What is amigurumi?" },
+        { "value": 400, "clue": "This classic motif, worked outward in rounds and joined into blankets, shares its name with a grandmother.", "response": "What is a granny square?" },
+        { "value": 600, "clue": "This adjustable loop start, cinched shut after the first round, prevents a center hole in amigurumi.", "response": "What is the magic ring?" },
+        { "value": 800, "clue": "Wetting or steaming a finished piece to set its final shape and dimensions is this process.", "response": "What is blocking?" },
+        { "value": 1000, "clue": "Crocheters jokingly use this amphibian-inspired term for ripping out stitches ('rip it, rip it').", "response": "What is frogging?" }
+      ]
+    },
+    {
+      "name": "Terms & Abbreviations",
+      "clues": [
+        { "value": 200, "clue": "Abbreviated 'yo,' this fundamental motion wraps the working strand around the hook.", "response": "What is a yarn over?" },
+        { "value": 400, "clue": "The extra chains at a row's start that raise the working strand to the proper height are the 'turning' these.", "response": "What is a turning chain?" },
+        { "value": 600, "clue": "An unfinished project, abbreviated WIP, is a 'work in' this.", "response": "What is progress?" },
+        { "value": 800, "clue": "Working two stitches together to lower the count, abbreviated 'dec,' is this.", "response": "What is a decrease?" },
+        { "value": 1000, "clue": "U.S. and this nation's terms clash: the U.S. 'single crochet' equals their 'double crochet.'", "response": "What is the United Kingdom?" }
+      ]
+    },
+    {
+      "name": "History & Style",
+      "clues": [
+        { "value": 200, "clue": "Unlike knitting, which uses two needles, this craft is worked with just this many hooks.", "response": "What is one?" },
+        { "value": 400, "clue": "This looped-fabric craft takes its name from the French word for 'hook.'", "response": "What is crochet?" },
+        { "value": 600, "clue": "Worked on a long hook that holds many loops at once, this hybrid style is named for a North African country.", "response": "What is Tunisian crochet?" },
+        { "value": 800, "clue": "Covering public poles and statues in colorful yarn cozies is this guerrilla street-art movement.", "response": "What is yarn bombing?" },
+        { "value": 1000, "clue": "During the 1840s Great Famine, fine thread crochet gave impoverished Irish workers this to survive.", "response": "What is income?" }
+      ]
+    }
+  ],
+  "final": {
+    "category": "Yarn & Fiber",
+    "clue": "Yarn spun from the soft coat of this South American camelid, a relative of the llama, is prized by crafters.",
+    "response": "What is an alpaca?"
+  }
+}

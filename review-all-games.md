@@ -1563,3 +1563,71 @@
   → What is 12?
 
 ---
+
+## All About Crocheting
+
+### Basic Stitches
+- **$200** — Abbreviated 'ch,' this foundation row of interlocking loops begins most projects.  
+  → What is the chain?
+- **$400** — The shortest, tightest basic stitch, abbreviated 'sc' in U.S. patterns, is this.  
+  → What is single crochet?
+- **$600** — Taller and abbreviated 'dc' in U.S. terms, this stitch begins with one yarn over before inserting the hook.  
+  → What is double crochet?
+- **$800** — Nearly flat and abbreviated 'sl st,' this move joins rounds or travels across without adding height.  
+  → What is the slip stitch?
+- **$1000** — Even taller than a double, this U.S. 'tr' stitch starts with two yarn overs.  
+  → What is treble crochet?
+
+### Tools & Materials
+- **$200** — This hooked implement, sized by millimeters and letters, is the craft's defining tool.  
+  → What is a crochet hook?
+- **$400** — This count of stitches and rows per inch determines whether a finished piece comes out the intended size.  
+  → What is gauge?
+- **$600** — Yarn is graded into these thickness categories, from lace and fingering up through bulky.  
+  → What are yarn weights?
+- **$800** — This natural protein fiber shorn from sheep is a classic material, though acrylic is cheaper.  
+  → What is wool?
+- **$1000** — These small clips or rings are placed on the work to track counts and pattern positions.  
+  → What are stitch markers?
+
+### Techniques
+- **$200** — This Japanese-derived technique produces small stuffed animals and figures.  
+  → What is amigurumi?
+- **$400** — This classic motif, worked outward in rounds and joined into blankets, shares its name with a grandmother.  
+  → What is a granny square?
+- **$600** — This adjustable loop start, cinched shut after the first round, prevents a center hole in amigurumi.  
+  → What is the magic ring?
+- **$800** — Wetting or steaming a finished piece to set its final shape and dimensions is this process.  
+  → What is blocking?
+- **$1000** — Crocheters jokingly use this amphibian-inspired term for ripping out stitches ('rip it, rip it').  
+  → What is frogging?
+
+### Terms & Abbreviations
+- **$200** — Abbreviated 'yo,' this fundamental motion wraps the working strand around the hook.  
+  → What is a yarn over?
+- **$400** — The extra chains at a row's start that raise the working strand to the proper height are the 'turning' these.  
+  → What is a turning chain?
+- **$600** — An unfinished project, abbreviated WIP, is a 'work in' this.  
+  → What is progress?
+- **$800** — Working two stitches together to lower the count, abbreviated 'dec,' is this.  
+  → What is a decrease?
+- **$1000** — U.S. and this nation's terms clash: the U.S. 'single crochet' equals their 'double crochet.'  
+  → What is the United Kingdom?
+
+### History & Style
+- **$200** — Unlike knitting, which uses two needles, this craft is worked with just this many hooks.  
+  → What is one?
+- **$400** — This looped-fabric craft takes its name from the French word for 'hook.'  
+  → What is crochet?
+- **$600** — Worked on a long hook that holds many loops at once, this hybrid style is named for a North African country.  
+  → What is Tunisian crochet?
+- **$800** — Covering public poles and statues in colorful yarn cozies is this guerrilla street-art movement.  
+  → What is yarn bombing?
+- **$1000** — During the 1840s Great Famine, fine thread crochet gave impoverished Irish workers this to survive.  
+  → What is income?
+
+### FINAL — Yarn & Fiber
+- Yarn spun from the soft coat of this South American camelid, a relative of the llama, is prized by crafters.  
+  → What is an alpaca?
+
+---
